@@ -5,7 +5,7 @@
     android:id="@+id/relativeLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MenuActivity">
+    tools:context=".activities.MenuActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -14,7 +14,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <Button
                 android:id="@+id/buttonNewGame"
@@ -22,12 +22,6 @@
                 android:layout_height="wrap_content"
                 android:onClick="newGameOnClick"
                 android:text="Nowa gra" />
-
-            <Button
-                android:id="@+id/buttonScores"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Wyniki" />
 
             <Button
                 android:id="@+id/buttonExit"
