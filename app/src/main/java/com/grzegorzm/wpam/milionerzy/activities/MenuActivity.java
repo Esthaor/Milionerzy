@@ -5,9 +5,12 @@ import android.database.Cursor;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 import com.grzegorzm.wpam.milionerzy.R;
+import com.grzegorzm.wpam.milionerzy.logic.GameSingleton;
+import com.grzegorzm.wpam.milionerzy.logic.QuestionAsked;
 import com.grzegorzm.wpam.milionerzy.model.data.QuestionDbAdapter;
 import com.grzegorzm.wpam.milionerzy.model.data.QuestionPopulator;
 import com.grzegorzm.wpam.milionerzy.model.entity.Question;
@@ -17,8 +20,9 @@ import java.util.List;
 import java.util.Random;
 
 public class MenuActivity extends AppCompatActivity {
-    public static final String EXTRA_MESSAGE = "com.grzegorzm.milionerzy.MESSAGE";
     public static QuestionDbAdapter dbAdapter;
+
+    private GameSingleton gs = GameSingleton.getInstance();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,15 +30,23 @@ public class MenuActivity extends AppCompatActivity {
         dbAdapter = new QuestionDbAdapter(getApplicationContext());
         dbAdapter.open();
         setContentView(R.layout.activity_menu);
+
+        Button resumeButton = findViewById(R.id.buttonResume);
+        if (gs.getLastQuestion() != null) {
+            resumeButton.setVisibility(View.VISIBLE);
+        } else {
+            resumeButton.setVisibility(View.GONE);
+        }
     }
 
     public void newGameOnClick(View view) {
         Intent intent = new Intent(this, QuestionActivity.class);
-        List<Question> questions = dbAdapter.getAllQuestionFromThreshold(500);
-        Random r = new Random();
-        int i = r.nextInt(questions.size());
-        Question q = questions.get(i);
-        intent.putExtra(EXTRA_MESSAGE, q.getQuestionText());
+        gs.startGame();
+        startActivity(intent);
+    }
+
+    public void resumeOnClick(View view) {
+        Intent intent = new Intent(this, QuestionActivity.class);
         startActivity(intent);
     }
 
