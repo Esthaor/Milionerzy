@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.Random;
 
 public class MenuActivity extends AppCompatActivity {
-    public static final String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
+    public static final String EXTRA_MESSAGE = "com.grzegorzm.milionerzy.MESSAGE";
     public static QuestionDbAdapter dbAdapter;
 
     @Override
@@ -25,7 +25,6 @@ public class MenuActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         dbAdapter = new QuestionDbAdapter(getApplicationContext());
         dbAdapter.open();
-        QuestionPopulator.createDatabase(dbAdapter);
         setContentView(R.layout.activity_menu);
     }
 

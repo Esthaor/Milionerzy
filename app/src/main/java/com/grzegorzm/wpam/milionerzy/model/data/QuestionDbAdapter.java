@@ -16,9 +16,9 @@ import java.util.List;
 public class QuestionDbAdapter {
     private static final String DEBUG_TAG = "SqLiteQuestionManager";
 
-    private static final int DB_VERSION = 3;
+    private static final int DB_VERSION = 5;
     private static final String DB_NAME = "database.db";
-    private static final String DB_QUESTION_TABLE = "question";
+    static final String DB_QUESTION_TABLE = "question";
 
     public static final String KEY_ID = "_id";
     public static final int ID_COLUMN = 0;
@@ -73,23 +73,6 @@ public class QuestionDbAdapter {
         dbHelper.close();
     }
 
-    public long insertQuestion(String text, Integer threshold, String correctAnswer, String possibleAnswer0,
-                               String possibleAnswer1, String possibleAnswer2) {
-        ContentValues newQuestionValues = new ContentValues();
-        newQuestionValues.put(KEY_THRESHOLD, threshold);
-        newQuestionValues.put(KEY_QUESTION_TEXT, text);
-        newQuestionValues.put(KEY_CORRECT_ANSWER, correctAnswer);
-        newQuestionValues.put(KEY_POSSIBLE_ANSWER_0, possibleAnswer0);
-        newQuestionValues.put(KEY_POSSIBLE_ANSWER_1, possibleAnswer1);
-        newQuestionValues.put(KEY_POSSIBLE_ANSWER_2, possibleAnswer2);
-        return db.insert(DB_QUESTION_TABLE, null, newQuestionValues);
-    }
-
-    public boolean deleteQuestion(long id) {
-        String where = KEY_ID + "=" + id;
-        return db.delete(DB_QUESTION_TABLE, where, null) > 0;
-    }
-
     public List<Question> getAllQuestionFromThreshold(int threshold) {
         String[] columns = {KEY_ID, KEY_THRESHOLD, KEY_QUESTION_TEXT, KEY_CORRECT_ANSWER,
                 KEY_POSSIBLE_ANSWER_0, KEY_POSSIBLE_ANSWER_1, KEY_POSSIBLE_ANSWER_2};
@@ -112,16 +95,20 @@ public class QuestionDbAdapter {
     }
 
     private static class DatabaseHelper extends SQLiteOpenHelper {
+        private Context context;
+
         public DatabaseHelper(Context context, String name,
                               SQLiteDatabase.CursorFactory factory, int version) {
             super(context, name, factory, version);
+            this.context = context;
         }
 
         @Override
-        public void onCreate(SQLiteDatabase db) {
+        public void onCreate(SQLiteDatabase sqldb) {
             Log.d(DEBUG_TAG, "Database creating...");
 
-            db.execSQL(DB_CREATE_QUESTION_TABLE);
+            sqldb.execSQL(DB_CREATE_QUESTION_TABLE);
+            QuestionPopulator.createDatabase(sqldb);
 
             Log.d(DEBUG_TAG, "Table " + DB_QUESTION_TABLE + " ver." + DB_VERSION + " created");
         }
