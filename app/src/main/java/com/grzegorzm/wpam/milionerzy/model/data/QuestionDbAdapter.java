@@ -16,7 +16,7 @@ import java.util.List;
 public class QuestionDbAdapter {
     private static final String DEBUG_TAG = "SqLiteQuestionManager";
 
-    private static final int DB_VERSION = 5;
+    private static final int DB_VERSION = 6;
     private static final String DB_NAME = "database.db";
     static final String DB_QUESTION_TABLE = "question";
 
