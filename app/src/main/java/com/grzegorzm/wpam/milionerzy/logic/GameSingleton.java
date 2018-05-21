@@ -42,17 +42,25 @@ public class GameSingleton {
         boolean res = lastQuestion.answerQuestion(answer);
         if (res) {
             lastLevel++;
-            if (lastLevel != thresholds.length){
+            if (lastLevel != thresholds.length) {
                 totalPoints += lastQuestion.questionPoints();
                 generateNextQuestion();
-            }
-            else
+            } else
                 lastQuestion = null;
-        }
+        } else
+            lastQuestion = null;
         return res;
     }
 
     public QuestionAsked getLastQuestion() {
         return lastQuestion;
+    }
+
+    public int getLastLevel() {
+        return lastLevel;
+    }
+
+    public int getTotalPoints() {
+        return totalPoints;
     }
 }

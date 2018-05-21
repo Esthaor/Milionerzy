@@ -56,6 +56,17 @@ public class MenuActivity extends AppCompatActivity {
     }
 
     @Override
+    protected void onResume() {
+        super.onResume();
+        Button resumeButton = findViewById(R.id.buttonResume);
+        if (gs.getLastQuestion() != null) {
+            resumeButton.setVisibility(View.VISIBLE);
+        } else {
+            resumeButton.setVisibility(View.GONE);
+        }
+    }
+
+    @Override
     protected void onDestroy() {
         if (dbAdapter != null)
             dbAdapter.close();

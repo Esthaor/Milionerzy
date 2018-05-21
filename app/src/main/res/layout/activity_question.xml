@@ -7,8 +7,109 @@
     tools:context=".activities.QuestionActivity">
 
     <ScrollView
+        android:id="@+id/scrollViewThreshold"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewLevel12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="1 000 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="500 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="250 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel09"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="125 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel08"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="75 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel07"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="40 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel06"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="20 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel05"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="10 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel04"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="5 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel03"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="2 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="1 000" />
+
+            <TextView
+                android:id="@+id/textViewLevel01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="500" />
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/scrollViewQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -28,37 +129,71 @@
                 android:id="@+id/buttonAnswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Answer 1"
                 android:onClick="answerOnClick"
+                android:text="Answer 1"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
+
             <Button
                 android:id="@+id/buttonAnswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Answer 2"
                 android:onClick="answerOnClick"
+                android:text="Answer 2"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"/>
+                app:layout_constraintStart_toStartOf="parent" />
 
             <Button
                 android:id="@+id/buttonAnswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Answer 3"
                 android:onClick="answerOnClick"
+                android:text="Answer 3"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"/>
+                app:layout_constraintStart_toStartOf="parent" />
 
             <Button
                 android:id="@+id/buttonAnswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Answer 4"
                 android:onClick="answerOnClick"
+                android:text="Answer 4"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"/>
+                app:layout_constraintStart_toStartOf="parent" />
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/scrollViewScore"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Final Score: " />
+
+            <Button
+                android:id="@+id/buttonOk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:onClick="okOnClick"
+                android:text="Menu"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
         </LinearLayout>
     </ScrollView>
 
