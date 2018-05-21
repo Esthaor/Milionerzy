@@ -1,4 +1,4 @@
-﻿<new>500
+<new>500
 
 Zwarta grupa zawodników jadących w wyścigu kolarskim to:
 aktyw
@@ -608,7 +608,7 @@ ciastka
 
 Jaki symbol chemiczny ma tlen?
 Ca
-<TRUE>O
+<true>O
 Fe
 H
 
@@ -1833,21 +1833,18 @@ mięczak
 głowonóg
 
 Sprawy codzienne, przyziemne to:
-
 chleb kamienny
 chleb świętojański
 chleb żałobny
 <true>chleb powszedni
 
 Gdzie w 1963 roku zastrzelono J. F. Kennedy’ego?
-
 w Los Angeles
 <true>w Dallas
 w Atlancie
 w Phoenix
 
 W jaki sposób do lata zmierzała wokalistka zespołu Bajm – Beata Kozidrak?
-
 <true>piechotą
 kajakiem
 autostopem
@@ -2452,7 +2449,7 @@ orła
 Kształt jakiej litery ma bramka w rugby?
 U
 Y
-<TRUE>H
+<true>H
 T
 
 Miejsce w kościele w kształcie „szafki”, służące do przechowywania Najświętszego Sakramentu to:
@@ -4528,7 +4525,7 @@ homo insipiens
 homo sovieticus
 
 Która z niemieckich wunderwaffe była bezzałogowym samolotem-bombą?
-<TRUE>V-1
+<true>V-1
 V-2
 V-3
 Neger
@@ -5661,7 +5658,7 @@ Ryszard III
 Układ elektropneumatycznego sterowania hamulców w samochodach ciężarowych to:
 CCS
 ABS
-<TRUE>EBS
+<true>EBS
 ATC
 
 Chorobliwe napady krótkotrwałego snu pojawiające się w ciągu dnia to:
