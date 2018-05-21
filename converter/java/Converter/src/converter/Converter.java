@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
@@ -39,9 +41,19 @@ public class Converter {
                 String[] q = s.split("\n");
                 String questionText = q[0];
                 String correctAnswer = q[1].startsWith("<true>") ? q[1].substring(6) : q[2].startsWith("<true>") ? q[2].substring(6) : q[3].startsWith("<true>") ? q[3].substring(6) : q[4].substring(6);
-                String answer0 = q[1].startsWith("<true>") ? q[2] : q[1];
-                String answer1 = q[2].startsWith("<true>") ? q[3] : q[2];
-                String answer2 = q[3].startsWith("<true>") ? q[4] : q[3];
+                List<String> temp = new ArrayList<>();
+                if (!q[1].startsWith("<true>"))
+                    temp.add(q[1]);
+                if (!q[2].startsWith("<true>"))
+                    temp.add(q[2]);
+                if (!q[3].startsWith("<true>"))
+                    temp.add(q[3]);
+                if (!q[4].startsWith("<true>"))
+                    temp.add(q[4]);
+                String answer0 = temp.get(0);
+                String answer1 = temp.get(1);
+                String answer2 = temp.get(2);
+                
                 res.append("{\"")
                         .append(questionText)
                         .append("\", \"")
