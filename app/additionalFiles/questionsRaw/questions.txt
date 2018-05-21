@@ -1,0 +1,5961 @@
+﻿<new>500
+
+Zwarta grupa zawodników jadących w wyścigu kolarskim to:
+aktyw
+<true>peleton
+konwój
+plejada
+
+Który z wymienionych pojazdów nie jest wyposażony w gąsienice?
+czołg
+ratrak
+<true>autokar
+koparka
+
+Mężczyzna zabiegający o względy kobiety to:
+administrator
+orator
+kombinator
+<true>adorator
+
+W aeroklubie nie jest zrzeszony:
+spadochroniarz
+<true>autopilot
+modelarz lotniczy
+pilot sportowy
+
+Który z wymienionych ptaków nie potrafi latać?
+orzeł
+tukan
+<true>struś
+albatros
+
+Jaka figura geometryczna jest również instrumentem muzycznym?
+koło
+trapez
+<true>trójkąt
+romb
+
+Co Kopciuszek zgubił na schodach pałacu?
+chusteczkę
+<true>pantofelek
+parasolkę
+torebkę
+
+Co sadzimy na rabatkach?
+<true>kwiaty
+żyto
+buraki cukrowe
+drzewa
+
+W Wenecji popularnym środkiem lokomocji jest:
+katamaran
+<true>gondola
+tratwa
+piroga
+
+Ludzi, którzy w czasie zimy zażywają kąpieli, na przykład w morzu, nazywamy:
+<true>morsami
+fokami
+bieługami
+rekinami
+
+Parząca roślina to:
+perz
+mniszek
+<true>pokrzywa
+skrzyp
+
+Konstrukcja ułatwiająca wyciąganie wiader z wodą ze studni to:
+czapla
+bocian
+kormoran
+<true>żuraw
+
+Osoba przekazująca obcemu państwu wiadomości będące tajemnicą państwową to:
+szmugler
+<true>szpieg
+szuler
+hochsztapler
+
+Kwiat rabatowy otwierający się i intensywnie pachnący dopiero po zmroku to:
+bratek
+niezapominajka
+<true>maciejka
+nasturcja
+
+Zabawa dziecięca z zaklepywaniem to:
+<true>chowany
+klasy
+pomidor
+klipa
+
+Czym w hokeju odbijamy krążek?
+<true>kijem
+pałką
+młotkiem
+rakietą
+
+Które z wymienionych zwierząt nie ma kolców?
+jeż
+kolczatka
+<true>nosorożec
+jeżozwierz
+
+Jak nazywa się zasłona w teatrze oddzielająca scenę od widowni?
+portiera
+<true>kurtyna
+parawan
+lambrekin
+
+Czerwiec zaczyna się Dniem:
+Babci
+Dziadka
+Matki
+<true>Dziecka
+
+Jaką bronią posługuje się Eros?
+kuszą
+procą
+dwururką
+<true>łukiem
+
+Co zgodnie z tradycją robimy w Śmigus-Dyngus?
+stroimy choinkę
+malujemy jajka
+<true>oblewamy się wodą
+mówimy nieprawdę
+
+Ząb pokryty jest:
+<true>szkliwem
+zgorzeliną
+politurą
+powłoką
+
+Do jakiego miasta usilnie próbował dojść Koziołek Matołek?
+do Piotrkowa
+do Sulejowa
+do Tomaszowa
+<true>do Pacanowa
+
+Jak stwór prześladował królestwo króla Kraka?
+<true>smok
+cyklop
+wąż morski
+gryf
+
+Co ukazuje się w słoneczny dzień po deszczu?
+zorza
+<true>tęcza
+dym
+mgła
+
+Legendarny człowiek lasu, wychowany przez małpy w afrykańskiej dżungli to:
+Conan
+Bambo
+<true>Tarzan
+Robinson Crusoe
+
+Ptak w gospodarstwie domowym, który jest budzikiem gospodarza i udręką śpiocha to:
+indyk
+kaczka
+<true>kogut
+perlica
+
+Serial telewizyjny z udziałem publiczności albo nagranym śmiechem to:
+<true>sitcom
+remake
+remixing
+sequel
+
+Ile osób liczy drużyna piłkarska znajdująca się na boisku?
+6
+8
+10
+<true>11
+
+Jak nazywa się zimowa przerwa w nauce?
+teleferie
+<true>ferie
+wakacje
+majówka
+
+Płytkie miejsce pozwalające przejść przez rzekę na drugą stronę to:
+<true>bród
+przecinka
+dróżka
+wąwóz
+
+Atrybutem wróżki nie jest:
+czarny kot
+kryształowa kula
+talia kart
+<true>bilardowa kula
+
+Alkohol z bąbelkami to:
+whisky
+gin
+<true>szampan
+rum
+
+Dokąd, według przysłowia, ciągnie wilka?
+do kurnika
+do ZOO
+w góry
+<true>do lasu
+
+Tradycyjny dom ludów żyjących w strefie polarnej, wykonany z bloków śniegu lub lodu to:
+<true>igloo
+wigwam
+szałas
+jurta
+
+Do wykonania omleta niezbędne są:
+pomidory
+twaróg
+<true>jajka
+buraki
+
+Pyszny owoc rośliny z rodziny dyniowatych lub synonim odrzuconych oświadczyn to:
+kabaczek
+patison
+ogórek
+<true>arbuz
+
+Jak według Biblii miał na imię pierwszy mężczyzna?
+Kain
+Abel
+<true>Adam
+Noe
+
+Które z poniższych zwierząt ma „torbę”?
+krokodyl
+struś
+bóbr
+<true>kangur
+
+Zabawka dziewczynek i przyrząd treningowy bokserów to:
+<true>skakanka
+piłka plażowa
+lalka Barbie
+ringo
+
+Przedstawicielem jakiego plemienia był Winnetou?
+Siuksów
+Wron
+Czejenów
+<true>Apaczów
+
+Kraj o największej liczbie mieszkańców to:
+Francja
+Hiszpania
+Rosja
+<true>Chiny
+
+Naczynie przeznaczone do hodowania kwiatów to:
+makutra
+<true>doniczka
+moździerz
+cebrzyk
+
+Drugą literą w alfabecie greckim jest:
+<true>beta
+alfa
+gamma
+sigma
+
+Szyk, w jakim lecą żurawie, nazywamy:
+<true>kluczem
+eskadrą
+konwojem
+kolumną
+
+Tradycyjne urodzinowe ciasto to:
+sękacz
+kołacz
+<true>tort
+mazurek
+
+Co chroni głowę motocyklisty?
+beret
+kominiarka
+kapelusz
+<true>kask
+
+Akrobata sportowy dublujący aktora w scenach zbyt ryzykownych to:
+kirasjer
+<true>kaskader
+butafor
+szwenkier
+
+Słynną chińską zupę sporządza się z gniazd:
+bocianich
+kukułczych
+<true>jaskółczych
+łabędzich
+
+Szklany pojemnik, w którym hoduje się ryby to:
+terrarium
+serpentarium
+woliera
+<true>akwarium
+
+Jak nazywa się wycieczka kajakarzy wytyczonym szlakiem wodnym?
+<true>spływ
+spław
+zjazd
+zlot
+
+Ile prostych można przeprowadzić przez dwa różne punkty?
+<true>jedną
+dwie
+trzy
+cztery
+
+W jakim włoskim mieście znajduje się słynna Krzywa Wieża?
+<true>w Pizie
+w Bolonii
+w Weronie
+w Padwie
+
+Wielka Pardubicka to wyścigi:
+psich zaprzęgów
+<true>konne
+saneczkarskie
+kolarskie
+
+Jakim kolorem na mapie fizycznej oznacza się wyżyny?
+niebieskim
+zielonym
+<true>żółtym
+brązowym
+
+Jak nazywa się świątynia wyznawców prawosławia?
+<true>cerkiew
+meczet
+pagoda
+minaret
+
+Który z wymienionych kotów żyje w Polsce w warunkach naturalnych?
+serwal
+<true>żbik
+karakal
+ocelot
+
+Hollywood to centrum amerykańskiego przemysłu:
+hutniczego
+węglowego
+<true>filmowego
+rolniczego
+
+Czyją śmierć opłakiwał Jan Kochanowski w swoich trenach?
+<true>córki
+przyjaciółki
+siostry
+matki
+
+Kogel-mogel otrzymujemy, ucierając żółtka:
+z mąką
+z makiem
+<true>z cukrem
+z solą
+
+Która spośród wymienionych liczb jest nieparzysta?
+12
+56
+<true>65
+76
+
+O której godzinie cień jest najkrótszy?
+o ósmej
+<true>w południe
+o piętnastej
+o osiemnastej
+
+Solowa pieśń operowa z akompaniamentem orkiestry to:
+<true>aria
+oratorium
+preludium
+fuga
+
+Człowiek nadmiernie gromadzący zapasy nazywany jest:
+susłem
+wielbłądem
+<true>chomikiem
+turem
+
+Ile miesięcy trwa prawidłowo przebiegająca ciąża u człowieka?
+sześć
+dziewięć
+<true>jedenaście
+dwanaście
+
+W jakim sklepie kupujemy igły, nici i guziki?
+w trafice
+w jatce
+<true>w pasmanterii
+w drogerii
+
+Życie jakich zwierząt bada ornitolog?
+<true>ptaków
+owadów
+waleni
+ryb
+
+Cztery minuty to:
+120 sekund
+180 sekund
+<true>240 sekund
+300 sekund
+
+Ile głosek jest w wyrazie „chaszcze”?
+cztery
+<true>pięć
+sześć
+osiem
+
+W jakiej dyscyplinie sportu używa się szabli, floretów i szpad?
+w biathlonie
+<true>w szermierce
+w chodzie
+w kręglarstwie
+
+Ile piątek mieści się w liczbie 60?
+siedem
+dziewięć
+jedenaście
+<true>dwanaście
+
+Z jakiej części krzewu herbacianego otrzymujemy herbatę?
+<true>z liści
+z gałązek
+z korzeni
+z kwiatów
+
+Oranż to kolor:
+purpurowy
+karminowy
+<true>pomarańczowy
+karmazynowy
+
+Które z wymienionych miast nie leży nad Wisłą?
+Grudziądz
+<true>Kalisz
+Warszawa
+Tarnobrzeg
+
+Jaką część rośliny jesz, chrupiąc marchewkę?
+nać
+łodygę
+kwiat
+<true>korzeń
+
+Jakiego człowieka nazywamy żartobliwie „lelum-polelum”?
+jąkającego się
+<true>flegmatycznego
+nadpobudliwego
+ciężko pracującego
+
+Do kogo chodził w odwiedziny Czerwony Kapturek?
+do dziadka
+do cioci
+<true>do babci
+do wujka
+
+Co buduje się w stoczni?
+<true>statki wodne
+samoloty
+tramwaje
+pociągi
+
+Udawać, że nic się nie wie, to „chować głowę...” :
+w siano
+w worek
+w cień
+<true>w piasek
+
+Wieniec na głowie starożytnych Greków, symbolizujący zwycięstwo to:
+laurencja
+laurka
+<true>laur
+laufer
+
+Jaki kraj nazywamy „krainą kwitnącej wiśni”?
+<true>Japonię
+Holandię
+Czechy
+Rosję
+
+Ostatnia ławka w klasie szkolnej, w której sadzano najgorszych uczniów to:
+zajęcza ławka
+<true>ośla ławka
+barania ławka
+kozia ławka
+
+Na co trafiła przysłowiowa kosa?
+na płot
+na sęk
+<true>na kamień
+na kosę
+
+Co jest owocem grochu?
+<true>strąk
+kolba
+orzech
+jagoda
+
+Bezdomny włóczęga to:
+marszand
+kuglarz
+<true>kloszard
+korsarz
+
+Niewykonalne zadanie to „kwadratura...” :
+<true>koła
+trójkąta
+rombu
+trapezu
+
+Jak nazywamy człowieka leworęcznego?
+maniak
+manierysta
+malwersant
+<true>mańkut
+
+Kamizelka ratunkowa to:
+kapłon
+<true>kapok
+kabłąk
+kabura
+
+Klepsydra to urządzenie, w którym czas odmierzany jest przez:
+<true>piasek
+wskazówki
+światło
+ziarna prosa
+
+Które z wymienionych państw nie leży w Afryce?
+<true>Kolumbia
+Maroko
+Algieria
+Egipt
+
+Jak nazywa się część korzenia włosa?
+bulwa
+kłącze
+<true>cebulka
+karpa
+
+Które z określeń nie oznacza twarzy?
+<true>gors
+fizjonomia
+facjata
+gęba
+
+Oficjalne posłuchanie udzielone komuś przez osobę na wysokim stanowisku to:
+rezolucja
+<true>audiencja
+audytorium
+atrybucja
+
+Milenium to okres:
+10 lat
+100 lat
+500 lat
+<true>1000 lat
+
+Jakiego człowieka określamy mianem „łazika”?
+pracownika łaźni
+wielbiciela Łazuki
+lubiącego łazanki
+<true>wałęsającego się
+
+Jak nazywa się kot Gargamela z serialu animowanego pt. „Smerfy”?
+<true>Klakier
+Bonifacy
+Mamrotek
+Filemon
+
+Brukselka jest odmianą:
+śliwy
+gruszy
+<true>kapusty
+fasoli
+
+Co łagodzi wstrząsy podczas jazdy samochodem?
+poduszka powietrzna
+rozrusznik
+chłodnica
+<true>resory
+
+Co jest strojem sędziego?
+<true>toga
+sutanna
+kitel
+kombinezon
+
+Który z owadów wydaje charakterystyczne dźwięki zwane „cykaniem”?
+komar
+mucha
+<true>świerszcz
+pszczoła
+
+Kajzerka jest rodzajem:
+mąki
+chleba
+ciastka
+<true>bułki
+
+Jaki symbol chemiczny ma tlen?
+Ca
+<TRUE>O
+Fe
+H
+
+Co jest głównym składnikiem risotto?
+ziemniaki
+kasza
+<true>ryż
+makaron
+
+W jakiej strefie klimatycznej znajduje się Polska? 
+równikowej
+zwrotnikowej
+podzwrotnikowej
+<true>umiarkowanej
+
+Paparazzi to natrętni:
+<true>fotoreporterzy
+akwizytorzy
+kaznodzieje
+kieszonkowcy
+
+Przez ile nocy Szeherezada opowiadała królowi Szahrijarowi swoje baśnie?
+przez sto dwie
+przez siedemset
+przez osiemset
+<true>przez tysiąc i jedną
+
+„Gdzie kota nie ma, tam harcują...” :
+<true>myszy
+chomiki
+stonki
+karaluchy
+
+Jak nazywała się karczma, w której diabeł zdybał Twardowskiego?
+Neapol
+<true>Rzym
+Turyn
+Wenecja
+
+Jakiego koloru jest ugotowany rak?
+zielonego
+<true>czerwonego
+fioletowego
+niebieskiego
+
+Miecz koronacyjny królów Polski to:
+<true>Szczerbiec
+Zerwikaptur
+Scyzoryk
+Glorius
+
+Co oznacza nazwa „frutti di mare”?
+<true>owoce morza
+owoce cytrusowe
+owoce leśne
+owoce tropikalne
+
+W jaki dzień tygodnia Robinson Crusoe spotkał swego towarzysza niedoli?
+w poniedziałek
+w środę
+w czwartek
+<true>w piątek
+
+Co, według Biblii, było białe jak ziarno kolendra i miało smak placka z miodem?
+ambrozja
+<true>manna
+rosa niebieska
+nektar
+
+Przedmiot sporu to inaczej:
+<true>kość niezgody
+cierń niezgody
+ość niezgody
+szydło z worka
+
+Wielokątem o najmniejszej liczbie boków jest:
+trapez
+kwadrat
+<true>trójkąt
+romb
+
+Jakiego koloru owoce ma jarzębina?
+czarnego
+<true>czerwonego
+fioletowego
+białego
+
+Garncarz wytwarza naczynia:
+<true>z gliny
+z drewna
+z metalu
+ze szkła
+
+Ilu długościom promienia danego okręgu jest równa jego średnica?
+jednej
+<true>dwóm
+trzem
+czterem
+
+O kimś, kto przeliczył się z własnymi siłami, mówimy, że „porwał się na Słońce” :
+z łopatą
+z parasolką
+<true>z motyką
+z grabiami
+
+Która z podanych liczb jest podzielna przez 3?
+11
+<true>18
+26
+32
+
+Człowiek „przesadnie religijny” jest nazywany:
+bigamistą
+biblistą
+<true>bigotem
+bikiniarzem
+
+Tłusty Czwartek to ostatni czwartek:
+postu
+adwentu
+<true>karnawału
+roku kalendarzowego
+
+Cienki papier powleczony z jednej strony farbą, służący do odbijania pisma to:
+welin
+<true>kalka
+celofan
+bumaga
+
+Odmianą jakiej rośliny jest jasiek?
+grochu
+<true>fasoli
+kapusty
+kukurydzy
+
+Pieśń żeglarzy śpiewana przez nich w rytm pracy to:
+<true>szanta
+pean
+chanson
+protest song
+
+„Persona non grata” to:
+<true>osoba niepożądana
+dusza towarzystwa
+osoba nieobecna
+osoba niepunktualna
+
+Kompozycja ułożona z kawałków kolorowego szkła, zespolonych ołowianymi ramkami to:
+wizjer
+<true>witraż
+witryna
+witriol
+
+Przez jaki kontynent wędrują Staś i Nel w powieści Henryka Sienkiewicza pt. „W pustyni i w puszczy”?
+Azję
+Amerykę Północną
+Australię
+<true>Afrykę
+
+Chronologiczny zapis wydarzeń z życia państwa lub instytucji to:
+notatnik
+brulion
+<true>kronika
+pamiętnik
+
+Osoba chodząca w czasie snu to:
+dyslektyk
+heretyk
+diabetyk
+<true>lunatyk
+
+Paź królowej jest:
+biedronką
+<true>motylem
+świerszczem
+pszczołą
+
+Jakiego koloru kwiaty ma konwalia majowa?
+<true>białe
+fioletowe
+pomarańczowe
+czerwone
+
+Gdzie powstał pierwszy klub piłki nożnej?
+w USA
+<true>w Anglii
+w Holandii
+w Japonii
+
+Jak nazywa się towarzysz podróży Poldka w filmie pt. „Podróż za jeden uśmiech”?
+Mandaryn
+<true>Duduś
+Pikador
+Tolek
+
+Rodzaj przenośnej ścianki złożonej z kilku ruchomych skrzydeł, połączonych zawiasami to:
+<true>parawan
+zazdrostka
+kontuar
+bufet
+
+Dać komuś nauczkę to „pokazać, gdzie raki...” :
+nocują
+<true>zimują
+czmychają
+kończą
+
+W pobliżu jakiego miasta znajduje się Puszcza Kampinoska?
+Wrocławia
+Augustowa
+<true>Warszawy
+Kalisza
+
+Opłata pobierana przez państwo od przywozu i wywozu towarów na jego granicy to:
+<true>cło
+porto
+frycowe
+haracz
+
+Jak nazywa się sztuka pięknego pisania?
+ortografia
+kartografia
+ortoepia
+<true>kaligrafia
+
+Imię męskie lub mała poduszka pod głowę to:
+<true>jasiek
+rysiek
+grzesiek
+stasiek
+
+Stolicą jakiego państwa jest Oslo?
+Danii
+Szwecji
+Belgii
+<true>Norwegii
+
+Kiedy chcemy do kogoś mówić po imieniu, pijemy z nim:
+karniak
+<true>bruderszaft
+strzemienne
+zwischenruf
+
+Narodowym sportem Japonii jest:
+jazda figurowa
+piłka nożna
+<true>sumo
+skoki narciarskie
+
+Która z postaci z dobranocek nie jest misiem?
+Puchatek
+<true>Kłapouchy
+Coralgol
+Uszatek
+
+Ile razy w Polsce odbyły się letnie Igrzyska Olimpijskie?
+<true>ani razu
+jeden raz
+dwa razy
+trzy razy
+
+Które z orzechów są najmniejsze?
+kokosowe
+włoskie
+brazylijskie
+<true>pistacjowe
+
+Mówimy, że „Przyszła kryska na...” :
+Zbyszka
+Franciszka
+<true>Matyska
+Ryśka
+
+W boksie „garda” oznacza:
+cios od dołu
+cios prawą ręką
+klincz
+<true>osłonę przed ciosem
+
+Które zwierzęta po szkoleniu służą ociemniałym jako przewodnicy?
+chomiki
+<true>psy
+sokoły
+koty
+
+Serek rodem z Podlasia to:
+<true>oscypek
+ementaler
+camembert
+feta
+
+W restauracji stolik obsługuje:
+klezmer
+<true>kelner
+klakier
+krupier
+
+Pasożyt wśród pajęczaków, postrach turystów w okresie letnim to:
+topik
+kosarz
+<true>kleszcz
+skorpion
+
+Sportowców jakiej dyscypliny sportu nazywa się szczypiornistami?
+rzutu oszczepem
+skoku o tyczce
+<true>piłki ręcznej
+golfa
+
+Odmianą gruszy nie jest:
+klapsa
+bera
+<true>renkloda
+konferencja
+
+Z jakim stworzeniem kojarzy się koncha?
+z gąbką
+<true>ze ślimakiem
+z rozgwiazdą
+z krewetką
+
+Na jakie miasto spadła pierwsza bomba atomowa?
+na Tokio
+na Osakę
+na Jokohamę
+<true>na Hiroszimę
+
+Jeśli jesteśmy zadowoleni z obsługi w kawiarni, do rachunku doliczamy:
+popiwek
+podpiwek
+<true>napiwek
+napitek
+
+Władze jakiego państwa utworzyły w 1831 roku Legię Cudzoziemską?
+<true>Francji
+Węgier
+Japonii
+Bułgarii
+
+W jakim mieście odbywał się Festiwal Piosenki Żołnierskiej?
+w Opolu
+w Sopocie
+we Wrocławiu
+<true>w Kołobrzegu
+
+Charakterystycznym odgłosem wydawanym przez bociany jest:
+<true>klekot
+kląskanie
+świergot
+klangor
+
+Mówić rzeczy zmyślone to „pleść...” :
+<true>koszałki-opałki
+koszałki-niedopałki
+koszałki-rozpałki
+koszałki-podpałki
+
+Tradycyjny strój japoński to:
+peplos
+<true>kimono
+sari
+sarong
+
+Naczynie do podlewania roślin, zaopatrzone w sitko to:
+durszlak
+cebrzyk
+<true>konewka
+kwarta
+
+Biceps jest mięśniem:
+<true>ramienia
+brzucha
+łydki
+uda
+
+Ile godzin liczą dwie doby?
+12
+24
+38
+<true>48
+
+Inna nazwa kometki to:
+polo
+pelota
+<true>badminton
+krykiet
+
+Jakie urządzenie potocznie nazywamy „korkiem”?
+licznik
+<true>bezpiecznik
+dzwonek
+kontakt
+
+Który z komiksowych Galów odznaczał się niespotykaną siłą?
+Asterix
+Panoramix
+Ideefix
+<true>Obelix
+
+Ręczny warsztat tkacki to:
+kołowrotek
+<true>krosno
+kalander
+wrzeciono
+
+Które z imion nie jest  związane z trzema przysłowiowymi „zimnymi ogrodnikami”?
+<true>Horacy
+Bonifacy
+Pankracy
+Serwacy
+
+Kim w mitologii greckiej był Cerber?
+jednym z cyklopów
+potworem morskim
+bogiem wojny
+<true>piekielnym psem
+
+Co chroni palec przy szyciu ręcznym przed ukłuciami igły?
+nawlekacz
+szydełko
+<true>naparstek
+mitenka
+
+Z jakiego mięsa robi się tatara?
+z baraniny
+z wieprzowiny
+z drobiu
+<true>z wołowiny
+
+Pies, który przemierzył pół kraju, aby dotrzeć do poprzednich właścicieli to:
+Beethoven
+<true>Lassie
+Goofy
+Pluto
+
+Przy jakiej granicy leży Cieszyn?
+z Niemcami
+<true>z Czechami
+ze Słowacją
+z Ukrainą
+
+Robert Korzeniowski jest znanym:
+narciarzem
+<true>chodziarzem
+piłkarzem
+baloniarzem
+
+W którym z wymienionych krajów obowiązuje lewostronny ruch drogowy?
+w Czechach
+na Węgrzech
+<true>w Wielkiej Brytanii
+w Belgii
+
+Narządem oddechowym większości ryb są:
+płuca
+<true>skrzela
+pęcherze pławne
+płucotchawki
+
+Specjalista od chorób serca to:
+<true>kardiolog
+geriatra
+ortopeda
+endokrynolog
+
+Które z niemieckich miast dzielił zburzony w 1989 roku mur?
+Bonn
+Kolonię
+Monachium
+<true>Berlin
+
+Jakie zwierzę występuje w bajkach w roli chytruska?
+sowa
+zając
+<true>lis
+kruk
+
+Jak nazywają się aromatyczne, brązowe ciastka z Torunia?
+obwarzanki
+krakersy
+<true>pierniki
+markizy
+
+Seweryn Krajewski był liderem zespołu:
+<true>Czerwone Gitary
+Alibabki
+Anawa
+Dwa Plus Jeden
+
+Jak miał na imię król Sobieski?
+Bolesław
+Władysław
+<true>Jan
+Kazimierz
+
+Czego nie potrzebujemy do sporządzenia sosu winegret?
+oliwy
+<true>cynamonu
+octu
+soli
+
+Który z wymienionych węży jest dusicielem?
+kobra
+grzechotnik
+<true>boa
+mamba
+
+Okrycie wierzchnie w kształcie kwadratu z wyciętym na środku otworem na głowę to:
+<true>poncho
+pelisa
+bolerko
+salopa
+
+Co służy do kreślenia tuszem linii na powiece lub wokół oka?
+konturówka
+mascara
+korektor
+<true>eye-liner
+
+Jak nazywa się sucha, twarda kiełbasa z nalotem z pleśni?
+mortadela
+<true>salami
+metka
+frankfurter
+
+Myszka jest elementem wyposażenia:
+telewizora
+telefonu
+telefaksu
+<true>komputera
+
+Na rynku którego z miast w południe możemy oglądać koziołki?
+Krakowa
+Wrocławia
+<true>Poznania
+Warszawy
+
+Który z wymienionych owoców ma zielony miąższ?
+pomarańcza
+arbuz
+jagoda
+<true>kiwi
+
+Dziecięcy oddział szpitalny to:
+interna
+<true>pediatria
+geriatria
+gastroenterologia
+
+W jakim miesiącu obchodzimy Dzień Zakochanych?
+w styczniu
+<true>w lutym
+w kwietniu
+w maju
+
+Gdzie przesiadywał leń z wiersza Jana Brzechwy?
+w fotelu
+na podłodze
+<true>na tapczanie
+na werandzie
+
+Jak nazywała się małpka należąca do Pippi Langstrumpf, przesiadująca na jej ramieniu?
+Tytus
+King Kong
+<true>pan Nielson
+Zyta
+
+Za pomocą magnetofonu odtwarzamy dźwięk:
+z płyt kompaktowych
+<true>z kaset
+z płyt analogowych
+z dyskietek
+
+Ile państw powstało w wyniku rozpadu Czechosłowacji?
+<true>2
+3
+4
+5
+
+Owoce której z roślin nie są kuliste?
+kawona
+<true>patisona
+wiśni
+moreli
+
+Które z miast jest położone najbardziej na południe?
+Wrocław
+Gdańsk
+Kalisz
+<true>Zakopane
+
+Z jakim turniejem kojarzy się Roland Garros?
+szachowym
+brydżowym
+<true>tenisowym
+skoków narciarskich
+
+Który z narządów człowieka nie jest parzysty?
+nerki
+jajniki
+płuca
+<true>dwunastnica
+
+Jak nazywa się kopalna żywica z drzew iglastych z trzeciorzędu?
+agat
+<true>bursztyn
+topaz
+perła
+
+Które z wymienionych zwierząt nie występuje w Afryce w warunkach naturalnych?
+żyrafa
+lew
+zebra
+<true>panda wielka
+
+Czym jest sorbet?
+zupą
+ciastem
+ostrym sosem
+<true>deserem
+
+Jak nazywał się kapitan z książki Julesa Verne pt. „20.000 mil podmorskiej żeglugi”?
+Hook
+<true>Nemo
+Grant
+Sindbad
+
+Jaką częścią mowy jest słowo „zielony”?
+przysłówkiem
+<true>przymiotnikiem
+rzeczownikiem
+czasownikiem
+
+<new>1000
+
+Sport wodny uprawiany na desce z żaglem to:
+skateboard
+surfing
+<true>windsurfing
+bojery
+
+Kto był prezydentem Rzeczypospolitej Polskiej bezpośrednio przed Lechem Wałęsą?
+Czesław Kiszczak
+Mieczysław Rakowski
+<true>Wojciech Jaruzelski
+Aleksander Kwaśniewski
+
+Urządzenie służące do nagrywania i odtwarzania wiadomości w telefonie komórkowym to:
+toner
+faks
+<true>poczta głosowa
+poczta elektroniczna
+
+Powłoka na naczyniach kuchennych zapobiegająca przywieraniu potraw to:
+poliester
+<true>teflon
+akryl
+winyl
+
+Bohaterem jakiej powieści Henryka Sienkiewicza jest Jurand ze Spychowa?
+ „W pustyni i w puszczy”
+„Quo Vadis”
+„Potop”
+<true>„Krzyżacy”
+
+Kto został wiceprezesem Polskiego Związku Piłki Nożnej w 1999 roku?
+Grzegorz Lato
+<true>Zbigniew Boniek
+Roman Kosecki
+Jan Tomaszewski
+
+Napój Anglików pijany tradycyjnie o piątej po południu to:
+oranżada
+kakao
+<true>herbata
+whisky
+
+W której z wymienionych dziedzin algi znalazły szerokie zastosowanie?
+w budownictwie
+<true>w kosmetyce
+w obuwnictwie
+w dziewiarstwie
+
+Wywar rosołowy to:
+<true>bulion
+żur
+wassersuppe
+bulion Ureya
+
+Flausz to tkanina używana na:
+bluzki
+fartuchy
+<true>płaszcze
+halki
+
+12. Jaki problem miał Słoń Trąbalski z wiersza Juliana Tuwima?
+<true>był zapominalski
+był kłamczuchem
+był nietowarzyski
+był rozrzutny
+
+Daszek z wyciągiem umieszczony nad kuchnią, służący do usuwania zapachów na zewnątrz to:
+lufcik
+wywietrznik
+<true>okap
+szyber
+
+Jakie imię nosi największy dzwon w Polsce?
+August
+<true>Zygmunt
+Kazimierz
+Bolesław
+
+Który z poetów polskich pisał: „O szyby deszcz dzwoni, deszcz dzwoni jesienny”?
+Jan Kasprowicz
+<true>Leopold Staff
+Jan Lechoń
+Julian Tuwim
+
+W jakich jednostkach mierzy się długość i szerokość geograficzną?
+godzinach i minutach
+metrach
+<true>stopniach i minutach
+milach
+
+Bawaria jest państwem związkowym:
+Francji
+Holandii
+<true>Niemiec
+Czech
+
+Jakie urządzenie służy do wykrywania, zapisywania i badania trzęsień ziemi?
+polarymetr
+aerograf
+spektrometr
+<true>sejsmograf
+
+Zbieranie z powierzchni rosołu ściętego białka to:
+<true>szumowanie
+peklowanie
+szpikowanie
+marynowanie
+
+Kto był gospodarzem Mistrzostw Europy w piłce nożnej w 2000 roku?
+Francja
+Włochy
+<true>Holandia i Belgia
+Niemcy
+
+Twórcą jakiego imperium był Czyngis-chan?
+japońskiego
+chińskiego
+tatarskiego
+<true>mongolskiego
+
+Podwiązki służą do podtrzymywania:
+rajstop
+<true>pończoch
+spodni
+rajtuzów
+
+Nieprofesjonalny wykonawca roli aktorskiej w filmie to:
+naturalista
+kinoman
+dubler
+<true>naturszczyk
+
+Pulchne placki drożdżowe smażone na oleju to:
+knedle
+naleśniki
+<true>racuchy
+podpłomyki
+
+Janusz Kofta śpiewał, aby pamiętali:
+o pomnikach
+o kwiatach
+o najbliższych
+<true>o ogrodach
+
+Jak inaczej określa się osobę chorą na cukrzycę?
+<true>diabetyk
+dyslektyk
+homeopata
+dietetyk
+
+Który z wymienionych metali wykorzystywany jest w termometrach?
+rubid
+rod
+<true>rtęć
+ruten
+
+Statek wodny, na którego pokładzie mogą startować i lądować samoloty to:
+tankowiec
+krążownik
+niszczyciel
+<true>lotniskowiec
+
+Czworokąt, którego wszystkie boki są równe oraz wszystkie kąty proste to:
+prostokąt
+<true>kwadrat
+romb
+trapez
+
+Czego nie oznacza nazwa „koziorożec”?
+znaku zodiaku
+zwrotnika
+<true>sera z koziego mleka
+kozła skalnego
+
+Gorące źródło wyrzucające w regularnych odstępach czasu wodę i parę wodną to:
+wulkan
+<true>gejzer
+bojler
+źródło artezyjskie
+
+Uszy którego ze zwierząt w gwarze myśliwskiej nazywane są „słuchami”?
+tarpana
+żaby
+sarny
+<true>zająca
+
+Piaszczyste wzniesienie usypane przez wiatr to:
+piarg
+firn
+<true>wydma
+kopiec
+
+W jakim mieście znajduje się słynny 102-piętrowy wieżowiec Empire State Building?
+w Londynie
+<true>w Nowym Jorku
+w Sydney
+w Ottawie
+
+Ptak wykorzystywany przez wojsko od starożytności do II wojny światowej do przenoszenia wiadomości to:
+bocian
+jastrząb
+<true>gołąb
+dzika gęś
+
+W jakich jednostkach mierzymy natężenie dźwięku?
+<true>w decybelach
+w lumenach
+w kelwinach
+w amperach
+
+Depresja to obszar położony:
+1000 m n.p.m.
+500 m n.p.m.
+na poziomie morza
+<true>poniżej poziomu morza
+
+Haftka to rodzaj:
+ściegu
+agrafki
+suwaka
+<true>zapinki
+
+Miękka czapka wojskowa bez daszka, podłużnie składana to:
+rogatywka
+panama
+maciejówka
+<true>furażerka
+
+Nad jaką zatoką leży Półwysep Westerplatte? 
+<true>Zatoką Gdańską
+Zatoką Meklemburską
+Zatoką Pomorską
+Zatoką Ryską
+
+Ostatni przypadek w deklinacji polskiej to:
+<true>wołacz
+narzędnik
+miejscownik
+biernik
+
+Z jakiego tworzywa robiono okaryny?
+ze stali
+z miedzi
+<true>z gliny
+z bakelitu
+
+Postać z włoskiej „commedia dell’ arte”, sprytna pokojówka, ukochana Arlekina to:
+Pulcinella
+Brighella
+Scaramuccia
+<true>Kolombina
+
+Na co „za komuny” nie było kartek?
+<true>na „Trybunę Ludu”
+na mięso
+na cukier
+na buty
+
+Jak nazywa się najwyższa skocznia narciarska?
+żyrafia
+słoniowa
+<true>mamucia
+żurawia 
+
+Ile wysokości ma stożek?
+<true>jedną
+dwie
+trzy
+cztery
+
+Litera „Ą” jest:
+samogłoską ustną
+<true>samogłoską nosową
+spółgłoską dźwięczną
+spółgłoską bezdźwięczną
+
+Kto przez 5 lat mieszkał w wozie cyrkowym we wsi Podgradowice?
+Jan Kiliński
+Andrzej Lepper
+<true>Michał Drzymała
+Jan Kierdziołek
+
+Woltyżerka to ćwiczenia akrobatyczne na koniu, biegnącym po obwodzie:
+kwadratu
+prostokąta
+trójkąta
+<true>koła
+
+Który z zespołów wylansował piosenkę pt. „Bal wszystkich świętych”?
+Myslovitz
+T. Love
+<true>Budka Suflera
+Piersi
+
+Który z wymienionych dokumentów dotyczy samochodu?
+dowód tożsamości
+REGON
+resurs
+<true>dowód rejestracyjny
+
+O kimś bez czupryny mówimy:
+łysy jak pośladek
+łysy jak pięta
+<true>łysy jak kolano
+łysy jak łokieć
+
+Ile było krasnoludków w bajce o Królewnie Śnieżce?
+<true>siedmiu
+ośmiu
+dziewięciu
+dziesięciu
+
+Którą z potraw jadamy na ciepło?
+auszpik
+melbę
+<true>gulasz
+sorbet
+
+Która z wymienionych liter jest czwartą literą w alfabecie greckim?
+<true>delta
+lambda
+sigma
+omega
+
+Gody ryb to:
+toki
+ruja
+<true>tarło
+ciągi
+
+Co nie odmierza czasu?
+gnomon
+klepsydra
+zegar
+<true>kampanila
+
+Który z podanych wyrazów nie określa figury w akrobacjach lotniczych?
+pętla
+korkociąg
+<true>otwieracz
+beczka
+
+Kląć, mówić ordynarnie to inaczej:
+rzucać kamieniem
+<true>rzucać mięsem
+mieszać błoto
+wylewać pomyje
+
+Ile trwa adwent – w chrześcijaństwie: okres przygotowań do Bożego Narodzenia?
+2 tygodnie
+3 tygodnie
+<true>4 tygodnie
+pół roku
+
+Rodło – znak rodowy Polaków w Niemczech w stylizowanej formie odtwarza:
+bieg Odry
+<true>bieg Wisły
+bieg Łaby
+bieg Renu
+
+W którym kraju zachęca się rodziny do posiadania tylko jednego potomka?
+w Rosji
+w Szwecji
+we Francji
+<true>w Chinach
+
+W biegu z przeszkodami zawodnicy skaczą przez:
+kozła
+mur
+żywopłot
+<true>płotki
+
+Przesądni odpukują w:
+szklaną kulę
+czoło czarnego kota
+talię kart
+<true>niemalowane drewno
+
+Półprosta wychodząca z wierzchołka kąta płaskiego i dzieląca go na dwie równe części to:
+<true>dwusieczna
+średnica
+krzywa
+cięciwa
+
+Który z wymienionych ptaków nie jest gatunkiem sowy?
+puchacz
+puszczyk
+<true>świstun
+pójdźka
+
+W gwarze góralskiej człowiek z nizin to:
+cep
+kociuba
+<true>ceper
+cyntuś
+
+Biathlonista ma na nogach:
+<true>narty biegowe
+snowboard
+narty zjazdowe
+narty skokowe
+
+Potrawa z drobnych klusek gotowanych na mleku lub wodzie to:
+zalewajka
+<true>zacierka
+zasmażka
+mamałyga
+
+Ogary są psami:
+pasterskimi
+obronnymi
+<true>gończymi
+pociągowymi
+
+Jaki okrzyk wydawał kucharz Bartolini Bartłomiej, bohater dobranocki pt. „Porwanie Baltazara Gąbki”?
+<true> „Mamma Mia!”
+„Carramba!”
+„Kruca fuks!”
+„Ach, jooo!”
+
+Sok z jakich owoców musi wypić osoba dekorowana Orderem Uśmiechu?
+z czarnej porzeczki
+<true>z cytryny
+z gruszki
+z marchwi
+
+Jaki kształt mają piramidy w Egipcie?
+walca
+graniastosłupa
+<true>ostrosłupa
+prostopadłościanu
+
+Krajem przodującym w hodowli tulipanów i ich cebul jest:
+<true>Holandia
+Belgia
+Francja
+Szwecja
+
+Który z kamieni nie należy do szlachetnych?
+<true>nefryt
+szmaragd
+szafir
+rubin
+
+Określony odcinek wyścigu kolarskiego to:
+<true>etap
+gem
+tercja
+runda
+
+Mieszkańcem rafy koralowej nie jest:
+ośmiornica
+<true>ciernik
+rozgwiazda
+gąbka
+
+Kto był wokalistą zespołu Led Zeppelin?
+<true>Robert Plant
+John Lennon
+Mick Jagger
+Eric Burdon
+
+Popularna gra planszowa z kostką i płytkami z umieszczonymi na nich literami to:
+Domino
+Lotto
+<true>Scrabble
+Monopol
+
+Co nie należy do ekwipunku płetwonurka?
+maska
+<true>raki
+butla z tlenem
+płetwy
+
+W piłce nożnej pierwsza żółta kartka pokazana przez sędziego głównego oznacza:
+wykluczenie z gry
+<true>ostrzeżenie
+spalony
+zmianę zawodnika
+
+Afrykański instrument muzyczny umożliwiający przekazywanie sygnałów na odległość to:
+<true>tam-tam
+drumla
+gong
+ksylofon
+
+Posąg Nike z Samotraki posiada:
+głowę
+ręce
+miecz
+<true>skrzydła
+
+Jaka postać nie została stworzona przez Walta Disneya?
+<true>Pszczółka Maja
+Goofy
+Pluto
+Kaczor Donald
+
+Znaki drogowe w kształcie trójkąta, żółte z czerwonym obrzeżem to  znaki:
+zakazu
+nakazu
+<true>ostrzegawcze
+informacyjne
+
+Na stadionie, a nie nad wodą, odbywają się zawody wędkarstwa:
+springowego
+spławikowego
+podlodowego
+<true>rzutowego
+
+Zgodnie z przesądem, małżeństwo będzie udane, jeśli panna młoda do ślubu założy:
+coś niemodnego
+<true>coś pożyczonego
+coś podartego
+coś czarnego
+
+Który z polskich polityków nie był premierem?
+Tadeusz Mazowiecki
+Waldemar Pawlak
+<true>Zofia Kuratowska
+Jan Krzysztof Bielecki
+
+Która z wymienionych liczb jest podzielna przez 4?
+26
+<true>36
+42
+66
+
+Jaka kopalnia znajduje się w Wieliczce?
+<true>kopalnia soli
+kopalnia diamentów
+kopalnia miedzi
+kopania węgla kamiennego
+
+Który z motyli jest motylem nocnym?
+paź królowej
+cytrynek
+<true>pawik grabówka
+bielinek kapustnik
+
+Kto był wokalistą zespołu The Doors?
+<true>Jim Morrison
+Jimi Hendrix
+Eric Clapton
+Elvis Presley
+
+Jakiej narodowości jest Nadia Comaneci, 5-krotna mistrzyni olimpijska?
+bułgarskiej
+węgierskiej
+<true>rumuńskiej
+czeskiej
+
+Kanał Sueski stanowi umowną granicę między:
+Amerykami
+<true>Afryką i Azją
+Australią i Azją
+Kanadą i Grenlandią
+
+Jak w krawiectwie nazywa się rodzaj zapięcia działającego na zasadzie wtyczki i gniazda?
+<true>zatrzask
+rzep
+suwak
+haftka
+
+W którym filmie Romana Polańskiego, Mia Farrow spodziewa się dziecka diabła?
+ „Lokator”
+„Wstręt”
+„Matnia”
+<true>„Dziecko Rosemary”
+
+Kim według mitów greckich byli cyklopi?
+żeglarzami
+władcami mórz
+<true>jednookimi olbrzymami
+bogami
+
+Kto stoi na czele korpusu dyplomatycznego akredytowanego w danym państwie?
+<true>dziekan
+dyrektor
+rektor
+minister
+
+Konik morski to:
+szkarłupień
+<true>ryba
+mięczak
+głowonóg
+
+Sprawy codzienne, przyziemne to:
+
+chleb kamienny
+chleb świętojański
+chleb żałobny
+<true>chleb powszedni
+
+Gdzie w 1963 roku zastrzelono J. F. Kennedy’ego?
+
+w Los Angeles
+<true>w Dallas
+w Atlancie
+w Phoenix
+
+W jaki sposób do lata zmierzała wokalistka zespołu Bajm – Beata Kozidrak?
+
+<true>piechotą
+kajakiem
+autostopem
+hulajnogą
+
+Ilu było jeźdźców Apokalipsy?
+dwóch
+trzech
+<true>czterech
+pięciu
+
+Która z podanych miar nie jest stosowana na morzu?
+<true>piędź
+węzeł
+rumb
+kabel
+
+Jaki numer nosił Rudy – czołg „Czterej pancernych”?
+101
+<true>102
+202
+303
+
+Starożytni Rzymianie, mówiąc „mare nostrum” (nasze morze), mieli na myśli:
+Morze Kaspijskie
+Morze Czarne
+Morze Czerwone
+<true>Morze Śródziemne
+
+Którą z wymienionych książek dla dzieci napisał Jan Brzechwa?
+Król Maciuś I
+<true>Akademia Pana Kleksa
+Biały Kieł
+Dzieci z Bullerbyn
+
+Ile kadłubów ma katamaran?
+jeden
+<true>dwa
+trzy
+cztery
+
+Kim był Sindbad z „Baśni tysiąca i jednej nocy”?
+sułtanem
+<true>kupcem
+błaznem sułtana
+czarownikiem
+
+Jaki płacz oznaczają „krokodyle łzy”?
+szczery
+dyskretny
+histeryczny
+<true>nieszczery
+
+Ku czci jakiej bogini wzniesiono Partenon na Akropolu ateńskim?
+<true>Ateny
+Artemidy
+Demeter
+Hery
+
+Nauczyciel języka obcego na wyższej uczelni to:
+adiunkt
+<true>lektor
+dziekan
+docent
+
+Wirtuozem gry na jakim instrumencie był Niccolo Paganini?
+na waltorni
+<true>na skrzypcach
+na fortepianie
+na harfie
+
+Legendarny stwór o ciele uskrzydlonego lwa, głowie i szponach orła to:
+<true>Gryf
+Sfinks
+Centaur
+Minotaur
+
+Jak nazywa się znak w notacji  muzycznej obniżający dźwięk o pół tonu?
+synkopa
+krzyżyk
+<true>bemol
+fermata
+
+Piana z białek rozbita z cukrem i zapieczona w słodkie, białe ciastko to:
+makagigi
+strudel
+ptyś
+<true>beza
+
+Bez której z wymienionych przypraw nie może się obejść grzane wino?
+bez chili
+<true>bez cynamonu
+bez piołunu
+bez curry
+
+Wianek panny młodej ozdobiony był dawniej:
+anyżkiem
+<true>rutą
+miętą
+macierzanką
+
+Które z podanych spodni są najdłuższe?
+<true>dzwony
+szorty
+pludry
+bermudy
+
+Które z podanych miast leży nad Dunajem?
+Nowy Targ
+<true>Nowy Sad
+Nowy Sącz
+Nowy Staw
+
+Szkarlatyna to inaczej:
+koklusz
+grypa
+<true>płonica
+malaria
+
+Czego nie produkują pszczoły?
+mleczka
+kitu
+wosku
+<true>nektaru
+
+Kto porwał Piękną Helenę w utworze Homera pt. „Iliada”?
+Agamemnon
+Achilles
+<true>Parys
+Hektor
+
+Kim był Louis Armstrong?
+<true>trębaczem jazzowym
+astronautą
+pisarzem
+konstruktorem
+
+Jakie zwierzęta wyposażone są w kądziołki?
+nietoperze
+kameleony
+modliszki
+<true>pająki
+
+Co nie jest ogrodzeniem?
+ostrokół
+palisada
+<true>zarzuela
+zeriba
+
+Jakiego rodzaju artylerii użyli prawdopodobnie Krzyżacy w bitwie pod Grunwaldem?
+haubic
+<true>bombard
+zenitówek
+pancerzownic
+
+Od końca XIX wieku kwintal liczył:
+10 kg
+<true>100 kg
+150 kg
+200 kg
+
+Co przypomina odgłos wydawany przez hienę?
+mlaskanie
+<true>chichot
+mruczenie
+sapanie
+
+Powiedzenie „dziesiąta woda po kisielu” oznacza:
+mdły smak
+coś bardzo rzadkiego
+<true>odległe pokrewieństwo
+coś niesmacznego
+
+Ile „ramion” ma ośmiornica?
+trzy
+pięć
+<true>osiem
+dwanaście
+
+W jakiej dyscyplinie sportowej Artur Partyka zdobył tytuł mistrza Europy w 1998 roku?
+<true>w skoku w wzwyż
+w pchnięciu kulą
+w żeglarstwie
+w judo
+
+Z jakim ssakiem spokrewniony jest bizon?
+z jeleniem
+z łosiem
+z sarną
+<true>z żubrem
+
+Jakiego koloru jest łódź podwodna w piosence zespołu The Beatles?
+białego
+czarnego
+<true>żółtego
+niebieskiego
+
+W jakim mieście znajduje się Ściana Płaczu?
+w Rzymie
+w Pekinie
+w Bombaju
+<true>w Jerozolimie
+
+Jakie lotnictwo zaatakowało Pearl Harbor 7 grudnia 1941 roku?
+radzieckie
+włoskie
+<true>japońskie
+niemieckie
+
+W jakim kraju wynaleziono klocki Lego?
+w USA
+<true>w Danii
+w Niemczech
+na Węgrzech
+
+W jakim budynku gospodarczym Augiasz miał największy bałagan?
+w kurniku
+w chlewni
+w stodole
+<true>w stajni
+
+Bohaterem jakiej sztuki Bertolta Brechta jest Mackie Majcher?
+ „Matka Courage”
+„Kariera Artura Uli”
+„Życie Galileusza”
+<true>„Opera za 3 grosze”
+
+Jakiego zawodu uczy się bohaterka grana przez Jodie Foster w filmie pt. „Milczenie owiec”?
+<true>agentki FBI
+modelki
+barmanki
+adwokata
+
+Latimeria to:
+<true>ryba trzonopłetwa
+taniec
+hiszpańska potrawa
+kobiece imię
+
+W dramacie Wyspiańskiego na wesele Chochoła zaprasza:
+Dziennikarz
+Czepiec
+Gospodarz
+<true>Rachela
+
+Organizacja światowa zrzeszająca narodowe związki piłkarskie to:
+NBA
+WBO
+WBC
+<TRUE>FIFA
+
+Cichociemni działali w okresie:
+powstania styczniowego
+potopu szwedzkiego
+<true>II wojny światowej
+zimnej wojny
+
+Najbardziej „zakręcona” polska wokalistka to:
+<true>Reni Jusis
+Maryla Rodowicz
+Katarzyna Skrzynecka
+Agnieszka Chylińska
+
+Przeciwieństwem ascety jest:
+pokutnik
+<true>sybaryta
+biczownik
+męczennik
+
+Tak zwana dziura ozonowa to spadek zawartości ozonu:
+w oceanach
+w litosferze
+<true>w atmosferze
+w przestrzeni kosmicznej
+
+Który z podanych terminów nie określa części mózgu?
+<true>błona podstawna
+szyszynka
+wzgórze
+przysadka
+
+W piłce ręcznej zawodnicy, poza bramkarzem, nie mogą dotykać piłki:
+odbitej przez przeciwnika
+głową
+tułowiem
+<true>nogą poniżej kolana
+
+W wojskach lądowych jedna gwiazdka na pagonie oznacza:
+kaprala
+<true>chorążego
+sierżanta
+plutonowego
+
+Ile naturalnych satelitów ma Ziemia?
+<true>jednego
+dwóch
+trzech
+czterech
+
+„Nie rzucim ziemi, skąd nasz ród...” – tak zaczyna się:
+ „Warszawianka”
+„Boże, cos Polskę”
+„Pierwsza Brygada”
+<true>”Rota”
+
+Jakiego koloru nie ma na fladze Belgii?
+żółtego
+<true>niebieskiego
+czarnego
+czerwonego
+
+Urządzenie na pokładzie samolotu, pomagające ustalić przyczyny ewentualnej katastrofy to:
+trymer
+blue box
+<true>czarna skrzynka
+wolant
+
+Symbolem „hi-fi” oznaczamy:
+jakość obrazu
+<true>jakość dźwięku
+estetykę produktu
+wysoką cenę
+
+Wyborcy popierający określoną partię lub kandydata to:
+<true>elektorat
+publiczność
+audytorium
+respondenci
+
+Tytułowy bohater komedii pt. „Miś” jest prezesem klubu:
+ „Wisła”
+„Słoneczko”
+<true>„Tęcza”
+„Warszawianka”
+
+Okresowy sprawdzian wiadomości studenta, najczęściej pisemny to:
+referat
+wypracowanie
+rozprawka
+<true>kolokwium
+
+Jak nazywa się zakonnik pilnujący drzwi w bramie klasztornej?
+eremita
+oblat
+<true>furtian
+cenobita
+
+Reżyserem tanecznych układów widowisk scenicznych, szczególnie baletowych jest:
+<true>choreograf
+scenograf
+inscenizator
+inspicjent
+
+Co nie służy do kierowania wierzchowcem?
+cugle
+lejce
+wodze
+<true>popręg
+
+Symbol chemiczny magnezu to:
+Mn
+<true>Mg
+Mo
+Md
+
+Ryszard Riedel śpiewał w zespole:
+Budka Suflera
+Elektryczne Gitary
+<true>Dżem
+Kombi
+
+Który ze znanych dziennikarzy grał postać Dudusia w serialu pt. „Podróż za jeden uśmiech”?
+Tomasz Lis
+Wojciech Jagielski
+Maciej Orłoś
+<true>Filip Łobodziński
+
+Gdzie w organizmie ludzkim znajduje się plamka ślepa?
+<true>w oku
+w mózgu
+w sercu
+w wątrobie
+
+Które z owadów nie są pod ochroną w Polsce?
+jelonki rogacze
+modliszki zwyczajne
+biegacze
+<true>bielinki kapustniki
+
+Bohaterem jakiej powieści jest Cezary Baryka?
+ „Wierna rzeka”
+„Popioły”
+„Dzieje grzechu”
+<true>„Przedwiośnia”
+
+Norka jakiego zwierzęcia była bramą krainy czarów, do której trafiła Alicja?
+<true>królika
+borsuka
+nornicy
+lisa
+
+Wywrócenie się samochodu lub samolotu do góry kołami to:
+kabotaż
+abordaż
+sabotaż
+<true>kapotaż
+
+Przedstawiciel dyplomatyczny Watykanu w randze ambasadora to:
+kardynał
+<true>nuncjusz
+regent
+arcybiskup
+
+Która z pań nie była premierem?
+Indira Gandhi
+Golda Meir
+Margaret Thatcher
+<true>Zofia Kuratowska
+
+Niemiecka moneta zdawkowa to:
+grosch
+stotinka
+cent
+<true>pfennig
+
+Gdzie rozgrywa się akcja musicalu pt. „Evita”, który opowiada historię żony prezydenta Juana Perona?
+<true>w Argentynie
+w Chile
+w Boliwii
+w Hiszpanii
+
+Karabinek AKM jest zasilany z magazynka:
+<true>pudełkowego
+talerzowego
+bębnowego
+integralnego
+
+W skład jakiego środka stosowanego w gospodarstwie domowym wchodzi chlor?
+płynu do kąpieli
+szamponu
+pasty do zębów
+<true>wybielacza do tkanin
+
+Chrześcijańska nazwa Stambułu to:
+<true>Konstantynopol
+Aleksandretta
+Nikomedia
+Synopa
+
+Flanka to w terminologii wojskowej:
+czoło
+awangarda
+<true>skrzydło
+centrum
+
+Kalendarz juliański wprowadził:
+<true>Cezar
+Pompejusz
+Neron
+Dioklecjan
+
+Ile watów liczy kilowat?
+10
+100
+<true>1000
+10000
+
+Żydowski nagrobek to:
+dolmen
+<true>macewa
+mastaba
+cenotaf
+
+Która z podanych wysp ma pochodzenie wulkaniczne?
+Grenlandia
+Madagskar
+<true>Oahu
+Tajwan
+
+Motocross to wyścig:
+samochodowy
+<true>motocyklowy
+motorowodny
+rowerowy
+
+Pseudonim utworzony przez napisanie nazwiska autora na odwrót, np. Kynsa – Asnyk, to:
+<true>ananim
+homonim
+antonim
+anagram
+
+<new>2000 
+
+Andrzej Grubba to wielokrotny medalista:
+w siatkówce
+w badmintonie
+<true>w tenisie stołowym
+w tenisie ziemnym
+
+Do jakiego morza wpływa rzeka Dunaj?
+do Morza Białego
+do Morza Żółtego
+<true>do Morza Czarnego
+do Morza Czerwonego
+
+Wędzisko jest częścią:
+<true>wędki
+uzdy
+kagańca
+sieci rybackiej
+
+Amerykańska ambasador przy ONZ i pierwsza kobieta na stanowisku sekretarza stanu w USA to:
+Hillary Clinton
+<true>Madeleine Albright
+Rosalind Franklin
+Emmeline Pankhurst
+
+Zamiar wyprzedzania (względnie: omijania) w pojeździe mechanicznym sygnalizowany jest:
+światłami stopu
+światłami postojowymi
+<true>kierunkowskazem
+krótkim klaksonem
+
+Ile prac musiał wykonać Herakles w służbie u Eurysteusza?
+5
+9
+<true>12
+20
+
+Przełożona żeńskiej służby na dworze królewskim to:
+<true>ochmistrzyni
+kuchenna
+gospodyni
+dwórka
+
+Antonio Vivaldi był nazywany „czerwonym księdzem” ze względu na jego:
+lewicowe poglądy
+sympatię do Indian
+purpurowe stroje
+<true>rude włosy
+
+Na jakim kontynencie znajduje się Patagonia?
+w Ameryce Północnej
+<true>w Ameryce Południowej
+w Afryce
+w Australii
+
+Papierem wartościowym, upoważniającym do stałego i z góry określonego dochodu, jest:
+akcja
+weksel in blanco
+dywidenda
+<true>obligacja
+
+Do naczelnych nie należą:
+lemurowate
+wyraki
+małpy wąskonose
+<true>leniwce
+
+Do jakiego gatunku należą filmy pt. „Amityville”, „Halloween”, czy „Koszmar z ulicy Wiązów”?
+do komedii
+<true>do horroru
+do melodramatu
+do westernu
+
+Kazik Staszewski w piosence Kultu śpiewa, że „gdy nie ma dzieci, to jesteśmy...” :
+<true>niegrzeczni
+niespokojni
+leniwi
+kłótliwi
+
+Konkurs Czterech Skoczni to zawody organizowane w skokach:
+<true>narciarskich
+do wody
+o tyczce
+spadochronowych
+
+Kreon skazał Antygonę na:
+ścięcie
+<true>zamurowanie żywcem
+powieszenie
+uduszenie
+
+Dzielnica Nowego Jorku, w obrębie której znajduje się Wall Street to:
+Richmond
+Queens
+Brooklyn
+<true>Manhattan
+
+Na jaki kolor chciał mieć pomalowany świat zespół Dwa Plus Jeden w piosence pt. „Chodź, pomaluj mój świat”?
+na biało i na różowo
+na biało i na zielono
+na żółto i na zielono
+<true>na żółto i na niebiesko
+
+Pod jaką postacią Zeus uwiódł Ledę?
+złotego deszczu
+byka
+<true>łabędzia
+orła
+
+Kształt jakiej litery ma bramka w rugby?
+U
+Y
+<TRUE>H
+T
+
+Miejsce w kościele w kształcie „szafki”, służące do przechowywania Najświętszego Sakramentu to:
+prezbiterium
+<true>tabernakulum
+monstrancja
+pendentyw
+
+Z jabłek produkuje się wódkę zwaną:
+cydr
+brandy
+<true>celvados
+arak
+
+Pierwsze zęby niemowlęcia to:
+zęby mądrości
+<true>siekacze
+trzonowce
+kły
+
+Kiedy obchodzone jest „Halloween”?
+31 września
+<true>31 października
+31 listopada
+31 grudnia
+
+Do pomiaru napięcia prądu elektrycznego służy:
+kalorymetr
+<true>woltomierz
+częstościomierz
+manometr
+
+Francuskojęzyczną prowincją Kanady jest:
+Ontario
+Jukon
+<true>Quebec
+Alberta
+
+Wielkość, która określa odczyn roztworu to:
+<true>pH
+kcal
+ASO
+IQ
+
+Który z podanych potworów potrafił zabijać ludzi wzrokiem?
+smok wawelski
+<true>bazyliszek
+lewiatan
+Scylla
+
+W jakim kraju znajduje się znana z uprawy herbaty prowincja Yunnan?
+w Indiach
+w Japonii
+w Gruzji
+<true>w Chinach
+
+Jak miał na imię Wallenrod, bohater powieści poetyckiej Adama Mickiewicza?
+<true>Konrad
+Gustaw
+Kordian
+Tadeusz
+
+Pasożyt wewnętrzny kręgowców o ciele wstęgowatym i podzielonym na segmenty to:
+glista ludzka
+<true>tasiemiec
+włosień kręty
+przywra
+
+Pojazd wykonujący na drodze prace remontowe powinien wysyłać sygnały świetlne w kolorze:
+<true>żółtym
+białym
+niebieskim
+czerwonym
+
+Czym pokryte są liście drapieżnej rosiczki?
+<true>lepkimi włoskami
+ostrymi kolcami
+parzydełkami
+śmiertelnym jadem
+
+Muzyczny styl reggae rozpowszechniony przez Boba Marleya pochodzi:
+<true>z Jamajki
+z Wielkiej Brytanii
+z Cejlonu
+z Majorki
+
+Co trzyma w dziobie kruk w bajce Ignacego Krasickiego pt. „Kruk i Lis”?
+obrączkę
+gałązkę
+<true>ser
+piórko
+
+Mazagran to nazwa:
+religii staroirańskiej 
+dzielnicy Budy
+<true>napoju
+tkaniny na suknie
+
+Jaki symbol oznacza „świeżo upieczonego” kierowcę?
+wykrzyknik
+krzyżyk
+czerwone kółko
+<true>zielony listek
+
+Z gry na jakim instrumencie słynie Vanessa Mae?
+na drumli
+na oboju
+<true>na skrzypcach
+na pianinie
+
+Afrykański kuzyn dzika to:
+oryks
+dujker
+<true>guziec
+eland
+
+Jak nazywał się przywódca największego w starożytności powstania niewolników?
+Milon z Krotonu
+<true>Spartakus
+Krassus
+Pompejusz Wielki
+
+Przykładem jakiej architektury jest Pałac Kultury i Nauki w Warszawie?
+eklektyzmu
+klasycyzmu
+modernizmu
+<true>socrealizmu
+
+W którym z wymienionych filmów Stevena Spielberga główny bohater ma ok. siedmiu metrów  długości i mnóstwo ostrych zębów?
+ „E.T.”
+„Indiana Jones”
+<true>„Szczęki”
+„Kolor purpury”
+
+Kto na ogonie pawia umieścił oczy, zabitego przez Hermesa, stuokiego Argosa?
+Atena
+<true>Hera
+Hekate
+Hestia
+
+Które z wymienionych państw nie należy do Beneluxu?
+Luksemburg
+Belgia
+<true>Francja
+Holandia
+
+Trucizna wykorzystywana przez Indian południowoamerykańskich do zatruwania strzał to:
+amigdalina
+<true>kurara
+akonityna
+meskalina
+
+Kogo Posejdon wysłał przeciw Laokoonowi i jego synom za ostrzeżenie Trojan?
+dwa cyklopy
+dwie syreny
+dwie harpie
+<true>dwa węże morskie
+
+W jakim miejscu rozgrywa się większa część filmu pt. „Gorączka sobotniej nocy”?
+<true>w dyskotece
+na basenie
+w ZOO
+na polu golfowym
+
+Fort Knox zawiera federalne zapasy:
+diamentów
+dzieł sztuki
+<true>złota
+platyny
+
+Anty-Oscar, nagroda przyznawana w kategoriach filmowych przez Fundację Johna Wilsona to:
+<true>Malina
+Figa
+Banan
+Ananas
+
+Piłkarski przydomek Zbigniewa Bońka to:
+<true>Zibi
+Kosa
+Oli
+Cesarz
+
+O czyim pojedynku opowiada Wojski w powieści Adama Mickiewicza pt. „Pan Tadeusz”?
+Pawła z Gawłem
+<true>Doweyki i Domeyką
+Lelum z Polelum
+Cześnika z Rejentem
+
+Które z określeń nie jest częścią mikroskopu:
+<true>kondensator
+tubus
+okular
+kondensor
+
+Patronem jakiego kraju jest św. Patryk?
+Niemiec
+<true>Irlandii
+Austrii
+Francji
+
+Skorupiakiem nie jest:
+<true>mangusta
+langusta
+krewetka
+krab
+
+W jakiej roli wystąpił Tom Cruise w filmie pt. „Top Gun”?
+króla dyskotek
+tajnego agenta
+<true>pilota marynarki
+gangstera
+
+Do kogo Jan Sobieski pisał pełne miłosnych wyznań listy?
+<true>do Marii Kazimiery
+do Delfiny Potockiej
+do Marii Walewskiej
+do Izabeli Czartoryskiej
+
+Jak nazywa się namiętność do kłamstwa i przesady?
+monomania
+<true>mitomania
+piromania
+hipomania
+
+Pałac we Francji, w którym znajduje się jedna z największych kolekcji dzieł sztuki to:
+Wersal
+<true>Luwr
+Pałac Luksemburski
+Hotel Lambert
+
+Jak nazywa się przenośny namiot Mongołów?
+wigwam
+koliba
+<true>jurta
+igloo
+
+Z ilu atomów tlenu składa się cząsteczka ozonu?
+z jednego
+z dwóch
+<true>z trzech
+z czterech
+
+Artystycznie wykonany znak własnościowy książki to:
+<true>ekslibris
+gmerk
+kolofon
+errata
+
+Jedynym przedstawicielem płetwonogich, polującym na zwierzęta stałocieplne jest:
+mors
+lew morski
+<true>lampart morski
+słoń morski
+
+Stolicą Litwy jest:
+Lwów
+Kijów
+<true>Wilno
+Kowno
+
+Ile czasu trwa jeden obrót Ziemi wokół własnej osi?
+12 godzin
+<true>dobę
+tydzień
+miesiąc
+
+Największa organizacja na świecie walcząca na rzecz ochrony środowiska to:
+<true>Greenpeace
+WHO
+UNICEF
+UNESCO
+
+Kto na scenę wprowadził kankana?
+<true>Jacques Offenbach
+Ralph Benatzky
+Johann Strauss
+Karl Zeller
+
+Która z klęsk najczęściej nawiedza Japonię?
+susza
+huragany
+<true>trzęsienia ziemi
+plagi szkodników
+
+Z jakiego drzewa zbierane są kwiaty na herbatkę na przeziębienie?
+z klonu
+z topoli
+z akacji
+<true>z lipy
+
+Bezleśna strefa roślinna w północnej strefie podbiegunowej to:
+<true>tundra
+selwa
+tajga
+step
+
+Które z podanych zwierząt nie zapada w sen zimowy?
+świstak
+<true>kuna leśna
+jeż
+nietoperz nocek
+
+Śnieżka jest najwyższym szczytem:
+Gór Sowich
+Gór Bystrzyckich
+<true>Karkonoszy
+Beskidu Małego
+
+Wczesna msza odprawiana w adwencie to:
+requiem
+<true>roraty
+nieszpory
+Zaduszki
+
+Piosenką „Private dancer” rozpoczęła solową karierę:
+Janet Jackson
+<true>Tina Turner
+Natalie Cole
+Cher
+
+Czego szukano w czasie Nocy Świętojańskiej?
+<true>kwiatu paproci
+garnka z monetami
+wody życia
+kryształu górskiego
+
+Który z terminów określa japońską potrawę?
+ikebana
+bonsai
+manga
+<true>sushi
+
+W którym z wymienionych filmów główną rolę zagrał Michael Douglas?
+ „Indiana Jones”
+<true>„Nagi instynkt”
+„Maska zorro”
+„Park Jurajski”
+
+Papier-mache jest wykorzystywany do wyrobu:
+pieniędzy
+papeterii
+<true>masek w teatrze
+konfetti
+
+Na terenie jakiego województwa znajduje się Woliński Park Narodowy?
+<true>zachodniopomorskiego
+pomorskiego
+warmińsko-mazurskiego
+kujawsko-pomorskiego
+
+Jak nazywała się kraina z filmu pt. „Kingsajz”, zamieszkiwana przez krasnale?
+<true>Szuflandia
+Oz
+Laputa
+Taka-Tuka
+
+Popularny w latach 70-tych XX wieku autobus z Jelcza nazywany był:
+cytrynką
+garbusem
+<true>ogórkiem
+trampkiem
+
+Która z polskich elektrowni nie jest elektrownią wodną?
+Rożnów
+<true>Bełchatów
+Solina
+Włocławek
+
+Hannibal był wielkim wodzem:
+<true>Kartaginy
+Rzymu
+Macedonii
+Wikingów
+
+Najwyższy stopień wojskowy w marynarce wojennej to:
+kapitan marynarki
+komandor
+<true>admirał
+kontradmirał
+
+Święto Trzech Króli nazywane jest inaczej:
+Świętem Dziękczynienia
+Świętem Wielkiej Nocy
+Świętem Zmarłych
+<true>Świętem Objawienia Pańskiego
+
+W jakim kraju znajduje się Transylwania?
+w Macedonii
+na Słowacji
+<true>w Rumunii
+na Węgrzech
+
+Dwa młodzieżowe gangi „Jets’ i „Sharks” walczą w musicalu:
+ „Hair”
+<true>„West Side Story”
+„Deszczowa piosenka”
+„Yankee Doddle Dandy”
+
+Kto w latach 1987-1991 pełnił funkcję rzecznika praw obywatelskich?
+<true>Ewa Łętowska
+Zofia Kuratowska
+Hanna Suchocka
+Alicja Grześkowiak
+
+Kopaliną nie jest:
+glina
+żwir
+margiel
+<true>cement
+
+Jak nazywa się tajna organizacja terrorystyczna Kraju Basków?
+IRA
+<TRUE>ETA
+Hezbollah
+Czerwone Brygady
+
+Który z piłkarzy na mistrzostwach świata w Meksyku w 1986 roku zdobył gola dzięki „ręce boskiej”?
+Gary Lineker
+Michel Platini
+<true>Diego Maradona
+Paolo Rossi
+
+Jaki film, oparty na faktach, opowiada historię dwóch braci uciekających z Polski do Danii w schowku pod TIR-em?
+ „Trzy stopy nad ziemią”
+<true>„300 mil do nieba”
+„U kresu drogi”
+„Ucieczka”
+
+Jak nazywa się najstarsze pismo słowiańskie?
+sanskryt
+minuskuł
+<true>głagolica
+cyrylica
+
+Która z greckich bogiń była opiekunką dzieci i sierot oraz ogniska domowego?
+Hera
+Artemida
+Demeter
+<true>Hestia
+
+Jak nazywa się gruczoł wydzielający insulinę?
+<true>trzustka
+nadnercza
+tarczyca
+przysadka mózgowa
+
+Gra, w której dwie konne drużyny podbijają drewnianą piłeczkę młotkami o długich rękojeściach to:
+pelota
+<true>polo
+krykiet
+curling
+
+Jaką roślinę nazywamy niekiedy słodkim ziemniakiem?
+<true>batat
+bambus
+jams
+burak
+
+Jak nazywali się hiszpańscy zdobywcy większości obszarów Ameryki Środkowej i Południowej?
+corriegidorzy
+<true>konkwistadorzy
+gerylasi
+alkadowie
+
+Łódź wykonana z jednego pnia drzewa to:
+<true>dłubanka
+sampan
+gondola
+karawela
+
+Które z wymienionych gór nie leżą na półwyspie?
+Góry Betyckie
+Góry Skandynawskie
+Apeniny
+<true>Kaukaz
+
+Założycielem jakiego zespołu pieśni i tańca był Stanisław Hadyna?
+ „Mazowsze”
+<true>„Śląsk”
+„Gawęda”
+„Zespół Pieśni i Tańca AWF”
+
+Który film Alfreda Hitchcocka opowiada historię psychopatycznego właściciela motelu?
+ „Ptaki”
+„Złodziej w hotelu”
+„Okno na podwórze”
+<true>„Psychoza”
+
+Przedstawiciele której z podanych populacji ludzkich zaliczani są do najniższych?
+Masajowie
+Berberowie
+Aborygeni
+<true>Pigmeje
+
+Najmniejsza jednostka ilości informacji to:
+bajt
+octet
+piksel
+<true>bit
+
+Który z mistrzów sportowych został rozstrzelany w Palmirach przez hitlerowców?
+Zatopek
+<true>Kusociński
+Ślusarski
+Malinowski
+
+Imię tytułowego „wujaszka” w komedii Antoniego Czechowa to:
+Sasza
+Sierioża
+<true>Wania
+Wasia
+
+Jakie zwierzę jest symbolem Kampinoskiego Parku Narodowego?
+żubr
+<true>łoś
+wilk
+niedźwiedź
+
+W jakim mieście znajduje się Maracana, jeden z większych kompleksów sportowych na świecie?
+<true>w Rio de Janeiro
+w Casablance
+w Bilbao
+w Madrycie
+
+Jak miał na imię Rzecki, subiekt z powieści Bolesława Prusa pt. „Lalka”?
+<true>Ignacy
+Teodor
+Stanisław
+Tadeusz
+
+Ile chromosomów zawiera plemnik człowieka?
+17
+20
+<true>23
+26
+
+Kapitanem jakiej reprezentacji na Mistrzostwach Świata w piłce nożnej w USA był Gheorghe Hagi?
+<true>Rumunii
+Włoch
+Bułgarii
+Hiszpanii
+
+Jakiego wynalazku nie użyto w I wojnie światowej?
+czołgu
+łodzi podwodnej
+gazów trujących
+<true>broni jądrowej
+
+Skąd wywodzi się joga?
+<true>z Indii
+z Chin
+z Japonii
+z Korei
+
+Kto wygrał konkurs skoków na dużej skoczni podczas Igrzysk Olimpijskich w Sapporo w 1972 roku?
+Fijas
+<true>Fortuna
+Skupień
+Małysz
+
+Statek handlowy przewożący najczęściej ładunki płynne to:
+masowiec
+prom
+<true>zbiornikowiec
+drobnicowiec
+
+Skąd pochodzi Pablo Picasso?
+<true>z Hiszpanii
+z Holandii
+z Francji
+z Austrii
+
+Jak nazywa się jedyny w Polsce pająk wodny?
+ptasznik
+<true>topik
+krzyżak
+tarantula
+
+Jak nazywamy wiadukt używany do oddzielenia arterii komunikacyjnej od lokalnego ruchu?
+zwrotnica
+<true>estakada
+trakcja
+bocznica
+
+Co ma pod stopami Wenus z obrazu Sandro Botticellego pt. „Narodziny Wenus”?
+łąkę
+<true>muszlę
+płatki róż
+perły
+
+Ile pierwszych kręgów kręgosłupa ssaków to kręgi szyjne?
+8
+<true>7
+6
+5
+
+Która z wysp nie znajduje się na Morzu Śródziemnym?
+<true>Gotlandia
+Majorka
+Malta
+Rodos
+
+Ile wierzchołków ma sześcian?
+12
+10
+<true>8
+6
+
+Które z imion nie należy do żadnego z braci Marx?
+Groucho
+<true>Buster
+Chico
+Harpo
+
+W jakim państwie znajduje się Innsbruck, słynny ośrodek sportów zimowych?
+<true>w Austrii
+w Szwajcarii
+w Niemczech
+w Liechtensteinie
+
+Najsłynniejszą budowlę Indii, Tadż Mahal, cesarz Szahdżahan kazał zbudować w hołdzie:
+poległemu synowi
+zmarłej córce
+<true>zmarłej żonie
+przyjacielowi
+
+Który z narodów jako pierwszy wytwarzał różne przedmioty z porcelany?
+<true>Chińczycy
+Brytyjczycy
+Niemcy
+Francuzi
+
+Który teledysk Michaela Jacksona, trwający 14 minut, zdobył nagrodę Grammy?
+ „Into the Closet”
+„Beat It”
+<true>„Thriller”
+„Billie Jean”
+
+Który z zawodników nie przyda się w drużynie baseballowej?
+<true>bramkarz
+miotacz
+łapacz
+odbijający
+
+Armator to osoba fizyczna lub prawna eksploatująca:
+skład kolejowy
+lotnisko
+złoża naturalne
+<true>statek morski
+
+Borsuk jest zwierzęciem:
+mięsożernym
+padlinożernym
+<true>wszystkożernym
+roślinożernym
+
+Która z wymienionych osób nie była gwiazdą komedii muzycznej?
+<true>Harold Lloyd
+Fred Astaire
+Ginger Rogers
+Gene Kelly
+
+Które z wymienionych gór znajdują się najbardziej na zachód?
+Karkonosze
+<true>Izerskie
+Sowie
+Beskid Niski
+
+Siergiej Bubka to wielokrotny rekordzista świata w:
+skokach do wody
+skoku w dal
+skoku w wzwyż
+<true>skoku o tyczce
+
+Częścią siodła nie jest:
+siedzisko
+strzemię
+tybinka
+<true>wędzidło
+
+Który z wymienionych papierów wytwarzany jest ręcznie?
+afiszowy
+banknotowy
+<true>czerpany
+kreślarsko-rysunkowy
+
+Jaki zespół starali się naśladować bohaterowie filmu Radosława Piwowarskiego pt. „Yesterday”?
+<true>The Beatles
+The Animals
+The Who
+the Doors
+
+Jak nazywa się znany tor wioślarski w Poznaniu?
+Padwa
+<true>Malta
+Sycylia
+Elba
+
+Minerałem nie jest:
+piryt
+<true>promet
+kaolinit
+kwarc
+
+Która z wymienionych brył nie jest wielościanem?
+<true>stożek
+prostopadłościan
+ostrosłup
+równoległościan
+
+W skład trylogii Henryka Sienkiewicza nie wchodzi:
+ „Pan Wołodyjowski”
+<true>„Quo vadis”
+„Ogniem i mieczem”
+„Potop”
+
+Która z wymienionych witamin w kosmetyce zwana jest „witaminą młodości”?
+witamina P
+witamina K
+<true>witamina E
+witamina H
+
+„W malinowym chruśniaku, przed ciekawych wzrokiem” napisał:
+<true>Bolesław Leśmian
+Jan Lechoń
+Konstanty Ildefons Gałczyński
+Kazimierz Przerwa-Tetmajer
+
+Naukowcy opierający swe badania na kopalnych szczątkach i odciskach organizmów to:
+speleolodzy
+glacjolodzy
+<true>paleontolodzy
+mineralodzy
+
+Który z wymienionych zespołów stworzył legendarny album pt. „The Wall”?
+The Rolling Stones
+<true>Pink Floyd
+Genesis
+Metallica
+
+Jaka formacja nie walczyła konno?
+dragoni
+szwoleżerowie
+ułani
+<true>pikinierzy
+
+Symbol władzy królewskiej w starożytnym Egipcie, mający kształt stylizowanego węża-kobry to:
+bicz
+pastorał
+<true>ureusz
+infuł
+
+Ministrem spraw wewnętrznych w rządzie Jana Olszewskiego, autorem słynnej listy agentów, był:
+<true>A. Macierewicz
+L. Kaczyński
+R. Sikorski
+R. Szeremietiew
+
+Jaki kraj uważa się za kolebkę hokeja na lodzie?
+Rosję
+Niemcy
+Szwecję
+<true>Kanadę
+
+Która z wymienionych liczb nie jest podzielna przez 7?
+49
+<true>61
+84
+98
+
+W obszarze zabudowanym maksymalna prędkość kierującego pojazdem samochodowym wynosi:
+45 km/h
+50 km/h
+<true>60 km/h
+70 km/h
+
+Jak nazywał się odwieczny wróg Sherlocka Holmesa?
+doktor Mabuse
+Fantomas
+<true>profesor Moriarty
+Mr. Hyde
+
+Która z postaci komiksowych to samotny kowboj?
+Batman
+Spiderman
+Gordon Flash
+<true>Lucky Luke
+
+O kimś, kto miał dużo szczęścia, mówimy, że „trafiło mu się, jak ślepej kurze...” :
+perła
+laska
+<true>ziarno
+płot
+
+Kim byli dla siebie kompozytorzy austriaccy o tym samym imieniu i nazwisku – Johann Strauss?
+<true>ojcem i synem
+dziadkiem i wnukiem
+wujkiem i bratankiem
+obcymi osobami
+
+Spektakl teatralny organizowany z okazji jubileuszu aktora lub na jego rzecz to:
+prapremiera
+<true>benefis
+memoriał
+beneficjum
+
+Jakim elementem architektonicznym jest gargulec?
+ozdobą nad drzwiami
+zwieńczeniem komina
+oknem w dachu
+<true>zakończeniem rynny
+
+Który z wymienionych pierwiastków chemicznych nie jest gazem?
+<true>rod
+fluor
+wodór
+hel
+
+Rasą psów zaprzęgowych jest:
+rottweiler
+kuwasz
+<true>malamut alaskan
+komondor
+
+Koło jakiego miasta znajduje się znany z fabryk mebli – Swarzędz?
+Krakowa
+Katowic
+Gdańska
+<true>Poznania
+
+Kto 1 lipca 1997 roku przekazał Chinom władzę nad Hongkongiem?
+Francja
+<true>Wielka Brytania
+Holandia
+Hiszpania
+
+<new>5000
+
+Jakie imię otrzymała fregata rakietowa USS „Clark”, podarowana Polsce przez Stany Zjednoczone?
+<true>Kazimierz Pułaski
+Tadeusz Kościuszko
+Ignacy Paderewski
+Józef Karge
+
+Kiedy obchodzony jest Dzień Matki?
+21 stycznia
+<true>26 maja
+8 marca
+23 czerwca
+
+Kto w 1956 roku w Poznaniu straszył „odrąbywaniem rąk”?
+<true>Józef Cyrankiewicz
+Bolesław Bierut
+Władysław Gomułka
+Mieczysław Moczar
+
+Na co stoczyli pojedynek Miętus i Syfon, bohaterowie powieści Witolda Gombrowicza pt. „Ferdydurke”?
+na pistolety
+na słowa
+na szable
+<true>na miny
+
+„Iron man” to przebój grupy:
+Deep People
+<true>Black Sabbath
+AC/DC
+Led Zeppelin
+
+Kim dla Juliusza Kossaka była Zofia Kossak-Szczucka?
+<true>wnuczką
+matką
+żoną
+córką
+
+Zinedine Zidane to piłkarz grający w czasie finałów Mistrzostw Świata we Francji w 1998 roku w reprezentacji:
+Włoch
+<true>Francji
+Hiszpanii
+Brazylii
+
+Jan Kułakowski został w 1998 roku głównym negocjatorem Polski:
+<true>z Unią Europejską
+z NATO
+z Federacją Rosyjską
+z NAFTA
+
+Ile województw w Polsce było przed II wojną światową bez miasta wydzielonego Warszawa?
+10
+<true>16
+35
+49
+
+Kim w filmie pt. „Chłopi” dla Macieja Boryny jest Jagna Paczesiówna?
+siostrą
+<true>żoną
+bratową
+świekrą
+
+Nazwa zakładów zbrojeniowych w Skarżysku-Kamiennej, z których w 1999 roku skradziono rakiety przeciwlotnicze to:
+„Łucznik”
+„Bumar-Łabędy”
+<true>„Mesko”
+„VIS”
+
+Kto skomponował muzykę do wiersza Cypriana Kamila Norwida pt. „Bema pamięci rapsod żałobny”?
+Marek Grechuta
+Tadeusz Woźniak
+Stanisław Soyka
+<true>Czesław Niemen
+
+Grzegorz Markowski w piosence pt. „Wyspa, drzewo, zamek” śpiewa, że został mu spadek po:
+babci
+rodzicach
+<true>dziewczynie
+cioci
+
+Do jakiego kraju należy Grenlandia?
+do Wielkiej Brytanii
+do USA
+<true>do Danii
+do Szwecji
+
+Jak nazywał się teatr studencki, działający w Gdańsku w latach 1954-1960?
+<true>„Bim-Bom”
+„Zielony Balonik”
+„Qui Pro Quo”
+„STS”
+
+Jak inaczej nazywamy absynt?
+<true>piołunówka
+anyżówka
+jałowcówka
+miętówka
+
+Co było na początku świata w mitologii greckiej?
+Słowo
+<true>Chaos
+Kosmos
+Rozum
+
+Tajemnica zabójstwa Laury Palmer jest jednym z głównych tematów serialu:
+<true>„Twin Peaks”
+„Przystanek Alaska”
+„Z Archiwum X”
+„Crime Story”
+
+Kto nazywany jest „prymasem tysiąclecia”?
+August Hlond
+Józef Glemp
+Adam Sapiecha
+<true>Stefan Wyszyński
+
+W jakim mieście zorganizowano w 1660 roku pokój, który zakończył wojny Polski ze Szwecją o Inflanty?
+<true>w Oliwie
+w Toruniu
+w Rydze
+w Kaliszu
+
+Zenitówkę potocznie określa się jako:
+moździerz
+<true>działo przeciwlotnicze
+działo bezodrzutowe
+haubicoarmatę
+
+Którego arbitra na Mistrzostwach Europy w 2000 roku czescy kibice i dziennikarze nazwali „łysym potworem z Marsa”?
+Ursa Meiera
+Dicka Jola
+<true>Pierlugi Collinę
+Andersa Friska
+
+W jakim kraju leży Pustynia Gibsona?
+w Meksyku
+<true>w Australii
+w USA
+w Algierii
+
+Boom na gry komputerowe, w których gracz patrzy oczami kierowanego przez siebie wojownika, zapoczątkował:
+„Panzer General”
+„The Last Starfighter”
+„Silent Service”
+<true>„Doom”
+
+Muniek Staszczyk śpiewa w utworze pt. „Gwiazdka”, że za pierwszą wypłatę kupi sobie:
+czekoladę
+<true>armatę
+gitarę
+pralkę
+
+W jakim mieście znajduje się muzeum Atomium?
+w Paryżu
+w Nowym Jorku
+<true>w Brukseli
+w Berlinie
+
+Ozdobny uchwyt metalowy na drzwiach, czasem w kształcie głowy lwa to:
+<true>antaba
+abakus
+impost
+tralka
+
+Czyim ojcem nie był szekspirowski król Lear?
+Goneryli
+Regany
+Kordelii
+<true>Ofelii
+
+Na jakim placu w 1987 roku wylądował niemiecki pilot-amator Matthias Rust?
+na Placu Defilad w Warszawie
+na Placu Tiananmen w Pekinie
+<true>na Placu Czerwonym w Moskwie
+na Placu Aleksandra w Berlinie
+
+Modne w XVIII wieku przybranie z ozdobnej tkaniny, noszone przez mężczyzn pod szyją to:
+<true>żabot
+lamówka
+turniura
+matinka
+
+Dział matematyki badający zależności między bokami i kątami trójkątów to:
+stereometria
+<true>trygonometria
+triangulacja
+trilateracja
+
+Jakie grupie zawodowej patronuje św. Florian?
+fryzjerom
+<true>strażakom
+marynarzom
+murarzom
+
+Orkę, największego przedstawiciela delfinowatych nazywamy inaczej:
+<true>miecznikiem
+rybą piłą
+długoszparem
+barrakudą
+
+W jakim kraju toczyła się „wojna dwóch róż”?
+we Francji
+w Hiszpanii
+w Austrii
+<true>w Anglii
+
+Którą roślinę nazywamy „gruszką miłosną”?
+karczoch
+<true>bakłażan
+awokado
+cykorię
+
+Kto w kinowej wersji filmu pt. „Asterix i Obelix kontra Cezar” odtwarzał rolę siłacza Obelixa?
+<true>Gerard Depardieu
+Roberto Benigni
+Christian Clavier
+Michel Piccoli
+
+Pismo literackie wydawane od 1986 roku i redagowane przez Roberta Tekielego to:
+„Res Publika”
+„Znak”
+<true>„bruLion”
+„Twórczość”
+
+Bojowniczki o przyznanie kobietom praw wyborczych to:
+<true>sufrażystki
+feministki
+separatystki
+amazonki
+
+Które z podanych słów nie oznacza aureoli?
+mandorla
+nimb
+gloria
+<true>aurora
+
+Jaki zespół wystąpił na warszawskim Służewcu w sierpniu 1997 roku?
+Pearl Jam
+Aerosmith
+Oasis
+<TRUE>U2
+
+Jak długo trwa filmowy związek Kim Basinger i Mikey’ Rourke w filmie Adriana Lyne’a?
+8 i pół tygodnia
+<true>9 i pół tygodnia
+10 i pół tygodnia
+11 i pół tygodnia
+
+Gdzie w czerwcu 2000 roku odbyła się konferencja „Ku wspólnocie demokracji”?
+w Davos
+w Paryżu
+<true>w Warszawie
+w Madrycie
+
+Jak inaczej nazywa się ziele angielskie?
+<true>piment
+cayenne
+curry
+tabasco
+
+Najjaśniejszą gwiazdą naszego firmamentu jest:
+Proxima Centauri
+<true>Syriusz
+Toliman
+Canopus
+
+Jaka drużyna w sezonie piłkarskim 1999/2000 zdobyła tytuł mistrza Polski?
+<true>Hoop Polonia Warszawa
+Wisła Kraków
+Legia Daewoo Warszawa
+Widzew Łódź
+
+Według obowiązującej Konstytucji RP prawo łaski stosuje:
+premier
+Trybunał Stanu
+<true>prezydent
+Sąd Najwyższy
+
+Pisarz i publicysta, miłośnik i popularyzator jazzu w Polsce, który w 1967 roku osiedlił się w USA to:
+<true>Leopold Tyrmand
+Witold Gombrowicz
+Stanisław Dygat
+Stanisław Barańczak
+
+Były szef Sztabu Generalnego, kandydujący na prezydenta RP w 2000 roku to:
+Zbigniew Zalewski
+<true>Tadeusz Wilecki
+Henryk Szumski
+Piotr Kołodziejczyk
+
+Słynny astronom Jan Heweliusz był:
+torunianinem
+<true>gdańszczaninem
+szczecinianinem
+krakowianinem
+
+W jakiej piosence zespołu Queen brzmi operowy zaśpiew: „Mamma Mia, Mamma Mia – Mamma Mia Let Me Go”?
+<true>„Bohemian Rhapsody”
+„Show Must Go On”
+„Innuendo”
+„Somebody To Love”
+
+Który z pisarzy był mężem Kaliny Jędrusik?
+Jerzy Andrzejewski
+Marek Hłasko
+<true>Stanisław Dygat
+Tadeusz Konwicki
+
+Madeleine Albright, sekretarz stanu USA, odebrała doktorat „honoris causa” Uniwersytetu:
+Jagiellońskiego
+<true>Gdańskiego
+Warszawskiego
+Poznańskiego
+
+Z jakiego kraju pochodził zespół Omega, znany m.in. z przeboju pt. „Dziewczyna o perłowych włosach”?
+z Czech
+z Niemiec
+z Bułgarii
+<true>z Węgier
+
+Kto gra rolę tańczącej w klubie go-go, byłej pracownicy FBI w filmie pt. „Striptease”?
+Kim Basinger
+<true>Demi Moore
+Holy Hunter
+Sharon Stone
+
+Sherry to nazwa wzmacnianego wina pochodzącego:
+z Francji
+<true>z Hiszpanii
+z Włoch
+z Niemiec
+
+Który z wymienionych metali nie należy do grupy metali ciężkich?
+złoto
+miedź
+chrom
+<true>magnez
+
+Z jakiego kraju pochodzi rasa psa chow-chow?
+z Niemiec
+z Wielkiej Brytanii
+z Francji
+<true>z Chin
+
+Amerykański finansista, który finansuje m.in. Fundację im. Stefana Batorego to:
+<true>George Soros
+Bill Gates
+Lamberto Dini
+Nelson Rockefeller
+
+Niektóre państwa zbojkotowały olimpiadę w Moskwie w 1980 roku, ponieważ sowieci wkroczyli:
+do Wietnamu
+<true>do Afganistanu
+do Laosu
+do Czechosłowacji
+
+Znak zodiaku, którego łacińska nazwa brzmi „gemini” to:
+<true>Bliźnięta
+Panna
+Wodnik
+Waga
+
+Który z francuskich monarchów został zamordowany przez buntowników w 1792 roku?
+Ludwik XI
+Karol IX
+<true>Ludwik XVI
+Henryk IV
+
+Których owoców nie jada się na surowo?
+kiwi
+<true>pigwy
+grejpfruta
+granatu
+
+Współczesnym Mozartowi kompozytorem był:
+Giuseppe Verdi
+Giacomo Puccini
+<true>Joseph Haydn
+Piotr Czajkowski
+
+W jakiej dyscyplinie sportu Jacek Wszoła ustanowił rekord świata w 1980 roku?
+w skoku o tyczce
+w biegu przez płotki
+<true>w skoku wzwyż
+w skoku w dal
+
+Który król panował w Polsce w czasie potopu szwedzkiego?
+Stefan Batory
+<true>Jan Kazimierz
+Zygmunt Stary
+Jan Sobieski
+
+„Zefirek”, zaprojektowany przez Biuro Konstrukcyjne Zakładów Radiowych „Eltra” był:
+<true>wentylatorem
+suszarką
+radiem
+adapterem
+
+Król-kapłan Szalemu, który pobłogosławił Abrahama powracającego z wyprawy wojennej to:
+Azariasz
+Jeroboam I
+<true>Melchizedek
+Ezechiasz
+
+Z którym z podanych państw nie graniczy Chile?
+z Argentyną
+z Peru
+z Boliwią
+<true>z Brazylią
+
+Kto nie pracuje nad przygotowaniem książki do druku pod względem językowym?
+adiustator
+korektor
+redaktor
+<true>metrampaż
+
+<new>10000
+
+Kto „zmodyfikował” portret Giocondy, domalowując jej wąsy?
+George Grosz
+Max Ernst
+Otto Dix
+<true>Marcel <true>Duchamp
+
+Kto sformułował prawo powszechnego ciążenia?
+<true>Isaac Newton
+Max Planck
+Dymitr Mendelejew
+Michael Faraday
+
+Jaką kolonię uważano za „klejnot w koronie” brytyjskiego imperium?
+<true>Indie
+Malaje
+Egipt
+Birmę
+
+Nieżyjąca już lekkoatletka, która szokowała 20-centymetrowymi paznokciami to:
+Gail Devers
+<true>Florence Griffith
+Heike Dreschler
+Katrin Krabbe
+
+Która z brył nie należy do obrotowych?
+kula
+stożek
+<true>sześcian
+walec
+
+W jakim kraju doszło do zamachu stanu zwanego „rewolucją goździków”?
+<true>w Portugalii
+w Chinach
+we Włoszech
+w Hiszpanii
+
+Jak nazywał się czarodziej z trylogii J.R.R. Tolkiena pt. „Władca Pierścieni”?
+Aragorn
+<true>Gandalf
+Boromir
+Elrond
+
+Estry to pochodne:
+kwasów i zasad
+alkoholi i soli
+soli i alkoholi
+<true>kwasów i alkoholi
+
+Stolica Chile jest:
+<true>Santiago
+Valparaiso
+Vina del Mar
+Talcahuano
+
+Jak nazywał się książę trojański, zabity przez Achillesa?
+Patroklos
+<true>Hektor
+Astyanaks
+Priam
+
+Twórcą gestapo był:
+<true>Herman Goering
+Heinrich Himmler
+Joseph Goebbels
+Rudolf Hess
+
+Co ile lat odbywa się Międzynarodowy Konkurs Pianistyczny im. Fryderyka Chopina?
+co 2 lata
+co 3 lata
+co 4 lata
+<true>co 5 lat
+
+Który z prezydentów Stanów Zjednoczonych nie został zamordowany?
+<true>William G. Harding
+John F. Kennedy
+James A. Garfield
+Abraham Lincoln
+
+W zawodach wędkarskich, rzutu spinningiem nie można oddać:
+<true>z kajaka
+z brzegu
+z łódki
+na boisku
+
+Jaka postać patronuje Jessice Lange w jej filmowym debiucie?
+<true>King Kong
+Batman
+Superman
+Dracula
+
+Jaki jest rzymski odpowiednik greckiego Hermesa?
+Jowisz
+Mars
+Pluton
+<true>Merkury
+
+Co nie oznacza bagiennych torfowisk?
+rojsty
+<true>ols
+mszary
+mokradła
+
+Kto jest autorem utworu pt. „Świętoszek”?
+Francois Rabelais
+Denis Diderot
+Jean de la Fontaine
+<true>Moliere
+
+W jakim kraju znajduje się najwyższy szczyt Afryki – Kilimandżaro?
+<true>w Tanzanii
+w Ugandzie
+w Zairze
+w Kenii
+
+Z końcem jakiego okresu geologicznego wymarły dinozaury?
+jury
+triasu
+<true>kredy
+karbonu
+
+„Ze wszystkich kobiet świata najpiękniejsza jest noc” napisał:
+Jan Lechoń
+<true>Konstanty Ildefons Gałczyński
+Kaziemierz Przerwa-Tetmajer
+Bolesław Leśmian
+
+Jaki kolor ma likier aromatyzowany orzechem kokosowym?
+żółty
+biały
+<true>jest bezbarwny
+kremowy
+
+Która z bitew morskich została rozegrana przed I wojną światową?
+<true>bitwa pod Cuszimą
+bitwa jutlandzka
+bitwa o Midway
+bitwa pod Coronel
+
+Po osądzeniu zbrodni Balladyna ginie:
+<true>rażona piorunem
+otruta
+pchnięta sztyletem
+utopiona w jeziorze
+
+Do kogo Reinhold Messner przesłał depeszę tej treści: „Nie jesteś drugi – jesteś wielki”?
+<true>J. Kukuczki
+swojego brata
+T. Piotrowskiego
+Szerpy T. Norgaya
+
+Rezurekcja to msza odprawiana:
+w Boże Narodzenie
+w Boże Ciało
+<true>w dzień Wielkiej Nocy
+w Wielki Piątek
+
+Jaki taniec propagowała Isadora Duncan?
+klasyczny
+charakterystyczny
+towarzyski
+<true>wyzwolony
+
+Annasz był dla Kajfasza:
+<true>teściem
+bratem
+synem
+szwagrem
+
+Twierdzenie, że „wyjątek jest potwierdzeniem reguły” zaliczamy do:
+paradygmatów
+<true>paradoksów
+parametrów
+parafraz
+
+W jakim mieście w 1966 roku założono Teatr STU?
+w Warszawie
+we Wrocławiu
+w Łodzi
+<true>w Krakowie
+
+Ilu palczaste mają stopy strusia?
+<true>dwupalczaste
+trzypalczaste
+czteropalczaste
+pięciopalczaste
+
+Które miejsce zajęli Polacy w piłce nożnej na olimpiadzie w Barcelonie w 1992 roku?
+pierwsze
+<true>drugie
+trzecie
+czwarte
+
+Pod jakim pseudonimem pisał Aleksander Głowacki?
+Juliusz Osterwa
+Or-Ot
+<true>Bolesław Prus
+Józef Maskoff
+
+Kto w 1583 roku odkrył prawo ruchu wahadła?
+Mikołaj Kopernik
+Leonardo da Vinci
+Heweliusz
+<true>Galileusz
+
+Który z wymienionych parków narodowych jest najstarszy?
+<true>Białowieski
+Kampinoski
+Biebrzański
+Roztoczański
+
+W jakim mieście znajdują się Schody Hiszpańskie?
+<true>w Rzymie
+w Barcelonie
+w Wenecji
+w Lizbonie
+
+Kiedy zginęli w Sarajewie z rąk zamachowca arcyksiążę Franciszek Ferdynand i jego żona?
+08.10.1912 roku
+06.11.1913 roku
+<true>28.06.1914 roku
+01.07.1915 roku
+
+Jakiej narodowości był słynny pilot „czerwony baron”?
+francuskiej
+angielskiej
+belgijskiej
+<true>niemieckiej
+
+Jak nazywał się saksofonista jazzowy „Bird”?
+<true>Charlie Parker
+Art Pepper
+John Coltrane
+Woody Herman
+
+Pumeks jest szkliwem:
+ołowiowym
+<true>wulkanicznym
+solnym
+borowym
+
+Która z komiksowych postaci jest detektywem?
+Superman
+<true>Dick Tracy
+Batman
+Popeye
+
+Okrągły znak drogowy z czerwonym obrzeżem i niebieskim wnętrzem, przekreślonym czerwoną skośną linią oznacza:
+<true>zakaz postoju
+zakaz wjazdu
+zakaz wyprzedzania
+zakaz ruchu pieszych
+
+Podstawą gorzkiego smaku campari jest:
+gencjana
+chinina
+<true>sewilska pomarańcza
+szałwia
+
+Z zakresu jakiej nauki prowadzone są badania w Instytucie Gallupa?
+medycyny
+<true>socjologii
+astronomii
+farmacji
+
+Który z ptaków gniazduje na ziemi?
+remiz
+dymówka
+<true>siewka
+raniuszek
+
+Jednostka monetarna Holandii przed wprowadzeniem euro to:
+<true>gulden
+frank
+korona
+marka
+
+Nazwa łacińska „Sagitarius” oznacza gwiazdozbiór:
+Skorpion
+Rak
+<true>Strzelec
+Bliźnięta
+
+Na jakiej wysokości zawieszona jest obręcz kosza w koszykówce?
+1,99 m
+2,10 m
+2,50 m
+<true>3,05 m
+
+25 lipca 1909 roku nad kanałem La Manche przeleciał:
+<true>L. Bleriot
+W. Wright
+Ch. Lindbergh
+H. Farman
+
+Na jakim instrumencie gra Adam Makowicz, instrumentalista i kompozytor jazzowy?
+na saksofonie
+<true>na pianinie
+na klarnecie
+na trąbce
+
+Do ochr nie należy:
+umbra
+ugier
+<true>koszenila
+siena
+
+Pierwszy wahadłowiec w historii lotów to:
+Challenger
+Discovery
+Atlantis
+<true>Columbia
+
+Jak nazywa się pustynia kamienista?
+<true>hamada
+serir
+erg
+szott
+
+Majątek ziemski, ofiarowany w 1900 roku przez społeczeństwo polskie Henrykowi Sienkiewiczowi to:
+<true>Oblęgorek
+Opiniogóra
+Krzemieniec
+Będomin
+
+Jak właściwie nazywał się El Greco?
+Stefan Lochner
+<true>Dominikos Theotokopulos
+Ambrogio Lorenzetti
+Simone Martini
+
+Ptaki trzymające jaja na stopach, żeby ochronić je przed zamarznięciem to:
+maskonury
+albatrosy
+<true>pingwiny
+mewy
+
+Puszka jakiej zupy „padła ofiarą” sztuki pop-art, reprezentowanej przez Andy’ego Warhla?
+rosołu
+ogórkowej
+<true>pomidorowej
+pieczarkowej
+
+W dawnych czasach flejtuch służył do:
+ozdoby
+szycia
+umartwiania się
+<true>tamowania krwi
+
+Modę na jaką sylwetkę zapoczątkowała Twiggi?
+wiotką dziewczęcą
+atletyczną
+<true>chudą chłopięcą
+o bujnych kształtach
+
+Która ze znanych top modelek poślubiła francuskiego piłkarza Fabiena Bartheza?
+Claudia Schiffer
+Cindy Crawford
+<true>Linda Evangelista
+Naomi Cambell
+
+Który ze stanów USA ma tak niewielkie rozmiary, że nazywany bywa „Chusteczką Wuja Sama”?
+Oregon
+<true>Delaware
+Wyoming
+Kolorado
+
+Kogo Merkator umieścił na okładce sporządzonego przez siebie pierwszego zbioru map?
+Anteusza
+Polifema
+<true>Atlasa
+Kariatydę
+
+Największe w Europie skupisko starych dębów o obwodzie do 10 m znajduje się:
+w Nieświeżu
+<true>w Rogalinie
+w Białowieży
+w Arkadii
+
+Wirtuozem jakiego instrumentu był Miles Davis?
+fortepianu
+<true>trąbki
+gitary
+perkusji
+
+Na jakie schorzenie cierpi bohater filmu pt. „Rain Man” zagrany przez Dustina Hoffmana?
+epilepsję
+makrocefalię
+<true>autyzm
+chorobę Alzheimera
+
+<new>20000
+
+Jak miał na imię słoń Trąbalski z wiersza Juliana Tuwima?
+Jonasz
+Dominik
+Maciej
+<true>Tomasz
+
+W hokeju na trawie drużyna razem z bramkarzem liczy:
+9 zawodników
+10 zawodników
+<true>11 zawodników
+12 zawodników
+
+Pantofelek porusza się za pomocą:
+<true>rzęsek
+nibynóżki
+wici
+odnóży
+
+Do dynastii Andegawenów należał:
+Leszek Czarny
+<true>Ludwik Węgierski
+Henryk Walezy
+Henryk IV Probus
+
+Enzymów trawiennych nie zawiera:
+ślina
+<true>osocze limfy
+sok trzustkowy
+sok jelitowy
+
+Czym kończy się pobyt w zakładzie psychiatrycznym głównego bohatera filmu pt. „Lot nad kukułczym gniazdem”?
+<true>śmiercią
+ucieczką do Kanady
+zwolnieniem z zakładu
+buntem szaleńców
+
+Trotyl to:
+1,2-butadien
+2,4,6-trinitrofenol
+<true>2,4,6-trinitrotoluen
+1,2-dichloroetan
+
+Do instrumentów ustnikowych nie należy:
+puzon
+<true>rożek angielski
+trąbka
+tuba
+
+Na której z powieści oparto „libretto” do opery Verdiego pt. „Traviata”?
+<true>„Dama Kameliowa”
+„Nędznicy”
+„Trzej Muszkieterowie”
+„Pustelnia parmeńska”
+
+Który z kątów nie jest płaski?
+<true>dwuścienny’
+rozwarty
+skierowany
+pełny
+
+Zwierzę tratujące pola i palące domostwa ogniem tryskającym z nozdrzy, którego schwytanie było jedną z prac Heraklesa to:
+łania kerynejska
+cantaur
+lew nemejski
+<true>byk kreteński
+
+Śluza Przewięź znajduje się  na Kanale:
+Elbląskim
+<true>Augustowskim
+Noteckim
+Bydgoskim
+
+Jakim tańcem „gorszyli” widzów bohaterowie filmu pt. „Dirty Dancing”?
+<true>mambo
+rumbą
+cza-czą
+tangiem
+
+Szkieletu zewnętrznego nie posiada:
+rak
+małż
+homar
+<true>stułbia
+
+Ile miesięcy trwało powstanie listopadowe?
+dwa
+pięć
+osiem
+<true>jedenaście
+
+Jaka liczba odpowiada rzymskiemu zapisowi LX?
+<true>60
+70
+80
+90
+
+Pitawal to zbiór sprawozdań:
+i referatów
+sportowych
+z obrad
+<true>z procesów
+
+Utwór literacki, któremu towarzysz motto: „Ludzie ludziom zgotowali ten los” to:
+<true>„Medaliony”
+„Inny świat”
+„Rozmowy z katem”
+„Pożegnanie z Marią”
+
+Jak nazywa się czterostrunowa gitara hawajska?
+sitar
+<true>ukulele
+bandura
+banjo
+
+Planetą położoną najbliżej Słońca jest:
+Wenus
+<true>Merkury
+Saturn
+Mars
+
+Kto był prezydentem USA w momencie wybuchu wojny secesyjnej?
+<true>Abraham Lincoln
+George Washington
+Millard Fillmore
+William Henry Harrison
+
+Podczas którego z kolei rejsu zatonął transatlantyk Titanic?
+<true>podczas pierwszego
+podczas drugiego
+podczas trzeciego
+podczas piątego
+
+Jakie terytorium weszło w posiadanie Wielkiej Brytanii na mocy układu nankińskiego z 1842 roku?
+Cejlon
+Birma
+<true>Hongkong
+Nowa Zelandia
+
+Drzewce poziome, służące do przymocowania dolnego liku żagla skośnego to:
+<true>bom
+gafel
+bukszpryt
+saling
+
+Który z wymienionych terminów nie ma nic wspólnego z architekturą?
+łzawnik
+<true>kalander
+pinakiel
+maszkaron
+
+Drużyna NBA, która zdobyła tytuł mistrzowski w sezonie 1999/2000 to:
+Indiana Pacers
+Portland Trail Blazers
+New York Knicks
+<true>Los Angeles Lakers
+
+Który z zespołów jako pierwszy wystąpił w nowojorskiej Carriege Hall?
+Czerwone Gitary
+Trubadurzy
+<true>Budka Suflera
+Elektryczne Gitary
+
+Jaki aparat gębowy posiada motyl?
+<true>ssący
+kłująco-ssący
+gryząco-liżący
+gryzący
+
+Początek arii starego górala Maksyma Tychończuka z dramatu pt. „Karpaccy górale” Józefa Korzeniowskiego to:
+<true>„Czerwony pas...”
+„Zasiali górale...”
+„W murowanej...”
+„Góralu...
+
+Co nie jest tłumaczeniem słów: „mane, thekel, fares”?
+policzono
+zważono
+podzielono
+<true>wysłano
+
+Symonia to kupczenie godnościami:
+<true>kościelnymi
+wojskowymi
+państwowymi
+szlacheckimi
+
+Co projektował Louis Comfort Tiffany?
+meble tapicerskie
+<true>szkło artystyczne
+zabawki
+kapelusze
+
+Która z wymienionych roślin wytwarza owoc zwany rzekomym?
+malina
+ogórek
+<true>truskawka
+pomidor
+
+Która z powieści Stefana Żeromskiego została zekranizowana przez Andrzeja Wajdę w 1965 roku?
+„Dzieje grzechu”
+„Wierna rzeka”
+<true>„Popioły”
+„Ludzie bezdomni”
+
+Na jakim stadionie w 1985 roku, przed rozpoczęciem finałowego meczu o Puchar Europy, zginęło 39 osób?
+<true>Heysel
+Wembley
+Camp Nou
+Maracana
+
+Który z budynków Nowego Jorku przyozdobiony jest gargulcami w kształcie orlich głów?
+<true>Chrysler Building
+Empire State Building
+Woolworth Building
+Seagram Building
+
+Który z amerykańskich reżyserów 30.10.1938 roku wywołał panikę w USA słuchowiskiem o najeździe Marsjan?
+Stanley Kubrick
+<true>Orson Welles
+Elia Kazan
+Robert Aldrich
+
+W informacji o tapecie pojedyncza linia falista oznacza jej wytrzymałość na:
+szorowanie
+<true>mycie
+rozdzieranie
+działanie słońca
+
+Mary Popins, tytułowa bohaterka cyklu powieści Pameli Travers to:
+<true>guwernantka
+wróżka
+psotne dziecko
+wzorowa żona
+
+Jak inaczej nazywają się kręgi guziczne?
+krzywizna szyjna
+<true>kość ogonowa
+kość krzyżowa
+mostek
+
+Gniazdo którego z wymienionych ptaków przypomina rękawicę z jednym palcem?
+zimorodka
+perkoza
+<true>remiza
+jemiołuszki
+
+Pole trafień floretem obejmuje:
+ręce
+nogi
+głowę
+<true>tułów
+
+W jakim mieście 06.07.1950 roku Polska i NRD podpisały układ o uznaniu granicy polsko-niemieckiej?
+<true>w Zgorzelcu
+we Frankfurcie
+w Słubicach
+w Szczecinie
+
+Od jakiej głębokości zaczyna się abisal?
+od ok. 600m w głąb
+od ok. 1000m w głąb
+<true>od ok. 1700m w głąb
+od ok. 2500m w głąb
+
+Jaki kontrowersyjny styl ubierania się wprowadziła Marlena Dietrich?
+mini
+małą czarną
+<true>męską garderobę
+bikini
+
+Który z terminów nie określa kwiatostanu?
+kłos
+wiecha
+sierpik
+<true>rozeta
+
+Kalina Jędrusik w „Kabarecie Starszych Panów” śpiewała: „Bo we mnie jest seks gorący jak...”?
+<true>samum
+piec chlebowy
+sirocco
+lawa
+
+Najdłuższą rzeką półwyspu Indochińskiego jest:
+<true>Mekong
+Saluin
+Iriwadi
+Menam
+
+Kto w czasie „praskiej wiosny” sprawował funkcję I sekretarz KC KPCz?
+Antonin Novotny
+Klement Gottwald
+Gustav Husak
+<true>Alexander Dubczek
+
+Z opium nie otrzymuje się:
+morfiny
+<true>kokainy
+kodeiny
+papaweryny
+
+Z jakiego kraju pochodził astronom Anders Celsius?
+z Niemiec
+z Holandii
+<true>ze Szwecji
+z Austrii
+
+Energię elektryczną z energii fal lub prądów morskich i oceanicznych otrzymuje się w elektrowni:
+maretermicznej
+wodnej
+geotermicznej
+<true>maremotorycznej
+
+Czym różni się piłka siatkowa mężczyzn i kobiet?
+liczbą zawodników
+punktacją
+<true>wysokością siatki
+wielkością piłki
+
+Który z malarzy polskich jest autorem cyklu pt. „Zatruta studnia”?
+Leon Wyczółkowski
+<true>Jacek Malczewski
+Józef Mehoffer
+Stanisław Wyspiański
+
+Miasto słynące z wyrobu samowarów to:
+Stawropol
+<true>Tuła
+Ocha
+Wuktył
+
+Na jakim szczycie Kordian, tytułowy bohater dramatu Juliusza Słowackiego, wygłasza swój monolog?
+na Mount Everest
+na Giewoncie
+na Gerlachu
+<true>na Mont Blanc
+
+Jakiego typu stawem jest staw biodrowy?
+<true>wieloosiowym
+dwuosiowym
+płaskim
+zawiasowym
+
+Którzy z Indian nie są rdzennymi mieszkańcami Ameryki Północnej?
+Szoszoni
+Pajuci
+<true>Arawakowie
+Czejenowie
+
+W 1960 roku Theodore Maiman zbudował pierwszy laser:
+neodymowy
+<true>rubinowy
+argonowy
+półprzewodnikowy
+
+Do epiki nie należy:
+<true>farsa
+baśń
+nowela
+powieść
+
+Jakiego rodzaju zdolności rozwijają obie tytułowe bohaterki „Podwójnego życia Weroniki”?
+plastyczne
+taneczne
+<true>wokalne
+manualne
+
+<new>40000
+
+Który film Stevena Spielberga uczynił gwiazdę z Whoopi Goldberg?
+„Sugarland Express”
+„E.T.”
+„Indiana Jones”
+<true>„Kolor purpury”
+
+Który święty zginął na krzyżu w kształcie litery X?
+św. Bonawentra
+<true>św. Andrzej
+św. Cyryl
+św. Damian
+
+Jak się nazywał statek, na którym w 1893 roku Fridtjoef Nansen próbował dotrzeć do bieguna?
+„Erebus”
+„Terror”
+<true>„Fram”
+„Beagle”
+
+Jak nazywa się partnerka agenta Foxa Muldera z serialu pt. „Z archiwum X”?
+Vicky Vale
+<true>Dana Scully
+Lois Lane
+Dorothy Michaels
+
+Jutrzenka, Gwiazda Polarna to nazwy widocznej nad horyzontem przed wschodem słońca planety:
+Merkury
+<true>Wenus
+Mars
+Jowisz
+
+Gdzie rozegrano pierwsze mistrzostwa świata w piłce nożnej w 1930 roku?
+w Argentynie
+w Meksyku
+we Francji
+<true>w Urugwaju
+
+Wacław Berent w powieści pt. „Próchno” opisuje środowisko:
+drwali
+<true>cyganerii
+filmowców
+chłopów
+
+Jak długo „żyje” czerwona krwinka u człowieka?
+około 30 dni
+<true>około 120 dni
+około 250 dni
+około 360 dni
+
+Zgodnie z krzywą Phillipsa, gdy spada inflacja, bezrobocie:
+też spada
+<true>zanika
+rośnie
+nie zmienia się
+
+Micrea Eliade określił człowieka jako:
+homo oeconomicus
+<true>homo religiosus
+homo insipiens
+homo sovieticus
+
+Która z niemieckich wunderwaffe była bezzałogowym samolotem-bombą?
+<TRUE>V-1
+V-2
+V-3
+Neger
+
+W jakim mieście toczy się akcja opowiadania Andrzeja Sapkowskiego pt. „W leju po bombie”?
+w Augustowie
+<true>w Suwałkach
+w Gołdapi
+w Ełku
+
+Rosyjskie obwarzanki to:
+<true>bubliczki
+cepeliny
+pielmieni
+bliny
+
+Muzą komedii w mitologii greckiej jest:
+Klio
+<true>Talia
+Kaliope
+Melpomene
+
+Gdzie znajduje się Muzeum im. Przypkowskich i wspaniała kolekcja zegarów słonecznych?
+<true>w Jędrzejowie
+w Płocku
+we Fromborku
+we Wrocławiu
+
+Z jakiego filmu pochodzi piosenka Phila Collinsa pt. „You Be In My Heart”, która otrzymała Oscara w 1999 roku?
+„Titanic”
+<true>„Tarzan”
+„Król Lew”
+„Piękna i Bestia”
+
+Koło jakiego miasta znajduje się tor wyścigowy Silverstone?
+koło Dublina
+koło Dover
+<true>koło Northampton
+koło Londonderry
+
+Żydowskie Święto Trąbek to inaczej:
+Sukkot
+Purim
+<true>Rosz Ha-Szana
+Jom Kippur
+
+Czyim patronem jest św. Hubert?
+złodziei
+szewców
+kupców
+<true>myśliwych
+
+Jak brzmi inna nazwa kwasu butanowego?
+kwas octowy
+kwas stearynowy
+<true>kwas masłowy
+kwas siarkowy
+
+Którego faraona przedstawiają dwa gigantyczne posągi, zwane powszechnie „kolosami Memmona”?
+Dżesera
+Ramzesa
+<true>Amenhotepa III
+Chefrena
+
+Kto skomponował słynną balladę do filmu pt. „Dziecko Rosemary”?
+Wojciech Trzciński
+Wojciech Kilar
+<true>Krzysztof Komeda
+Włodzimierz Nahorny
+
+Która z podanych figur to prostopadłościan foremny?
+ostrosłup
+walec
+<true>sześcian
+trójkąt
+
+Baryłka ropy naftowej to około:
+69 dm sześciennych
+<true>159 dm sześciennych
+209 dm sześciennych
+359 dm sześciennych
+
+„Reszta jest milczeniem” – to ostatnie słowa umierającego:
+Makbeta
+Klaudiusza
+Poloniusza
+<true>Hamleta
+
+Jaką nazwę nosił pierwszy lodołamacz o napędzie jądrowym, zbudowany w ZSRR?
+„Arktika”
+„Rossija”
+„Jamał”
+<true>„Lenin”
+
+Antyseptykę w chirurgii wprowadził:
+<true>Joseph Lister
+Theodor Billorth
+Ludwik Pasteur
+Selman Waskman
+
+najwyższym szczytem Japonii jest:
+Hayachine-san
+Hakkenzan
+<true>Fuji-san
+Kurikoma-yama
+
+Naczelnym dowódcą Armii Północnej Wirginii w czasie bitwy pod Gettysburgiem był:
+Ulysses Grant
+„Stonewall” Jackson
+Philip Sheridan
+<true>Robert E. Lee
+
+Meduzę zabił:
+Tezeusz
+Herakles
+<true>Perseusz
+Jazon
+
+Która z roślin podlega w Polsce całkowitej ochronie?
+<true>różanecznik żółty
+babka zwyczajna
+rumianek pospolity
+wiesiołek dwuletni
+
+Ile waży kobieca kula używana w konkurencji pchnięcia kulą?
+2 kg
+<true>4 kg
+5 kg
+6 kg
+
+Który element statku nie należy do omasztowania?
+gafel
+bukszpryt
+bom
+<true>bezan
+
+Tytan jest satelitą:
+<true>Saturna
+Jowisza
+Marsa
+Wenus
+
+Na której z wysp leżą dwa państwa?
+na Jamajce
+na Puerto Rico
+na Barbados
+<true>na Haiti
+
+Inicjatorem założenia w 1838 roku spółki akcyjnej Bazar był:
+H. Cegielski
+<true>K. Marcinkowski
+M. Jackowski
+W. Bentkowski
+
+Skąd pochodził Spartakus?
+zTesalii
+<true>z Tracji
+z Galacji
+z Epiru
+
+Klasztor Monte Cassino jest siedzibą zakonu:
+franciszkanów
+jezuitów
+dominikanów
+<true>benedyktynów
+
+Kosmodrom Bajkonur znajduje się:
+w Gruzji
+w Rosji
+na Ukrainie
+<true>w Kazachstanie
+
+Jak nazwano pierwszy polski doświadczalny reaktor jądrowy, uruchomiony w 1958 roku w Świerku?
+Maria
+Bartek
+<true>Ewa
+Krzyś
+
+Samuel Morse był z zawodu:
+inżynierem
+<true>malarzem
+żeglarzem
+matematykiem
+
+W którym roku utworzono Polskie Koleje Państwowe?
+1918
+1920
+<true>1926
+1954
+
+Z której dynastii pochodziła królowa Jadwiga?
+Piastów
+Jagiellonów
+<true>Andegawenów
+Przemyślidów
+
+Który kontynent jest ojczyzną większości odmian kawy?
+Azja
+Europa
+<true>Afryka
+Ameryka Południowa
+
+Jaką grę wymyślił w 1891 roku James A. Naismith?
+futbol amerykański
+siatkówkę
+<true>koszykówkę
+baseball
+
+Dział hydrografii i biogeografii, zajmujący się bagnami to:
+potamologia
+glacjologia
+<true>paludologia
+speleologia
+
+Kraj z ruinami starożytnej Kartaginy – rywalki Rzymu to:
+Libia
+Egipt
+Algieria
+<true>Tunezja
+
+Jak miał na imię brat Mieszka I?
+Świętopełk
+Lech
+Światosław
+<true>Czcibór
+
+Czym żywi się larwa komara?
+krwią ssaków
+nektarem
+<true>planktonem
+liśćmi
+
+Które ze zbóż nie zawiera glutenu?
+pszenica
+owies
+jęczmień
+<true>kukurydza
+
+Które z imion nie jest odmianą imienia Laurenty?
+Lars
+Wawrzyniec
+Lorenz
+<true>Luigi
+
+Który z zespołów wylansował piosenkę ze słowami: „Nie poganiaj mnie, bo tracę oddech”?
+<true>T. Love
+Maanam
+Lady Pank
+Budka Suflera
+
+Który z prądów oceanicznych jest zimny?
+Kuro Siwo
+Golfsztrom
+Brazylijski
+<true>Dryf Wiatrów Zachodnich
+
+Jaki znak wstępuje w Słońce z początkiem lata, gdy noc jest najkrótsza?
+Byka
+Bliźniąt
+<true>Raka
+Lwa
+
+Która z tkanin nie jest przetykana złotą albo srebrną nicią?
+altembas
+<true>inlet
+złotogłów
+brokat
+
+Podatek pobierany w jednakowej kwocie od wszystkich, przedstawiany przez UPR jako najsprawiedliwszy to:
+podatek liniowy
+<true>podatek pogłówny
+podatek progresywny
+podatek regresywny
+
+Które z miast jest najwyżej położone?
+Tirana
+Taszkent
+<true>Teheran
+Tokio
+
+<new>75000
+
+W którym filmie Romana Polańskiego jedna z ról przypadła Władysławowi Komarowi?
+„Lokator”
+<true>„Piraci”
+„Frantic”
+„Tess”
+
+W którym wieku wielka epidemia dżumy zebrała żniwo trzydziestu procent ludności Europy?
+w XIII
+<true>w XIV
+w XV
+w XVI
+
+Jak nazywał się zakon utworzony w celu obrony pielgrzymów przybywających do Ziemi Świętej?
+<true>templariuszy
+norbertanów
+bonifratrów
+jezuitów
+
+Który z podróżników uważany jest za odkrywcę Australii?
+Ferdynand Magellan
+Luis de Torres
+<true>James Cook
+Krzysztof Kolumb
+
+Która z wymienionych planet ma najwięcej księżyców?
+Mars
+Uran
+Neptun
+<true>Saturn
+
+Godłem którego z Parków Narodowych jest nietoperz?
+Babiogórskiego
+Bieszczadzkiego
+<true>Ojcowskiego
+Wolińskiego
+
+Który z podanych kamieni ozdobnych nie jest minerałem?
+turkus
+<true>perła
+malachit
+szmaragd
+
+Na terenie jakiego państwa znajduje się jezioro Bałchasz?
+Uzbekistanu
+<true>Kazachstanu
+Kirgistanu
+Tadżykistanu
+
+Z kim Ewa Bem w 1970 roku założyła grupę Bemibek?
+z mężem
+z ciotką
+<true>z bratem
+ze swoim profesorem
+
+Który z tenisistów jest znany nie tylko z wysokiego poziomu gry, ale też z ekscentrycznego zachowania?
+Bjoern Borg
+Ivan Lendl
+<true>John McEnroe
+Andre Agassi
+
+Które z podanych zwierząt jest owadem?
+mysikrólik
+mrównik
+<true>mrówkolew
+mrówkojad
+
+Ilu kolorów żetonów używa się w ruletce?
+6
+<true>7
+8
+9
+
+Czemu nadano nazwisko Edmonda Halleya?
+planecie
+gwiazdozbiorowi
+meteorytowi
+<true>komecie
+
+Który z zawodów dotyczących drukarstwa nie odszedł w przeszłość?
+linotypista
+maszynista typograficzny
+zecer
+<true>maszynista offsetowy
+
+Jak nazywał się ukochany Madame Butterfly?
+<true>porucznik Pinkerton
+Angelotti
+hrabia Almawiwa
+książę Tamino
+
+Który z wymienionych jest zimnym wiatrem?
+<true>bora
+sirocco
+samum
+chamsin
+
+Co przechowywano w kanopach?
+wino
+oliwę
+<true>wnętrzności zmarłych
+wodę pitną
+
+W piosence do słów Jeremiego Przybory, Zosia wodzi dziecię na kurhanek, gdzie leży:
+<true>szwadron tatusiów
+pułk tatusiów
+batalion tatusiów
+eskadra tatusiów
+
+Do chmur piętra wysokiego należy:
+altostratus
+<true>cirrus
+cumulus
+nimbostratus
+
+Która z lekkoatletek, jako pierwsza kobieta, pokonała wysokość 2 m w skoku wzwyż?
+<true>R. Ackerman
+S. Simeoni
+U. Meyfarth
+T. Bykowa
+
+Likierem migdałowym jest:
+anis
+<true>amaretto
+advocaat
+aurum
+
+W jakie święto został koronowany na cesarza Karol Wielki?
+w Zaduszki
+w Wielkanoc
+<true>w Boże Narodzenie
+w Zielone Świątki
+
+Który z produktów pochodzenia roślinnego zawiera najwięcej białka?
+<true>ziarno soi
+kasza gryczana
+mąka pszenna
+kasza jęczmienna
+
+Z ilu wypukłych punktów składa się każda litera w alfabecie Braille’a?
+z dwóch
+z trzech
+<true>z sześciu
+z dziewięciu
+
+W którym z filmów Scorsese, de Niro gra rolę powracającego po 14 latach więzienia przestępcę, który mści się na swoim obrońcy?
+„Taksówkarz”
+„Kolor pieniędzy”
+<true>„Przylądek strachu”
+„Po godzinach”
+
+Imhotep był:
+faraonem
+żeglarzem
+<true>architektem
+dowódcą wojsk
+
+Ile dzieci miał Jan Sebastian Bach?
+troje
+pięcioro
+siedmioro
+<true>dwadzieścioro
+
+Kto nie był dzieckiem Priama i Hekuby?
+Parys
+<true>Achilles
+Kasandra
+Hektor
+
+Który ze świętych nie jest autorem Ewangelii synoptycznej?
+Mateusz
+Łukasz
+<true>Jan
+Marek
+
+Zmniejszenie dopływu pieniądza do gospodarki, które powoduje m.in. spadek cen to:
+inflacja
+depresja
+<true>deflacja
+fiskalizm
+
+Który pisarz był rywalem Alberto Fujimoriego podczas wyborów prezydenckich w Peru w 1990 roku?
+Ernesto Sabato
+<true>Mario Vargas Llosa
+Carlos Fuentes
+Octavio Paz
+
+Transporterem tlenu w organizmie jest:
+<true>hemoglobina
+limfa
+osocze
+erytropoetyna
+
+W której bitwie zginął hetman Stanisław Żółkiewski?
+pod Żółtymi Wodami
+pod Korsuniem
+<true>pod Cecorą
+pod Warną
+
+W jakiej konkurencji sportowej rozgrywane są zawody o puchar Stanleya?
+w tenisie
+w strzelectwie
+w szermierce
+<true>w hokeju
+
+Co nie jest regionem administracyjnym Francji?
+Akwitania
+Burgundia
+<true>Gryzonia
+Korsyka
+
+W nocy bryza wieje:
+<true>w kierunku morza
+w kierunku lądu
+tylko zimą
+tylko latem
+
+Onychofagia to nawykowe:
+robienie zakupów
+<true>obgryzanie paznokci
+objadanie się
+oglądanie telewizji
+
+John Brown to słynny amerykański przeciwnik:
+rasizmu
+dyskryminacji kobiet
+<true>niewolnictwa
+wojny w Wietnamie
+
+Przy wycinaniu hołubców należy:
+<true>bić obcasem o obcas
+zdjąć buty
+naostrzyć nożyce
+trzymać się poręczy
+
+Który z literackich i mitologicznych koni reprezentował się najgorzej?
+Bucefał
+Al Borak
+<true>Rosynant
+Celer
+
+Który z wymienionych związków nie należy do alkanów?
+etan
+metan
+pentan
+<true>heksen
+
+4 silnia to:
+22
+<true>24
+28
+34
+
+Jaka roślina nadaje aromat żubrówce i znajduje się w każdej butelce trunku?
+<true>turówka wonna
+marzanka wonna
+tomka wonna
+paczulka wonna
+
+Słupy Heraklesa to skały:
+<true>Ceuty i Gibraltaru
+Kaukazu
+Pamiru
+Meteory
+
+Które określenie nie oznacza nosideł do wiader z wodą?
+koromysło
+sądy
+<true>snębica
+kluki
+
+Herb Zamoyskich to:
+Wczele
+<true>Jelita
+Ślepowron
+Abdank
+
+<new>125000
+
+Który z bogów Egiptu został zabity przez Seta, rozerwany na kawałki i rozrzucony po świecie?
+<true>Ozyrys
+Ptah
+Horus
+Anubis
+
+Z którym z podanych krajów nie graniczy Finlandia?
+z Rosją
+<true>z Łotwą
+z Norwegią
+ze Szwecją
+
+Potlacz gromadził:
+Egipcjan
+Persów
+Adygejczyków
+<true>Indian
+
+Która z wymienionych roślin nie jest odmianą trawy?
+tymotka łąkowa
+wyczyniec łąkowy
+<true>serdecznik pospolity
+trzcina pospolita
+
+Jak ma na imię syn Johna Lennona i Yoko Ono?
+Julian
+John
+Ozu
+<true>Sean
+
+Która z wymienionych planet ma tyle samo księżyców co Ziemia?
+<true>Pluton
+Merkury
+Jowisz
+Neptun
+
+Do jakiej zatoki uchodzi rzeka Missisipi?
+Zatoki Kalifornijskiej
+<true>Zatoki Meksykańskiej
+Zatoki Chesapeake
+Zatoki Moskitów
+
+Ile stopni ma czcionka drukarska pod nazwą petit?
+3
+<true>8
+10
+12
+
+Która z podanych gier nie jest grą karcianą?
+bakarat
+kanasta
+<true>tryktrak
+cribbage
+
+Kto był premierem Rzeczypospolitej Polskiej bezpośrednio przed Jerzym Buzkiem?
+<true>Włodzimierz Cimoszewicz
+Józef Oleksy
+Waldemar Pawlak
+Hanna Suchocka
+
+Do dziesięcionogów nie należy:
+homar
+langusta
+<true>jeżowiec
+pustelnik
+
+Jaki kształt ma pole wewnętrzne w baseballu?
+trójkąta
+<true>kwadratu
+okręgu
+półkola
+
+W którym filmie R. Załuskiego pani naczelnik Kolędowa uważa, że podłość ludzka nie ma granic?
+„Kogel-mogel”
+„Wściekły”
+<true>„Wyjście awaryjne”
+„Komedia małżeńska”
+
+Po jakiej bitwie ustanowiony został Order Virtuti Militari?
+pod Maciejowicami
+pod Lipskiem
+pod Warszawą
+<true>pod Zieleńcami
+
+Mimowolne albo umyślne odstąpienie od logicznej lub składniowej ciągłości w zdaniu nazywamy:
+oksymoronem
+synekdochą
+<true>anakolutem
+hiperbolizacją
+
+Które ze świąt nie jest obchodzone w listopadzie?
+Zaduszki
+Allerseelentag
+Thanksgiving Day
+<true>Chanuka
+
+Która z Polek zdobyła tytuł Miss Olimpiady w Seulu?
+<true>T. Folga
+I. Dylewska
+M. Księżkiewicz
+B. Wysoczańska
+
+Jak nazwano szczątki kobiece Preaustralopithecusa, odkryte na terenie Afaru?
+Marg
+<true>Lucy
+Rosa
+Sylvi
+
+Dział fizyki atmosfery, badający zjawiska w wyższych warstwach atmosfery ziemskiej to:
+aeronautyka
+<true>aerologoia
+aerodynamika
+termodynamika
+
+Gdzie skończyła szkołę filmową Agnieszka Holland?
+w Moskwie
+w Los Angeles
+<true>w Łodzi
+w Pradze
+
+Pancerz z metalowych łusek naszytych na skórzany kaftan to:
+kolczuga
+zbroja kostiumowa
+<true>karacena
+zbroja płytowa
+
+Senat, wyższa izba parlamentu polskiego, liczy:
+460 senatorów
+120 senatorów
+<true>100 senatorów
+86 senatorów
+
+Stolicą stanu Waszyngton jest:
+Columbus
+<true>Olympia
+Providence
+Sacramento
+
+Serce Fryderyka Chopina zostało przewiezione do Polski przez:
+jego szwagra
+<true>jego siostrę
+jego ojca
+jego matkę
+
+Który z instrumentów dętych posiada suwak?
+klarnet
+saksofon
+obój
+<true>puzon
+
+Co swoim kształtem przypomina korzeń mandragory?
+<true>człowieka
+korkociąg
+gwiazdę
+węża
+
+Ile kręgów piersiowych ma człowiek?
+10
+<true>12
+14
+16
+
+Kto zakochuje się w Loli, „Błękitnym Aniele”, granej przez Marlenę Dietrich?
+<true>profesor
+szatniarz
+malarz
+kompozytor
+
+Członkowie które z grup subkulturowych byli motocyklistami w czarnych skórzanych kurtkach?
+wazeliniarze
+bikiniarze
+<true>rockersi
+hipisi
+
+Jak nazywają się smażone w cukrze łodygi arcydzięgla, używane do dekoracji tortów?
+<true>anżelika
+tatarak
+anyżek
+arak
+
+Jaki kształt liści ma miłorząb?
+owalny
+<true>wachlarzowaty
+lancetowaty
+oszczepowaty
+
+Którego z królów Polski prawdopodobnie obłąkany Michał Piekarski ranił czekanem w głowę?
+<true>Zygmunta III Wazę
+Władysława IV
+Jana II Kazimierza
+Augusta Mocnego
+
+W jakim kraju znajdują się góry Kaledońskie?
+w Norwegii
+w Danii
+<true>w Wielkiej Brytanii
+w Irlandii
+
+Który z wymienionych pierwiastków chemicznych nie należy do borowców?
+glin
+<true>europ
+tal
+ind
+
+Nazwa których zwierząt oznacza nocne widma, upiory?
+kalongów
+waranów
+<true>lemurów
+wapiti
+
+Który z leków uzyskiwano z kozłka lekarskiego?
+<true>walerianę
+aspirynę
+urosept
+maść ichtiolową
+
+Inkunabuł to stary druk sprzed:
+1201 roku
+1401 roku
+<true>1501 roku
+1801 roku
+
+Helena Modrzejewska i Jan Krzepkowski, zwany Sabałą, byli rodzicami chrzestnymi:
+Or-Ota
+<true>Witkacego
+Sewera
+Boya
+
+Woda królewska to mieszanina:
+zasad
+soli
+<true>kwasów
+olejków eterycznych
+
+W jakiej tonacji nie ma żadnych znaków przykluczowych?
+b-moll
+A-dur
+e-moll
+<true>C-dur
+
+Która z wymienionych postaci biblijnych nie była synem Noego?
+Cham
+<true>Nemrod
+Sem
+Jafet
+
+Gdzie w 1999 roku odbył się Przystanek Woodstock?
+<true>w Żarach
+w Szczecinie-Dąbiu
+w Żarnowcu
+w Lęborku
+
+<new>250000
+
+Orylka to dawniej:
+piekarstwo
+sądownictwo
+orka
+<true>flisactwo
+
+Która z wymienionych jaszczurek jest jadowita?
+moloch kolczasty
+smok latający
+scynk aptekarski
+<true>heloderma
+
+Reprezentacja którego z wymienionych krajów nie zakwalifikowała się do półfinałów Euro 2000?
+Portugalii
+Włoch
+<true>Hiszpanii
+Holandii
+
+Który z zespołów uczestniczył w psychodelicznych seansach organizowanych przez Kena Keseya?
+Pink Floyd
+<true>Grateful Dead
+The Beatles
+Cream
+
+Ostatnią bitwą w kampanii wrześniowej była bitwa:
+<true>pod Kockiem
+nad Bzurą
+pod Szackiem
+pod Tomaszowem
+
+Jak miał na nazwisko tytułowy bohater noweli Henryka Sienkiewicza pt. „Latarnik”?
+Korczyński
+<true>Skawiński
+Orzelski
+Wysocki
+
+Wyspa Mauritius zawdzięcza swoją nazwę:
+Hiszpanom
+Francuzom
+<true>Holendrom
+Anglikom
+
+Jak nazywa się detektyw grany przez Gene Hackmana w filmie pt. „Francuski łącznik”?
+<true>Doyle
+McClane
+Malone
+Curran
+
+Kto przeprowadził pierwszą operację przeszczepienia serca u człowieka?
+Zbigniew Religa
+<true>Christian Barnard
+Rudolf Nissen
+Wiktor Dega
+
+Co oznacza łacińskie słowo „impromptu”?
+<true>na poczekaniu
+na korzyść
+w praktyce
+na zawsze
+
+Leghorny są uszlachetnioną rasą:
+koni
+krów
+<true>kur
+owiec
+
+Lider jakiego zespołu urządził sobie studio nagraniowe w domu, gdzie zamordowano Sharon Tate?
+<true>Nine Inch Nails
+The Prodigy
+Type O Negative
+Black Sabbath
+
+Noszony przez żołnierzy w drugiej połowie XVIII wieku harcap chronił przed uderzeniem:
+w kolano
+<true>w szyję
+w pierś
+w ramię
+
+Kto napisał: „Nie ma książek moralnych i niemoralnych. Są książki napisane dobrze lub źle”?
+Victor Hugo
+August Strindberg
+Thomas Mann
+<true>Oscar Wilde
+
+Holendrowanie jest figurą wykonywaną:
+na nartach
+<true>na łyżwach
+na trampolinie
+na snowboardzie
+
+W jakim państwie wybuchła w 1833 roku wojna domowa, zwana pierwszą wojną karlistowską?
+we Francji
+we Włoszech
+<true>w Hiszpanii
+w Wielkiej Brytanii
+
+Ilu braci miał Robinson Crusoe, główny bohater powieści Daniela Defoe?
+<true>dwóch
+trzech
+czterech
+pięciu
+
+Który z kierowców Formuły 1 wygrał Grand Prix Monaco w sezonie 2000?
+Michael Schumacher
+<true>David Coulthard
+Mika Hakkinen
+Ralf Schumacher
+
+Z kim 30 listopada 1988 roku Lech Wałęsa przeprowadził debatę telewizyjną?
+z C. Kiszczakiem
+z M. Rakowskim
+<true>z A. Miodowiczem
+ze S. Cioskiem
+
+Tył języka najsilniej reaguje na smak:
+gorzki
+kwaśny
+słony
+<true>gorzki
+
+Na granicy którego z wymienionych państw nie znajduje się Jezioro Bodeńskie?
+<true>Włoch
+Niemiec
+Szwajcarii
+Austrii
+
+Jack Nicholson w filmie Michelangelo Antonioniego z 1975 roku zagrał:
+adwokata
+listonosza
+<true>reportera
+oszusta
+
+Czym jest ter?
+stopem metali
+rzadkim minerałem
+twardym drewnem
+<true>rodzajem smaru
+
+Kto powiedział: „To jeden mały krok dla człowieka, ale dla ludzkości krok olbrzymi”?
+Jurij Gagarin
+John Glenn
+Władimir Titow
+<true>Neil Armstrong
+
+W ilu konkurencjach rozgrywano zawody podnoszenia ciężarów do 1972 roku?
+w jednej
+w dwóch
+<true>w trzech
+w czterech
+
+Którą z symfonii Beethovena nazywamy „Pastoralną”?
+I – C-dur
+III – Es-dur
+V – c-moll
+<true>VI – F-dur
+
+Ile mililitrów krwi przepływa przez nerki dorosłego człowieka w ciągu minuty?
+100
+600
+<true>1200 
+2400
+
+Przez które z wymienionych państw afrykańskich nie przebiega równik?
+Zair
+<true>Etiopię
+Kenię
+Kongo
+
+Imprimatur jest zezwoleniem na:
+ślub
+posiadanie broni
+<true>drukowanie książki
+używanie logo firmy
+
+Wapiti, zamieszkujące północnoamerykańskie lasy, są:
+niedźwiedziami
+sowami
+borsukami
+<true>jeleniami
+
+Eric Draven, główny bohater filmu pt. „Kruk”, był:
+<true>muzykiem rockowym
+informatykiem
+dziennikarzem
+bibliotekarzem
+
+Co trzyma w dłoni tytułowa Wenus z Urbino za obrazie Tycjana?
+lustro
+wachlarz z piór
+szal
+<true>kwiaty
+
+Za odkrycie czego Karl Landsteiner w 1930 roku otrzymał Nagrodę Nobla?
+witaminy K
+<true>grup krwi człowieka
+insuliny
+hormonu wzrostu
+
+W jakim gwiazdozbiorze znajduje się gwiazda Syriusz?
+Wielkiego Psa
+<true>Byka
+Krzyża Południa
+Oriona
+
+najlżejszym metalem jest:
+cynk
+bar
+chrom
+<true>lit
+
+W jakim mieście w grudniu 1980 roku został zastrzelony John Lennon?
+w Londynie
+w Birmingham
+<true>w Nowym Jorku
+w Memphis
+
+Midas był królem:
+Teb
+<true>Frygii
+Myken
+Tracji
+
+Który z wymienionych układów nie jest układem Black Jacka?
+as-dama
+as-walet
+as-dziesiątka
+<true>as-as
+
+<new>500000
+
+W którym z wymienionych filmów Jana Jakuba Kolskiego możemy oglądać Bogusława Lindę?
+„Grający z talerza”
+„Cudowne miejsce”
+„Pograbek”
+<true>„Jańcio Wodnik”
+
+
+Które z afrykańskich jezior jest najdalej wysunięte na południe?
+Czad
+<true>Niasa
+Wiktorii
+Tanganika
+
+W którym roku niemiecki majster piekarniczy Karol Wedel założył w Warszawie fabrykę słodyczy?
+w 1801 roku
+<true>w 1851 roku
+w 1901 roku
+w 1945 roku
+
+Jakim słynnym zdaniem kończyły się wykłady z mniemanologii stosowanej J. T. Stanisławskiego?
+„to już wszystko”
+„dziękuję za powagę”
+<true>„i to by było na tyle”
+„do usłyszenia”
+
+W której z gier komputerowych można na czele Wehrmachtu zdobyć Waszyngton?
+„Warhammer”
+<true>„Panzer General”
+„Rites of War”
+„Balls of Steel”
+
+Kto grał ociemniałego właściciela sklepu muzycznego w filmie pt. „Blues Brothers”?
+John Mayal
+B. B. King
+<true>Ray Charles
+John Lee Hooker
+
+Jaki kształt ma reprezentacyjny gabinet prezydenta w Białym Domu?
+pięciokątny
+<true>owalny
+prostokątny
+kwadratowy
+
+Zarodek w ptasim jaju w stałym położeniu utrzymuje:
+skorupka
+błona pergaminowa
+<true>skrętka białkowa
+komora powietrzna
+
+Z którym z wymienionych województw nie graniczy województwo wielkopolskie?
+kujawsko-pomorskim
+zachodniopomorskim
+<true>śląskim
+dolnośląskim
+
+Ostatni przywódca komunistycznej Bułgarii to:
+Petyr Stojanow
+<true>Todor Żiwkow
+Georgi Dymitrow
+Wyłko Czerwenkow
+
+Samica jakich ptaków na pewien czas pozostaje zamurowana w dziupli wraz z potomstwem?
+altannika
+<true>dzioborożca
+maskonura
+nogala
+
+Jaki przydomek dzięki ogromnemu zasięgowi ramion zyskał niemiecki pływak Michael Gross?
+„orzeł”
+„kondor”
+<true>„albatros”
+„fregata”
+
+Kto w 1939 roku skonstruował pierwszy na świecie samolot odrzutowy?
+<true>Ernst Heinkel
+Edward W. Boeing
+Frank Piasecki
+Artiom Mikojan
+
+Życie to powieść idioty, pełna wrzasku i wściekłości, lecz nic nie znacząca”, mówi w obliczu śmierci:
+<true>Makbet
+Hamlet
+król Lear
+Ryszard III
+
+Układ elektropneumatycznego sterowania hamulców w samochodach ciężarowych to:
+CCS
+ABS
+<TRUE>EBS
+ATC
+
+Chorobliwe napady krótkotrwałego snu pojawiające się w ciągu dnia to:
+hipersomnia
+somnambulizm
+bezdech
+<true>narkolepsja
+
+Kogo zagrał Charlie Chaplin w filmie opartym na faktach pt. „Monsieur Verdoux”?
+artystę malarza
+<true>mordercę kobiet
+byłego żołnierza
+szpiega
+
+Ile punktów zdobywa zawodnik rugby za przyłożenie?
+3
+4
+<true>5
+6
+
+„Requiem dla mojego przyjaciela” Zbigniewa Preisnera to koncert poświęcony pamięci:
+<true>K. Kieślowskiego
+J. Nasfetera
+T. Janczara
+Z. Herberta
+
+Tenorki są rodzajem:
+gitary
+<true>skrzypiec
+mandoliny
+banjo
+
+Bukowisko to okres godowy:
+dzików
+niedźwiedzi
+danieli
+<true>łosi
+
+W którym z filmów Marylin Monroe i Clark Gable zagrali swoje ostatnie role?
+„Przystanek autobusowy”
+„Książę i aktoreczka”
+„Niagara”
+<true>„Skłóceni z życiem”
+
+Jakie nakrycie głowy stosuje zawodnik dyscypliny ujeżdżenia?
+<true>cylinder
+melonik
+kask
+toczek
+
+Jak Ferdynand Magellan nazywał wyspy Mariany?
+Wyspy Dziewicze
+Wyspy Nadziei
+Wyspy Wiatrów
+<true>Wyspy Złodziejskie
+
+Który z wymienionych kwiatów wabi zapylające go muchy zapachem rozkładającego się mięsa?
+<true>bukietnica Arnolda
+skrzydłokwiat
+welwiczja przedziwna
+opuncja
+
+Która z pań nie została uwieczniona jako francuski symbol wolności – Marianna?
+Brigitte Bardot
+<true>Vanessa Paradis
+Catherine Denueve
+Laetitia Casta
+
+Czyje piosenki wykonywała grupa „Szwagierkolaska” na płycie pt. „Luksus”?
+Jeremiego Przybory
+St. Staszewskiego
+Henryka Warsa
+<true>Stanisława Grzesiuka
+
+Dziesięciocyfrowy międzynarodowy znormalizowany numer książki to:
+IRBM
+ICBM
+ISSN
+<TRUE>ISBN
+
+Zmyślanie wiarygodnych objawów urojonych chorób, prowadzące nawet do zbędnych operacji to:
+zespół Tourette’a
+<true>zespół Muenchausena
+zespół Marfana
+zespół Picwicka
+
+Pierwszy model prądnicy skonstruował:
+Alessandro Volta
+<true>Michael Faraday
+Georg Ohm
+William Sturgeon
+
+W konkursie jakiego tańca startują Mia Wallace i Vincent Vega w filmie pt. „Pulp Fiction”?
+<true>twista
+tanga
+mambo
+rumby
+
+Wybrany do Senatu może być obywatel polski, mający prawo wybierania, który najpóźniej w dniu wyborów skończy:
+18 lat
+21 lat
+25 lat
+<true>30 lat
+
+O kim napisał pieśń-awanturkę Jeremi Przybora?
+<true>o Kapturku 62
+o Kapturku 72
+o Kapturku 82
+o Kapturku 92
+
+Juzing jest cienką linką używaną przez:
+szewców
+kaletników
+<true>żeglarzy
+krawców
+
+<new>1000000
+
+Czyjego utworu nie znajdziemy na ścieżce dźwiękowej z filmu pt. „Pulp Fiction”?
+Kool & The Gang
+<true>Marvin Gaye
+Urge Overkill
+Chuck Berry
+
+Które z żeber, licząc od góry, należy do tak zwanych żeber rzekomych?
+czwarte
+<true>dziewiąte
+piąte
+szóste
+
+Który z możliwych działań rządu nie mieści się w monetarystycznej wizji państwa, według Miltona Friedmana?
+<true>regulacja cen
+emisja pieniądza
+ochrona własności
+obniżanie podatków
+
+Który z polskich pisarzy ożenił się z córką znanego włoskiego filozofa Benedetto Croce?
+<true>Gustaw Herling-Grudziński
+Aleksander Wat
+Henryk Grynberg
+Czesław Miłosz
+
+Zapowiedź czego zawierała druga tajemnica fatimska?
+zamachu na papieża
+<true>nawrócenia Rosji
+końca świata
+III wojny światowej
+
+Kto 27 czerwca 2000 roku został pełnomocnikiem komitetu wyborczego Mariana Krzaklewskiego?
+<true>Andrzej Szkaradek
+Wiesław Walendziak
+Kajus Augustyniak
+Maria Krzaklewska
+
+Pierwszym znanym państwem Słowian było państwo:
+Polan
+<true>Samona
+wielkomorawskie
+czeskie
+
+Ręczny granatnik przeciwpancerny RPG-76 „Komar” to broń:
+<true>jednorazowego użytku
+dwukrotnego użytku
+czterokrotnego użytku
+wielokrotnego użytku
+
+Ścieżka dźwiękowa do filmu pt. „Dzieci Sancheza” jest mistrzowskim popisem gry Chucka Mangione na:
+saksofonie
+kornecie
+klarnecie
+<true>fluegelhornie
+
+Po ilu latach drużyna Los Angeles Lakers w sezonie 1999/2000 znów wywalczyła tytuł mistrza NBA?
+po 5
+po 8
+<true>po 12
+po 18
+
+Aktorką, która stała się pierwowzorem filmowego wampa była:
+Pola Negri
+<true>Theda Bara
+Mae West
+Mary Pickford
+
+Bramkarz polskiej reprezentacji w finałowym meczu igrzysk olimpijskich Barcelona ’92 to:
+<true>Aleksander Kłak
+Maciej Szczęsny
+Bogusław Wyparło
+Józef Wandzik
+
+Przez które z wymienionych państw nie przechodzi zwrotnik Raka?
+Indie
+Arabia Saudyjska
+<true>Maroko
+Meksyk
+
+Co, według powtarzanego przez siebie tekstu, robił Hermann Goering, gdy słyszał słowo „kultura”?
+<true>odbezpieczał browninga
+sięgał po słownik
+zgrzytał zębami
+bił rozmówcę w twarz
+
+Który z likierów jest aromatyzowany karczochami?
+amaretto
+glayva
+drambuie
+<true>cynar
+
+Głupiec, opój, żarłok i tchórz – bohater sztuk Alfreda Jarry pt. „Ubu król” i „Ubu skowany” to:
+Zeszczykufel
+Byczysław
+Wacław Ubu
+<true>Franciszek Ubu
+
+Ustanowiona w 1969 roku nagroda Bookera przyznawana jest corocznie:
+politykom
+<true>literatom
+sportowcom
+lekarzom
+
+Gdzie znajduje się Ngorongoro, kaldera i rezerwat krajobrazowo-zwierzęcy?
+<true>w Tanzanii
+w Kenii
+w Zambii
+w Mozambiku
+
+Który z terminów nie określa składnika krwi?
+hemoglobina
+limfocyt
+<true>tyrocyt
+granulocyt
+
+W którą z gier komputerowych można było grać na ośmiobitowym Atari 65XE?
+<true>„Behind Jaggi Lines”
+„Allied General”
+„Mortal Combat”
+„Quake”
+
+Arminiusz, który zadał Rzymianom klęskę w Lesie Teutoburskim, był wodzem plemienia:
+Longobardów
+Markomanów
+Swewów
+<true>Cherusków
+
+Które z wymienionych drzew nie należy do grupy tzw. drzew żelaznych?
+parrocja perska
+grab karoliński
+<true>mamutowiec
+wiązowiec
+
+W którym z opowiadań K. Lewandowskiego po Warszawie grasują bojówki „gwoździ” – fanatycznych wegetarian?
+„Ogień”
+<true>„Półmisek”
+„Noteka 2000”
+„Pacykarz”
+
+Prezydent USA, Lyndon Johnson, realizował program zwiększenia zabezpieczeń socjalnych o nazwie:
+Fair Deal
+New Foundations
+<true>Great Society
+New Deal
+
+Pojęcie „homo sovieticus” wprowadził do kultury:
+Aleksander Mień
+<true>Aleksander Zinowjew
+Aleksander Sołżenicyn
+Siergiej Kowaliow
+
+Jak nazywał się album, na którym Nick Cave zawarł swe duety z Kylie Minogue i P. J. Harvey?
+<true>„Morder Ballads”
+„The Good Son”
+„Boatman’s Call”
+„Let Love In”
+
+W 1983 roku Jan Paweł II spotkał się z Lechem Wałęsą w :
+Watykanie
+Gdańsku
+Nowej Hucie
+<true>Dolinie Chochołowskiej
+
+Ilu korcom odpowiadał łaszt gdański?
+20 korcom
+30 korcom
+<true>60 korcom
+100 korcom
+
+„Bibi” Netanjahu był premierem i szefem partii:
+<true>Likud
+Moledet
+Mafdal
+Szas
+
+Akcja której z powieści fantasy toczy się na płaskiej Ziemi, spoczywającej na grzbietach czterech słoni?
+„Różanooka”
+<true>„Kolor magii”
+„Czas pogardy”
+„Silmariliion”
