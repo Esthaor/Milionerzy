@@ -4,6 +4,7 @@ import com.grzegorzm.wpam.milionerzy.activities.MenuActivity;
 import com.grzegorzm.wpam.milionerzy.model.entity.Question;
 
 import java.util.List;
+import java.util.Map;
 import java.util.Random;
 
 public class GameSingleton {
@@ -14,6 +15,9 @@ public class GameSingleton {
     private int lastLevel;
     private Random r;
     private int totalPoints;
+    private boolean fiftyFiftyUnused;
+    private boolean audienceUnused;
+    private boolean telephoneCallUnused;
 
     private GameSingleton() {
         r = new Random();
@@ -35,6 +39,9 @@ public class GameSingleton {
     public void startGame() {
         lastLevel = 0;
         totalPoints = 0;
+        fiftyFiftyUnused = true;
+        audienceUnused = true;
+        telephoneCallUnused = true;
         generateNextQuestion();
     }
 
@@ -52,6 +59,21 @@ public class GameSingleton {
         return res;
     }
 
+    public void fiftyFifty() {
+        fiftyFiftyUnused = false;
+        lastQuestion.fiftyFifty();
+    }
+
+    public void telephoneCall() {
+        telephoneCallUnused = false;
+        lastQuestion.telephoneCall();
+    }
+
+    public void audience() {
+        audienceUnused = false;
+        lastQuestion.audience();
+    }
+
     public QuestionAsked getLastQuestion() {
         return lastQuestion;
     }
@@ -62,5 +84,17 @@ public class GameSingleton {
 
     public int getTotalPoints() {
         return totalPoints;
+    }
+
+    public boolean isFiftyFiftyUnused() {
+        return fiftyFiftyUnused;
+    }
+
+    public boolean isAudienceUnused() {
+        return audienceUnused;
+    }
+
+    public boolean isTelephoneCallUnused() {
+        return telephoneCallUnused;
     }
 }

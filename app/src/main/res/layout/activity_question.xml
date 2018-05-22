@@ -13,94 +13,108 @@
         android:visibility="gone">
 
         <LinearLayout
-            android:layout_width="match_parent"
+            android:layout_width="fill_parent"
             android:layout_height="match_parent"
+            android:layout_gravity="center"
             android:layout_weight="1"
             android:gravity="center"
+            android:onClick="thresholdOnClick"
             android:orientation="vertical">
 
             <TextView
                 android:id="@+id/textViewLevel12"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="1 000 000" />
 
             <TextView
                 android:id="@+id/textViewLevel11"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="500 000" />
 
             <TextView
                 android:id="@+id/textViewLevel10"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="250 000" />
 
             <TextView
                 android:id="@+id/textViewLevel09"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="125 000" />
 
             <TextView
                 android:id="@+id/textViewLevel08"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="75 000" />
 
             <TextView
                 android:id="@+id/textViewLevel07"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="40 000" />
 
             <TextView
                 android:id="@+id/textViewLevel06"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="20 000" />
 
             <TextView
                 android:id="@+id/textViewLevel05"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="10 000" />
 
             <TextView
                 android:id="@+id/textViewLevel04"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="5 000" />
 
             <TextView
                 android:id="@+id/textViewLevel03"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="2 000" />
 
             <TextView
                 android:id="@+id/textViewLevel02"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="1 000" />
 
             <TextView
                 android:id="@+id/textViewLevel01"
-                android:layout_width="wrap_content"
+                android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="500" />
         </LinearLayout>
     </ScrollView>
@@ -114,51 +128,120 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
             android:orientation="vertical">
 
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textViewFiftyFifty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:width="60dp"
+                    android:height="60dp"
+                    android:gravity="center"
+                    android:onClick="fiftyOnClick"
+                    android:text="50/50" />
+
+                <TextView
+                    android:id="@+id/textViewTelephone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:width="60dp"
+                    android:height="60dp"
+                    android:gravity="center"
+                    android:onClick="telephoneOnClick"
+                    android:text="tel" />
+
+                <TextView
+                    android:id="@+id/textViewAudience"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:width="60dp"
+                    android:height="60dp"
+                    android:gravity="center"
+                    android:onClick="audienceOnClick"
+                    android:text="aud" />
+            </LinearLayout>
+
             <TextView
-                android:id="@+id/textView"
+                android:id="@+id/textViewQuestion"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:height="100dp"
+                android:gravity="center"
                 android:text="Question"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
-            <Button
+            <TextView
                 android:id="@+id/buttonAnswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:height="50dp"
+                android:gravity="center"
                 android:onClick="answerOnClick"
                 android:text="Answer 1"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
 
-            <Button
+            <TextView
                 android:id="@+id/buttonAnswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:height="50dp"
+                android:gravity="center"
                 android:onClick="answerOnClick"
                 android:text="Answer 2"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
 
-            <Button
+            <TextView
                 android:id="@+id/buttonAnswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:height="50dp"
+                android:gravity="center"
                 android:onClick="answerOnClick"
                 android:text="Answer 3"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
 
-            <Button
+
+            <TextView
                 android:id="@+id/buttonAnswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:height="50dp"
+                android:gravity="center"
                 android:onClick="answerOnClick"
                 android:text="Answer 4"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <TextView
+                android:id="@+id/textViewTelephoneMessage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:height="50dp"
+                android:gravity="center"
+                android:text="Telephone"
+                android:visibility="gone"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
         </LinearLayout>
@@ -173,15 +256,17 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_gravity="center"
             android:layout_weight="1"
             android:gravity="center"
             android:orientation="vertical">
 
             <TextView
                 android:id="@+id/textViewScore"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:text="Final Score: " />
 
             <Button
@@ -189,6 +274,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:gravity="center"
                 android:onClick="okOnClick"
                 android:text="Menu"
                 app:layout_constraintBottom_toBottomOf="parent"

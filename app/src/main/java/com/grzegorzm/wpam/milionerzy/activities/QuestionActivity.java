@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.TextView;
 
 import com.grzegorzm.wpam.milionerzy.R;
@@ -13,20 +12,44 @@ import com.grzegorzm.wpam.milionerzy.logic.GameSingleton;
 import com.grzegorzm.wpam.milionerzy.logic.QuestionAsked;
 
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class QuestionActivity extends AppCompatActivity {
-    GameSingleton gs = GameSingleton.getInstance();
+    private GameSingleton gs = GameSingleton.getInstance();
+    private static boolean questionLoaded;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_question);
         showQuestion();
+        TextView fifty = findViewById(R.id.textViewFiftyFifty);
+        if (gs.isFiftyFiftyUnused())
+            fifty.setBackgroundColor(Color.argb(0, 255, 255, 255));
+        else
+            fifty.setBackgroundColor(Color.argb(255, 200, 200, 200));
+        TextView tel = findViewById(R.id.textViewTelephone);
+        if (gs.isTelephoneCallUnused())
+            tel.setBackgroundColor(Color.argb(0, 255, 255, 255));
+        else
+            tel.setBackgroundColor(Color.argb(255, 200, 200, 200));
+        TextView aud = findViewById(R.id.textViewAudience);
+        if (gs.isAudienceUnused())
+            aud.setBackgroundColor(Color.argb(0, 255, 255, 255));
+        else
+            aud.setBackgroundColor(Color.argb(255, 200, 200, 200));
     }
 
     public void answerOnClick(View view) {
-        Button b = (Button) view;
-        gs.answer(String.valueOf(b.getText()));
+        TextView b = (TextView) view;
+        String s = String.valueOf(b.getText());
+        Pattern pattern = Pattern.compile("(.*)\\t+\\d+%");
+        Matcher matcher = pattern.matcher(s);
+        if (matcher.find()) {
+            s = matcher.group(1);
+        }
+        gs.answer(s);
         if (gs.getLastQuestion() == null)
             showFinalScore();
         else
@@ -35,6 +58,37 @@ public class QuestionActivity extends AppCompatActivity {
 
     public void okOnClick(View view) {
         finish();
+    }
+
+    public void thresholdOnClick(View view) {
+        showQuestion();
+    }
+
+    public void fiftyOnClick(View view) {
+        if (gs.isFiftyFiftyUnused()) {
+            gs.fiftyFifty();
+            TextView fifty = findViewById(R.id.textViewFiftyFifty);
+            fifty.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            showQuestion();
+        }
+    }
+
+    public void audienceOnClick(View view) {
+        if (gs.isAudienceUnused()) {
+            gs.audience();
+            TextView aud = findViewById(R.id.textViewAudience);
+            aud.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            showQuestion();
+        }
+    }
+
+    public void telephoneOnClick(View view) {
+        if (gs.isTelephoneCallUnused()) {
+            gs.telephoneCall();
+            TextView tel = findViewById(R.id.textViewTelephone);
+            tel.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            showQuestion();
+        }
     }
 
     private void showQuestion() {
@@ -48,24 +102,51 @@ public class QuestionActivity extends AppCompatActivity {
         QuestionAsked lastQuestion = gs.getLastQuestion();
         List<String> answers = lastQuestion.getAnswers();
 
-        TextView textView = findViewById(R.id.textView);
-        Button buttonAnswer1 = findViewById(R.id.buttonAnswer1);
-        Button buttonAnswer2 = findViewById(R.id.buttonAnswer2);
-        Button buttonAnswer3 = findViewById(R.id.buttonAnswer3);
-        Button buttonAnswer4 = findViewById(R.id.buttonAnswer4);
+        TextView textView = findViewById(R.id.textViewQuestion);
+        TextView buttonAnswer1 = findViewById(R.id.buttonAnswer1);
+        TextView buttonAnswer2 = findViewById(R.id.buttonAnswer2);
+        TextView buttonAnswer3 = findViewById(R.id.buttonAnswer3);
+        TextView buttonAnswer4 = findViewById(R.id.buttonAnswer4);
         textView.setText(lastQuestion.getQuestionText());
-        buttonAnswer1.setText(answers.get(0));
-        buttonAnswer2.setText(answers.get(1));
-        buttonAnswer1.setVisibility(View.VISIBLE);
-        buttonAnswer2.setVisibility(View.VISIBLE);
-        if (answers.size() > 2) {
-            buttonAnswer3.setText(answers.get(2));
-            buttonAnswer4.setText(answers.get(3));
-            buttonAnswer3.setVisibility(View.VISIBLE);
-            buttonAnswer4.setVisibility(View.VISIBLE);
+
+        List<Integer> audiencePercentage = lastQuestion.getAudiencePercentage();
+        if (audiencePercentage != null && (audiencePercentage.size() == answers.size())) {
+            buttonAnswer1.setText(answers.get(0) + "\t" + audiencePercentage.get(0) + "%");
+            buttonAnswer2.setText(answers.get(1) + "\t" + audiencePercentage.get(1) + "%");
+            buttonAnswer1.setVisibility(View.VISIBLE);
+            buttonAnswer2.setVisibility(View.VISIBLE);
+            if (answers.size() > 2) {
+                buttonAnswer3.setText(answers.get(2) + "\t" + audiencePercentage.get(2) + "%");
+                buttonAnswer4.setText(answers.get(3) + "\t" + audiencePercentage.get(3) + "%");
+                buttonAnswer3.setVisibility(View.VISIBLE);
+                buttonAnswer4.setVisibility(View.VISIBLE);
+            } else {
+                buttonAnswer3.setVisibility(View.GONE);
+                buttonAnswer4.setVisibility(View.GONE);
+            }
         } else {
-            buttonAnswer3.setVisibility(View.GONE);
-            buttonAnswer4.setVisibility(View.GONE);
+            buttonAnswer1.setText(answers.get(0));
+            buttonAnswer2.setText(answers.get(1));
+            buttonAnswer1.setVisibility(View.VISIBLE);
+            buttonAnswer2.setVisibility(View.VISIBLE);
+            if (answers.size() > 2) {
+                buttonAnswer3.setText(answers.get(2));
+                buttonAnswer4.setText(answers.get(3));
+                buttonAnswer3.setVisibility(View.VISIBLE);
+                buttonAnswer4.setVisibility(View.VISIBLE);
+            } else {
+                buttonAnswer3.setVisibility(View.GONE);
+                buttonAnswer4.setVisibility(View.GONE);
+            }
+        }
+        questionLoaded = true;
+        String telephoneMessage = lastQuestion.getTelephoneMessage();
+        TextView tm = findViewById(R.id.textViewTelephoneMessage);
+        if (telephoneMessage != null) {
+            tm.setText(telephoneMessage);
+            tm.setVisibility(View.VISIBLE);
+        } else {
+            tm.setVisibility(View.GONE);
         }
     }
 
@@ -95,16 +176,18 @@ public class QuestionActivity extends AppCompatActivity {
         for (int i = 0; i < 12; i++) {
             TextView tv = views[i];
             if (i < lastLevel)
-                tv.setBackgroundColor(Color.parseColor("#008800"));
+                tv.setBackgroundColor(Color.parseColor("#00AA00"));
             else if (i == lastLevel)
-                tv.setBackgroundColor(Color.parseColor("#008888"));
+                tv.setBackgroundColor(Color.parseColor("#CCCC00"));
         }
+        questionLoaded = false;
         Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
             public void run() {
-                showQuestion();
+                if (!questionLoaded)
+                    showQuestion();
             }
-        }, 2000);
+        }, 3000);
     }
 
     private void showFinalScore() {
