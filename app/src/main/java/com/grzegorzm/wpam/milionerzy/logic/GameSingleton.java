@@ -4,12 +4,12 @@ import com.grzegorzm.wpam.milionerzy.activities.MenuActivity;
 import com.grzegorzm.wpam.milionerzy.model.entity.Question;
 
 import java.util.List;
-import java.util.Map;
 import java.util.Random;
 
 public class GameSingleton {
     public static final int thresholds[] = {500, 1000, 2000, 5000, 10000, 20000, 40000,
             75000, 125000, 250000, 500000, 1000000};
+    public static final int guaranty[] = {1, 6};
     private static GameSingleton instance;
     private QuestionAsked lastQuestion;
     private int lastLevel;
@@ -18,6 +18,7 @@ public class GameSingleton {
     private boolean fiftyFiftyUnused;
     private boolean audienceUnused;
     private boolean telephoneCallUnused;
+    private String endGameMessage;
 
     private GameSingleton() {
         r = new Random();
@@ -52,10 +53,15 @@ public class GameSingleton {
             if (lastLevel != thresholds.length) {
                 totalPoints += lastQuestion.questionPoints();
                 generateNextQuestion();
-            } else
+            } else {
                 lastQuestion = null;
-        } else
+                endGameMessage = "Wygrałeś 1 000 000zł!";
+            }
+        } else {
             lastQuestion = null;
+            String reward = lastLevel <= guaranty[0] ? " 0zł." : lastLevel <= guaranty[1] ? " 1 000zł." : "40 000zł.";
+            endGameMessage = "Przegrałeś.\nNagroda gwarantowana " + reward;
+        }
         return res;
     }
 
@@ -96,5 +102,9 @@ public class GameSingleton {
 
     public boolean isTelephoneCallUnused() {
         return telephoneCallUnused;
+    }
+
+    public String getEndGameMessage() {
+        return endGameMessage;
     }
 }

@@ -15,8 +15,6 @@ public class QuestionAsked {
     private final String[] TELEPHONE_BAD_STARTERS = {"Nie mam pojęcia.", "Nie potrafię Ci pomóc.",
             "Niestety nie wiem."};
     private final Question question;
-    private final String questionText;
-    private final String correctAnswer;
     private List<String> answers;
     private List<Integer> audiencePercentage;
     private String telephoneMessage;
@@ -29,8 +27,6 @@ public class QuestionAsked {
 
     public QuestionAsked(Question question) {
         this.question = question;
-        this.correctAnswer = question.getCorrectAnswer();
-        this.questionText = question.getQuestionText();
         this.answers = new ArrayList<>();
         answers.add(question.getCorrectAnswer());
         answers.add(question.getPossibleAnswer0());
@@ -52,8 +48,8 @@ public class QuestionAsked {
     public void fiftyFifty() {
         List<String> res = new ArrayList<>();
         Random r = new Random();
-        res.add(correctAnswer);
-        answers.remove(correctAnswer);
+        res.add(question.getCorrectAnswer());
+        answers.remove(question.getCorrectAnswer());
         res.add(answers.get(r.nextInt(3)));
         this.answers = res;
     }
@@ -65,7 +61,7 @@ public class QuestionAsked {
         int goodLen = TELEPHONE_GOOD_STARTERS.length;
         int badLen = TELEPHONE_BAD_STARTERS.length;
         if (goodAnswer)
-            telephoneMessage = TELEPHONE_GOOD_STARTERS[r.nextInt(goodLen)] + correctAnswer + ".";
+            telephoneMessage = TELEPHONE_GOOD_STARTERS[r.nextInt(goodLen)] + question.getCorrectAnswer() + ".";
         else if (r.nextInt(2) < 1)
             telephoneMessage = TELEPHONE_GOOD_STARTERS[r.nextInt(goodLen)] + answers.get(r.nextInt(4)) + ".";
         else
@@ -104,7 +100,7 @@ public class QuestionAsked {
         Collections.shuffle(badPercentage);
         int i = 0;
         for (String s : answers)
-            if (s.equals(correctAnswer))
+            if (s.equals(question.getCorrectAnswer()))
                 audiencePercentage.add(correctPercent);
             else
                 audiencePercentage.add(badPercentage.get(i++));
@@ -128,11 +124,11 @@ public class QuestionAsked {
 
     public boolean answerQuestion(String answer) {
         answerTime = new Date();
-        return answer.equals(correctAnswer);
+        return answer.equals(question.getCorrectAnswer());
     }
 
     public String getQuestionText() {
-        return questionText;
+        return question.getQuestionText();
     }
 
     public List<String> getAnswers() {
@@ -145,5 +141,9 @@ public class QuestionAsked {
 
     public String getTelephoneMessage() {
         return telephoneMessage;
+    }
+
+    public Integer getThreshold() {
+        return question.getThreshold();
     }
 }

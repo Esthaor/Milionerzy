@@ -123,13 +123,23 @@
         android:id="@+id/scrollViewQuestion"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:visibility="visible">
+        android:visibility="gone">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewThreshold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:height="60dp"
+                android:gravity="center"
+                android:onClick="audienceOnClick"
+                android:text="threshold" />
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -251,7 +261,7 @@
         android:id="@+id/scrollViewScore"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:visibility="gone">
+        android:visibility="visible">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -262,10 +272,20 @@
             android:orientation="vertical">
 
             <TextView
+                android:id="@+id/textViewEndGame"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:height="40dp"
+                android:gravity="center"
+                android:text="End Game Message" />
+
+            <TextView
                 android:id="@+id/textViewScore"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
+                android:height="40dp"
                 android:gravity="center"
                 android:text="Final Score: " />
 

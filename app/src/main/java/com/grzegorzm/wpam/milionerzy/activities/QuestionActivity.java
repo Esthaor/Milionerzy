@@ -109,6 +109,9 @@ public class QuestionActivity extends AppCompatActivity {
         TextView buttonAnswer4 = findViewById(R.id.buttonAnswer4);
         textView.setText(lastQuestion.getQuestionText());
 
+        TextView textViewThreshold = findViewById(R.id.textViewThreshold);
+        textViewThreshold.setText("Pytanie za: " + lastQuestion.getThreshold().toString());
+
         List<Integer> audiencePercentage = lastQuestion.getAudiencePercentage();
         if (audiencePercentage != null && (audiencePercentage.size() == answers.size())) {
             buttonAnswer1.setText(answers.get(0) + "\t" + audiencePercentage.get(0) + "%");
@@ -176,9 +179,11 @@ public class QuestionActivity extends AppCompatActivity {
         for (int i = 0; i < 12; i++) {
             TextView tv = views[i];
             if (i < lastLevel)
-                tv.setBackgroundColor(Color.parseColor("#00AA00"));
+                tv.setBackgroundColor(Color.rgb(0, 170, 0));
             else if (i == lastLevel)
-                tv.setBackgroundColor(Color.parseColor("#CCCC00"));
+                tv.setBackgroundColor(Color.rgb(204, 204, 0));
+            if (i == GameSingleton.guaranty[0] || i == GameSingleton.guaranty[1])
+                tv.setTextColor(Color.rgb(0, 150, 150));
         }
         questionLoaded = false;
         Handler handler = new Handler();
@@ -198,6 +203,8 @@ public class QuestionActivity extends AppCompatActivity {
         viewQuestion.setVisibility(View.GONE);
         viewScore.setVisibility(View.VISIBLE);
 
+        TextView textViewEndGame = findViewById(R.id.textViewEndGame);
+        textViewEndGame.setText(gs.getEndGameMessage());
         TextView textView = findViewById(R.id.textViewScore);
         textView.setText("Final Score: " + gs.getTotalPoints());
     }
