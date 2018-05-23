@@ -40,6 +40,14 @@
                 android:text="Nowa gra" />
 
             <TextView
+                android:id="@+id/buttonHighScores"
+                style="@style/Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="highScoresOnClick"
+                android:text="Wyniki" />
+
+            <TextView
                 android:id="@+id/buttonExit"
                 style="@style/Button"
                 android:layout_width="match_parent"

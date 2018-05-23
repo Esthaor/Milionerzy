@@ -46,6 +46,11 @@ public class MenuActivity extends AppCompatActivity {
         System.exit(0);
     }
 
+    public void highScoresOnClick(View view) {
+        Intent intent = new Intent(this, HighScoresActivity.class);
+        startActivity(intent);
+    }
+
     @Override
     protected void onResume() {
         super.onResume();

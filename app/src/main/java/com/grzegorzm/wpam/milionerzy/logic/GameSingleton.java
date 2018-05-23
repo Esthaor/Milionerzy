@@ -2,7 +2,10 @@ package com.grzegorzm.wpam.milionerzy.logic;
 
 import com.grzegorzm.wpam.milionerzy.activities.MenuActivity;
 import com.grzegorzm.wpam.milionerzy.model.entity.Question;
+import com.grzegorzm.wpam.milionerzy.model.entity.Score;
 
+import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Random;
 
@@ -10,6 +13,7 @@ public class GameSingleton {
     public static final int thresholds[] = {500, 1000, 2000, 5000, 10000, 20000, 40000,
             75000, 125000, 250000, 500000, 1000000};
     public static final int guaranty[] = {1, 6};
+    public final static int LIFEBUOY_PENALTY = 500;
     private static GameSingleton instance;
     private QuestionAsked lastQuestion;
     private int lastLevel;
@@ -37,6 +41,14 @@ public class GameSingleton {
         lastQuestion = new QuestionAsked(q);
     }
 
+    private void putNewHighScore(int score) {
+        MenuActivity.dbAdapter.insertScore(new Date(), score);
+    }
+
+    public List<Score> getHighScores() {
+        return MenuActivity.dbAdapter.getTop10Score();
+    }
+
     public void startGame() {
         lastLevel = 0;
         totalPoints = 0;
@@ -55,10 +67,12 @@ public class GameSingleton {
                 generateNextQuestion();
             } else {
                 lastQuestion = null;
+                putNewHighScore(totalPoints);
                 endGameMessage = "Wygrałeś 1 000 000zł!";
             }
         } else {
             lastQuestion = null;
+            putNewHighScore(totalPoints);
             String reward = lastLevel <= guaranty[0] ? " 0zł." : lastLevel <= guaranty[1] ? " 1 000zł." : "40 000zł.";
             endGameMessage = "Przegrałeś.\nNagroda gwarantowana " + reward;
         }
@@ -67,16 +81,19 @@ public class GameSingleton {
 
     public void fiftyFifty() {
         fiftyFiftyUnused = false;
+        totalPoints -= LIFEBUOY_PENALTY;
         lastQuestion.fiftyFifty();
     }
 
     public void telephoneCall() {
         telephoneCallUnused = false;
+        totalPoints -= LIFEBUOY_PENALTY;
         lastQuestion.telephoneCall();
     }
 
     public void audience() {
         audienceUnused = false;
+        totalPoints -= LIFEBUOY_PENALTY;
         lastQuestion.audience();
     }
 

@@ -9,14 +9,18 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 import com.grzegorzm.wpam.milionerzy.model.entity.Question;
+import com.grzegorzm.wpam.milionerzy.model.entity.Score;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public class QuestionDbAdapter {
     private static final String DEBUG_TAG = "SqLiteQuestionManager";
 
-    private static final int DB_VERSION = 6;
+    private static final int DB_VERSION = 10;
     private static final String DB_NAME = "database.db";
     static final String DB_QUESTION_TABLE = "question";
 
@@ -38,6 +42,15 @@ public class QuestionDbAdapter {
     public static final String KEY_POSSIBLE_ANSWER_2 = "possible_answer_2";
     public static final int POSSIBLE_ANSWER_2_COLUMN = 6;
 
+    static final String DB_SCORE_TABLE = "score";
+    public static final String KEY_DATE = "date";
+    public static final int DATE_COLUMN = 1;
+    public static final String DATE_OPTIONS = "INTEGER";
+    public static final String KEY_SCORE = "score";
+    public static final int SCORE_COLUMN = 2;
+    public static final String SCORE_OPTIONS = "INTEGER";
+
+
     private static final String DB_CREATE_QUESTION_TABLE =
             "CREATE TABLE " + DB_QUESTION_TABLE + "( " +
                     KEY_ID + " " + ID_OPTIONS + ", " +
@@ -49,7 +62,16 @@ public class QuestionDbAdapter {
                     KEY_POSSIBLE_ANSWER_2 + " " + ALL_FIELD_OPTIONS +
                     ");";
     private static final String DROP_QUESTION_TABLE =
-            "DROP TABLE IF EXISTS " + DB_QUESTION_TABLE;
+            "DROP TABLE IF EXISTS " + DB_QUESTION_TABLE + ";";
+
+    private static final String DB_CREATE_SCORE_TABLE =
+            "CREATE TABLE " + DB_SCORE_TABLE + "( " +
+                    KEY_ID + " " + ID_OPTIONS + ", " +
+                    KEY_DATE + " " + DATE_OPTIONS + ", " +
+                    KEY_SCORE + " " + SCORE_OPTIONS +
+                    ");";
+    private static final String DROP_SCORE_TABLE =
+            "DROP TABLE IF EXISTS " + DB_SCORE_TABLE + ";";
 
     private SQLiteDatabase db;
     private Context context;
@@ -94,6 +116,30 @@ public class QuestionDbAdapter {
         return res;
     }
 
+    public List<Score> getTop10Score() {
+        String[] columns = {KEY_ID, KEY_DATE, KEY_SCORE};
+        String orderBy = KEY_SCORE + " DESC";
+        String limit = "10";
+        Cursor c = db.query(DB_SCORE_TABLE, columns, null, null, null, null,
+                orderBy, limit);
+        List<Score> res = new ArrayList<>();
+        for (c.moveToFirst(); !c.isAfterLast(); c.moveToNext()) {
+            int id = c.getInt(QuestionDbAdapter.ID_COLUMN);
+            long date = c.getLong(QuestionDbAdapter.DATE_COLUMN);
+            int score = c.getInt(QuestionDbAdapter.SCORE_COLUMN);
+            Score s = new Score(id, new Date(date), score);
+            res.add(s);
+        }
+        return res;
+    }
+
+    public void insertScore(Date date, int score) {
+        ContentValues newQuestionValues = new ContentValues();
+        newQuestionValues.put(QuestionDbAdapter.KEY_DATE, date.getTime());
+        newQuestionValues.put(QuestionDbAdapter.KEY_SCORE, score);
+        db.insert(DB_SCORE_TABLE, null, newQuestionValues);
+    }
+
     private static class DatabaseHelper extends SQLiteOpenHelper {
         private Context context;
 
@@ -108,9 +154,11 @@ public class QuestionDbAdapter {
             Log.d(DEBUG_TAG, "Database creating...");
 
             sqldb.execSQL(DB_CREATE_QUESTION_TABLE);
+            sqldb.execSQL(DB_CREATE_SCORE_TABLE);
             QuestionPopulator.createDatabase(sqldb);
 
             Log.d(DEBUG_TAG, "Table " + DB_QUESTION_TABLE + " ver." + DB_VERSION + " created");
+            Log.d(DEBUG_TAG, "Table " + DB_SCORE_TABLE + " ver." + DB_VERSION + " created");
         }
 
         @Override
@@ -118,8 +166,10 @@ public class QuestionDbAdapter {
             Log.d(DEBUG_TAG, "Database updating...");
 
             db.execSQL(DROP_QUESTION_TABLE);
+            db.execSQL(DROP_SCORE_TABLE);
 
             Log.d(DEBUG_TAG, "Table " + DB_QUESTION_TABLE + " updated from ver." + oldVersion + " to ver." + newVersion);
+            Log.d(DEBUG_TAG, "Table " + DB_SCORE_TABLE + " updated from ver." + oldVersion + " to ver." + newVersion);
             Log.d(DEBUG_TAG, "All data is lost.");
 
             onCreate(db);
