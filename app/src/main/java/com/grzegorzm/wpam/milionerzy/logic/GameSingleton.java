@@ -5,7 +5,6 @@ import com.grzegorzm.wpam.milionerzy.model.entity.Question;
 import com.grzegorzm.wpam.milionerzy.model.entity.Save;
 import com.grzegorzm.wpam.milionerzy.model.entity.Score;
 
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Random;

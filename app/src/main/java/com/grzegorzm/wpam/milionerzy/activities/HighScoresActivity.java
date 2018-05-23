@@ -1,7 +1,7 @@
 package com.grzegorzm.wpam.milionerzy.activities;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -14,8 +14,6 @@ import com.grzegorzm.wpam.milionerzy.model.entity.Score;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.List;
-
-import static android.view.View.*;
 
 public class HighScoresActivity extends AppCompatActivity {
 
