@@ -10,4 +10,81 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="Logo">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">50dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:height">200dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textColor">#d6bc28</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:height">60dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#d6bc28</item>
+        <item name="android:layout_marginLeft">25dp</item>
+        <item name="android:layout_marginRight">25dp</item>
+        <item name="android:background">@drawable/border</item>
+    </style>
+
+    <style name="BigText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:height">80dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#d6bc28</item>
+    </style>
+
+    <style name="Lifebuoy">
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:width">60dp</item>
+        <item name="android:height">60dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Question">
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:height">100dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#dfe1f0</item>
+        <item name="android:background">@drawable/question</item>
+    </style>
+
+    <style name="Answer">
+        <item name="android:textSize">15dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:height">50dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textColor">#dfe1f0</item>
+        <item name="android:background">@drawable/answer</item>
+    </style>
+
+    <style name="SubText">
+        <item name="android:textSize">15dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:height">50dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textColor">#dfe1f0</item>
+    </style>
+
+    <style name="Threshold">
+        <item name="android:textSize">15dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#dfe1f0</item>
+    </style>
 </resources>

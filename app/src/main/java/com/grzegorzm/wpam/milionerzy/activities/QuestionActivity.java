@@ -1,6 +1,8 @@
 package com.grzegorzm.wpam.milionerzy.activities;
 
+import android.content.Context;
 import android.graphics.Color;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
@@ -18,6 +20,7 @@ import java.util.regex.Pattern;
 public class QuestionActivity extends AppCompatActivity {
     private GameSingleton gs = GameSingleton.getInstance();
     private static boolean questionLoaded;
+    private boolean clickable;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,23 +28,28 @@ public class QuestionActivity extends AppCompatActivity {
         setContentView(R.layout.activity_question);
         showQuestion();
         TextView fifty = findViewById(R.id.textViewFiftyFifty);
+        Context context = getApplicationContext();
         if (gs.isFiftyFiftyUnused())
-            fifty.setBackgroundColor(Color.argb(0, 255, 255, 255));
+            fifty.setBackground(context.getDrawable(R.drawable.ic_fiftyfifty));
         else
-            fifty.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            fifty.setBackground(context.getDrawable(R.drawable.ic_fiftyfifty_used));
         TextView tel = findViewById(R.id.textViewTelephone);
         if (gs.isTelephoneCallUnused())
-            tel.setBackgroundColor(Color.argb(0, 255, 255, 255));
+            tel.setBackground(context.getDrawable(R.drawable.ic_telephone));
         else
-            tel.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            tel.setBackground(context.getDrawable(R.drawable.ic_telephone_used));
         TextView aud = findViewById(R.id.textViewAudience);
         if (gs.isAudienceUnused())
-            aud.setBackgroundColor(Color.argb(0, 255, 255, 255));
+            aud.setBackground(context.getDrawable(R.drawable.ic_audience));
         else
-            aud.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            aud.setBackground(context.getDrawable(R.drawable.ic_audience_used));
+        clickable = true;
     }
 
-    public void answerOnClick(View view) {
+    public void answerOnClick(final View view) {
+        if (!clickable)
+            return;
+        clickable = false;
         TextView b = (TextView) view;
         String s = String.valueOf(b.getText());
         Pattern pattern = Pattern.compile("(.*)\\t+\\d+%");
@@ -49,11 +57,45 @@ public class QuestionActivity extends AppCompatActivity {
         if (matcher.find()) {
             s = matcher.group(1);
         }
-        gs.answer(s);
-        if (gs.getLastQuestion() == null)
-            showFinalScore();
-        else
-            showThresholds();
+        final Drawable btnSel = getApplicationContext().getDrawable(R.drawable.answer_selected);
+        final Drawable btnCorr = getApplicationContext().getDrawable(R.drawable.answer_correct);
+        view.setBackground(btnSel);
+        int index = gs.getCorrectAnswerIndex();
+        final TextView correctAnswer;
+        switch (index) {
+            case 0:
+                correctAnswer = findViewById(R.id.buttonAnswer1);
+                break;
+            case 1:
+                correctAnswer = findViewById(R.id.buttonAnswer2);
+                break;
+            case 2:
+                correctAnswer = findViewById(R.id.buttonAnswer3);
+                break;
+            default:
+                correctAnswer = findViewById(R.id.buttonAnswer4);
+        }
+        final boolean answer = gs.answer(s);
+        Handler h1 = new Handler();
+        h1.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                if (answer)
+                    view.setBackground(btnCorr);
+                else
+                    correctAnswer.setBackground(btnCorr);
+                Handler h2 = new Handler();
+                h2.postDelayed(new Runnable() {
+                    public void run() {
+                        if (gs.getLastQuestion() == null)
+                            showFinalScore();
+                        else
+                            showThresholds();
+                        clickable = true;
+                    }
+                }, 3000);
+            }
+        }, 2000);
     }
 
     public void okOnClick(View view) {
@@ -61,32 +103,50 @@ public class QuestionActivity extends AppCompatActivity {
     }
 
     public void thresholdOnClick(View view) {
+        if (!clickable)
+            return;
+        clickable = false;
         showQuestion();
+        Handler handler = new Handler();
+        handler.postDelayed(new Runnable() {
+            public void run() {
+                clickable = true;
+            }
+        }, 1000);
     }
 
     public void fiftyOnClick(View view) {
+        if (!clickable)
+            return;
         if (gs.isFiftyFiftyUnused()) {
+            Context context = getApplicationContext();
             gs.fiftyFifty();
             TextView fifty = findViewById(R.id.textViewFiftyFifty);
-            fifty.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            fifty.setBackground(context.getDrawable(R.drawable.ic_fiftyfifty_used));
             showQuestion();
         }
     }
 
     public void audienceOnClick(View view) {
+        if (!clickable)
+            return;
         if (gs.isAudienceUnused()) {
+            Context context = getApplicationContext();
             gs.audience();
             TextView aud = findViewById(R.id.textViewAudience);
-            aud.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            aud.setBackground(context.getDrawable(R.drawable.ic_audience_used));
             showQuestion();
         }
     }
 
     public void telephoneOnClick(View view) {
+        if (!clickable)
+            return;
         if (gs.isTelephoneCallUnused()) {
+            Context context = getApplicationContext();
             gs.telephoneCall();
             TextView tel = findViewById(R.id.textViewTelephone);
-            tel.setBackgroundColor(Color.argb(255, 200, 200, 200));
+            tel.setBackground(context.getDrawable(R.drawable.ic_telephone_used));
             showQuestion();
         }
     }
@@ -102,11 +162,16 @@ public class QuestionActivity extends AppCompatActivity {
         QuestionAsked lastQuestion = gs.getLastQuestion();
         List<String> answers = lastQuestion.getAnswers();
 
+        Drawable btn = getApplicationContext().getDrawable(R.drawable.answer);
         TextView textView = findViewById(R.id.textViewQuestion);
         TextView buttonAnswer1 = findViewById(R.id.buttonAnswer1);
+        buttonAnswer1.setBackground(btn);
         TextView buttonAnswer2 = findViewById(R.id.buttonAnswer2);
+        buttonAnswer2.setBackground(btn);
         TextView buttonAnswer3 = findViewById(R.id.buttonAnswer3);
+        buttonAnswer3.setBackground(btn);
         TextView buttonAnswer4 = findViewById(R.id.buttonAnswer4);
+        buttonAnswer4.setBackground(btn);
         textView.setText(lastQuestion.getQuestionText());
 
         TextView textViewThreshold = findViewById(R.id.textViewThreshold);
@@ -176,14 +241,17 @@ public class QuestionActivity extends AppCompatActivity {
                 findViewById(R.id.textViewLevel11),
                 findViewById(R.id.textViewLevel12)
         };
+        final Drawable btnSel = getApplicationContext().getDrawable(R.drawable.answer_selected);
+        final Drawable btnCorr = getApplicationContext().getDrawable(R.drawable.answer_correct);
+        final Drawable btn = getApplicationContext().getDrawable(R.drawable.answer);
         for (int i = 0; i < 12; i++) {
             TextView tv = views[i];
             if (i < lastLevel)
-                tv.setBackgroundColor(Color.rgb(0, 170, 0));
+                tv.setBackground(btnCorr);
             else if (i == lastLevel)
-                tv.setBackgroundColor(Color.rgb(204, 204, 0));
-            if (i == GameSingleton.guaranty[0] || i == GameSingleton.guaranty[1])
-                tv.setTextColor(Color.rgb(0, 150, 150));
+                tv.setBackground(btnSel);
+            else
+                tv.setBackground(btn);
         }
         questionLoaded = false;
         Handler handler = new Handler();
@@ -192,7 +260,7 @@ public class QuestionActivity extends AppCompatActivity {
                 if (!questionLoaded)
                     showQuestion();
             }
-        }, 3000);
+        }, 5000);
     }
 
     private void showFinalScore() {

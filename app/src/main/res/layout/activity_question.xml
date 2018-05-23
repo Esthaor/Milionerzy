@@ -4,13 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/main_header_selector"
     tools:context=".activities.QuestionActivity">
 
     <ScrollView
         android:id="@+id/scrollViewThreshold"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:visibility="gone">
+        android:visibility="visible">
 
         <LinearLayout
             android:layout_width="fill_parent"
@@ -23,98 +24,89 @@
 
             <TextView
                 android:id="@+id/textViewLevel12"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="1 000 000" />
+                android:text="1 000 000"
+                android:textColor="@color/colorGuaraty" />
 
             <TextView
                 android:id="@+id/textViewLevel11"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="500 000" />
 
             <TextView
                 android:id="@+id/textViewLevel10"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="250 000" />
 
             <TextView
                 android:id="@+id/textViewLevel09"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="125 000" />
 
             <TextView
                 android:id="@+id/textViewLevel08"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="75 000" />
 
             <TextView
                 android:id="@+id/textViewLevel07"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="40 000" />
+                android:text="40 000"
+                android:textColor="@color/colorGuaraty" />
 
             <TextView
                 android:id="@+id/textViewLevel06"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="20 000" />
 
             <TextView
                 android:id="@+id/textViewLevel05"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="10 000" />
 
             <TextView
                 android:id="@+id/textViewLevel04"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="5 000" />
 
             <TextView
                 android:id="@+id/textViewLevel03"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="2 000" />
 
             <TextView
                 android:id="@+id/textViewLevel02"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="1 000" />
+                android:text="1 000"
+                android:textColor="@color/colorGuaraty" />
 
             <TextView
                 android:id="@+id/textViewLevel01"
+                style="@style/Threshold"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:text="500" />
         </LinearLayout>
     </ScrollView>
@@ -128,16 +120,14 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
+            android:layout_gravity="top"
             android:orientation="vertical">
 
             <TextView
                 android:id="@+id/textViewThreshold"
+                style="@style/BigText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:height="60dp"
-                android:gravity="center"
                 android:onClick="audienceOnClick"
                 android:text="threshold" />
 
@@ -150,110 +140,76 @@
 
                 <TextView
                     android:id="@+id/textViewFiftyFifty"
+                    style="@style/Lifebuoy"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:width="60dp"
-                    android:height="60dp"
-                    android:gravity="center"
-                    android:onClick="fiftyOnClick"
-                    android:text="50/50" />
+                    android:background="@drawable/ic_fiftyfifty"
+                    android:onClick="fiftyOnClick" />
 
                 <TextView
                     android:id="@+id/textViewTelephone"
+                    style="@style/Lifebuoy"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:width="60dp"
-                    android:height="60dp"
-                    android:gravity="center"
-                    android:onClick="telephoneOnClick"
-                    android:text="tel" />
+                    android:background="@drawable/ic_telephone"
+                    android:onClick="telephoneOnClick" />
 
                 <TextView
                     android:id="@+id/textViewAudience"
+                    style="@style/Lifebuoy"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:width="60dp"
-                    android:height="60dp"
-                    android:gravity="center"
-                    android:onClick="audienceOnClick"
-                    android:text="aud" />
+                    android:background="@drawable/ic_audience"
+                    android:onClick="audienceOnClick" />
             </LinearLayout>
 
             <TextView
                 android:id="@+id/textViewQuestion"
+                style="@style/Question"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="20dp"
-                android:height="100dp"
-                android:gravity="center"
-                android:text="Question"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                android:text="Question" />
 
             <TextView
                 android:id="@+id/buttonAnswer1"
+                style="@style/Answer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:height="50dp"
-                android:gravity="center"
                 android:onClick="answerOnClick"
-                android:text="Answer 1"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
+                android:text="Answer 1" />
 
             <TextView
                 android:id="@+id/buttonAnswer2"
+                style="@style/Answer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:height="50dp"
-                android:gravity="center"
                 android:onClick="answerOnClick"
-                android:text="Answer 2"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
+                android:text="Answer 2" />
 
             <TextView
                 android:id="@+id/buttonAnswer3"
+                style="@style/Answer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:height="50dp"
-                android:gravity="center"
                 android:onClick="answerOnClick"
-                android:text="Answer 3"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
+                android:text="Answer 3" />
 
 
             <TextView
                 android:id="@+id/buttonAnswer4"
+                style="@style/Answer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:height="50dp"
-                android:gravity="center"
                 android:onClick="answerOnClick"
-                android:text="Answer 4"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
+                android:text="Answer 4" />
 
             <TextView
                 android:id="@+id/textViewTelephoneMessage"
+                style="@style/SubText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:height="50dp"
-                android:gravity="center"
                 android:text="Telephone"
-                android:visibility="gone"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
+                android:visibility="gone" />
         </LinearLayout>
     </ScrollView>
 
@@ -261,7 +217,7 @@
         android:id="@+id/scrollViewScore"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:visibility="visible">
+        android:visibility="gone">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -273,33 +229,25 @@
 
             <TextView
                 android:id="@+id/textViewEndGame"
+                style="@style/BigText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:height="40dp"
-                android:gravity="center"
                 android:text="End Game Message" />
 
             <TextView
                 android:id="@+id/textViewScore"
+                style="@style/SubText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:height="40dp"
-                android:gravity="center"
                 android:text="Final Score: " />
 
-            <Button
+            <TextView
                 android:id="@+id/buttonOk"
+                style="@style/Button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
                 android:onClick="okOnClick"
-                android:text="Menu"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent" />
+                android:text="Menu" />
         </LinearLayout>
     </ScrollView>
 

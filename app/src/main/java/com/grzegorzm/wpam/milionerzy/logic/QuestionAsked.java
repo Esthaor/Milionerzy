@@ -146,4 +146,8 @@ public class QuestionAsked {
     public Integer getThreshold() {
         return question.getThreshold();
     }
+
+    public int getCorrectAnswerIndex() {
+        return answers.indexOf(question.getCorrectAnswer());
+    }
 }

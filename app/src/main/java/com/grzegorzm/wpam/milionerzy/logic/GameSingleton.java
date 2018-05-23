@@ -80,6 +80,10 @@ public class GameSingleton {
         lastQuestion.audience();
     }
 
+    public int getCorrectAnswerIndex() {
+        return lastQuestion.getCorrectAnswerIndex();
+    }
+
     public QuestionAsked getLastQuestion() {
         return lastQuestion;
     }

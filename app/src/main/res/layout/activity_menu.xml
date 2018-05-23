@@ -4,6 +4,7 @@
     android:id="@+id/relativeLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/main_header_selector"
     tools:context=".activities.MenuActivity">
 
     <ScrollView
@@ -16,22 +17,31 @@
             android:layout_gravity="center"
             android:orientation="vertical">
 
-            <Button
+            <TextView
+                style="@style/Logo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="MILIONERZY" />
+
+            <TextView
                 android:id="@+id/buttonResume"
+                style="@style/Button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="resumeOnClick"
                 android:text="Wznów" />
 
-            <Button
+            <TextView
                 android:id="@+id/buttonNewGame"
+                style="@style/Button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="newGameOnClick"
                 android:text="Nowa gra" />
 
-            <Button
+            <TextView
                 android:id="@+id/buttonExit"
+                style="@style/Button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="exitButtonOnClick"
