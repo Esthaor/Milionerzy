@@ -21,6 +21,7 @@ public class MenuActivity extends AppCompatActivity {
         dbAdapter = new QuestionDbAdapter(getApplicationContext());
         dbAdapter.open();
         setContentView(R.layout.activity_menu);
+        gs.loadGame();
 
         TextView resumeButton = findViewById(R.id.buttonResume);
         if (gs.getLastQuestion() != null) {
@@ -54,6 +55,7 @@ public class MenuActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
+        gs.loadGame();
         TextView resumeButton = findViewById(R.id.buttonResume);
         if (gs.getLastQuestion() != null) {
             resumeButton.setVisibility(View.VISIBLE);

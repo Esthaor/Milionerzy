@@ -45,6 +45,12 @@ public class QuestionAsked {
         telephoneMessage = null;
     }
 
+    public static QuestionAsked loadQuestion(Question q) {
+        QuestionAsked qa = new QuestionAsked(q);
+        qa.startTime = new Date(0);
+        return qa;
+    }
+
     public void fiftyFifty() {
         List<String> res = new ArrayList<>();
         Random r = new Random();
@@ -149,5 +155,9 @@ public class QuestionAsked {
 
     public int getCorrectAnswerIndex() {
         return answers.indexOf(question.getCorrectAnswer());
+    }
+
+    public int getQuestionId() {
+        return question.getId();
     }
 }

@@ -2,6 +2,7 @@ package com.grzegorzm.wpam.milionerzy.logic;
 
 import com.grzegorzm.wpam.milionerzy.activities.MenuActivity;
 import com.grzegorzm.wpam.milionerzy.model.entity.Question;
+import com.grzegorzm.wpam.milionerzy.model.entity.Save;
 import com.grzegorzm.wpam.milionerzy.model.entity.Score;
 
 import java.util.ArrayList;
@@ -56,6 +57,27 @@ public class GameSingleton {
         audienceUnused = true;
         telephoneCallUnused = true;
         generateNextQuestion();
+    }
+
+    public void saveGame() {
+        int questionId = lastQuestion == null ? -1 : lastQuestion.getQuestionId();
+        MenuActivity.dbAdapter.insertSave(questionId, lastLevel, totalPoints, fiftyFiftyUnused,
+                audienceUnused, telephoneCallUnused);
+    }
+
+    public void loadGame() {
+        Save lastSave = MenuActivity.dbAdapter.getLastSave();
+        if (lastSave == null)
+            return;
+        Question q = lastSave.getQuestion();
+        if (q != null) {
+            lastLevel = lastSave.getLastLevel();
+            totalPoints = lastSave.getPoints();
+            fiftyFiftyUnused = lastSave.isFiftyFiftyUnused();
+            audienceUnused = lastSave.isAudienceUnused();
+            telephoneCallUnused = lastSave.isTelephoneUnused();
+            lastQuestion = QuestionAsked.loadQuestion(q);
+        }
     }
 
     public boolean answer(String answer) {

@@ -46,6 +46,13 @@ public class QuestionActivity extends AppCompatActivity {
         clickable = true;
     }
 
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        gs.saveGame();
+    }
+
     public void answerOnClick(final View view) {
         if (!clickable)
             return;
@@ -99,6 +106,7 @@ public class QuestionActivity extends AppCompatActivity {
     }
 
     public void okOnClick(View view) {
+        gs.saveGame();
         finish();
     }
 
